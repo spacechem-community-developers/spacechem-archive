@@ -1,7 +1,7 @@
-SOLUTION:Challenge: Going Green,Archiver,3403-1-86,Archived Solution
+SOLUTION:Challenge: Going Green,Archiver,3349-1-86,Archived Solution
 COMPONENT:'drag-advanced-reactor',8,7,''
 MEMBER:'instr-start',-90,0,128,0,2,0,0
-MEMBER:'instr-start',180,0,32,7,7,0,0
+MEMBER:'instr-start',0,0,32,5,5,0,0
 MEMBER:'feature-bonder',-1,0,1,6,3,0,0
 MEMBER:'feature-bonder',-1,0,1,7,4,0,0
 MEMBER:'feature-bonder',-1,0,1,6,4,0,0
@@ -25,7 +25,7 @@ MEMBER:'instr-grab',-1,1,32,3,7,0,0
 MEMBER:'instr-grab',-1,0,32,3,6,0,0
 MEMBER:'instr-grab',-1,0,32,3,5,0,0
 MEMBER:'instr-grab',-1,0,32,3,4,0,0
-MEMBER:'instr-sync',-1,0,32,6,7,0,0
+MEMBER:'instr-sync',-1,0,32,6,6,0,0
 MEMBER:'instr-grab',-1,0,32,3,3,0,0
 MEMBER:'instr-input',-1,0,32,2,1,0,0
 MEMBER:'instr-grab',-1,1,32,3,1,0,0
@@ -41,7 +41,7 @@ MEMBER:'instr-bond',-1,0,32,5,4,0,0
 MEMBER:'instr-grab',-1,1,32,6,4,0,0
 MEMBER:'instr-bond',-1,0,32,5,3,0,0
 MEMBER:'instr-arrow',0,0,16,5,5,0,0
-MEMBER:'instr-output',-1,1,32,6,6,0,0
+MEMBER:'instr-output',-1,1,32,6,7,0,0
 MEMBER:'instr-input',-1,0,128,2,2,0,0
 MEMBER:'instr-arrow',0,0,16,1,1,0,0
 MEMBER:'instr-arrow',90,0,16,4,1,0,0
@@ -88,7 +88,7 @@ MEMBER:'instr-arrow',-90,0,64,9,4,0,0
 MEMBER:'instr-rotate',-1,0,128,6,4,0,0
 MEMBER:'instr-rotate',-1,0,128,7,4,0,0
 MEMBER:'instr-sensor',180,0,128,9,0,0,8
-MEMBER:'instr-sync',-1,0,128,9,4,0,0
+MEMBER:'instr-sync',-1,0,128,7,5,0,0
 MEMBER:'instr-input',-1,0,128,9,3,0,0
 MEMBER:'instr-bond',-1,1,128,6,0,0,0
 MEMBER:'instr-bond',-1,1,128,5,0,0,0
