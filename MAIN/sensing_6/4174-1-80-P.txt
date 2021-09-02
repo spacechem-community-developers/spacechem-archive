@@ -1,4 +1,4 @@
-SOLUTION:Challenge: Going Green,Archiver,4174-1-80,Archived Solution
+SOLUTION:Challenge: Going Green,Archiver,4174-1-80,/P Archived Solution
 COMPONENT:'drag-advanced-reactor',8,7,''
 MEMBER:'instr-start',-90,0,128,0,2,0,0
 MEMBER:'instr-start',180,0,32,3,7,0,0
