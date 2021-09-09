@@ -1,4 +1,4 @@
-SOLUTION:Ethandiamin,Archiver,1666-1-52,Archived Solution
+SOLUTION:Ethandiamin,Archiver,1665-1-52,Archived Solution
 COMPONENT:'drag-starter-reactor',6,13,''
 MEMBER:'instr-start',0,0,32,0,0,0,0
 MEMBER:'instr-start',-90,0,128,1,7,0,0
@@ -41,7 +41,7 @@ MEMBER:'instr-arrow',90,0,64,4,1,0,0
 MEMBER:'instr-arrow',90,0,16,4,2,0,0
 MEMBER:'instr-bond',-1,0,32,1,6,0,0
 MEMBER:'instr-arrow',180,0,64,6,3,0,0
-MEMBER:'instr-output',-1,0,128,6,3,0,0
+MEMBER:'instr-output',-1,0,32,1,1,0,0
 MEMBER:'instr-arrow',0,0,64,4,2,0,0
 MEMBER:'instr-arrow',90,0,64,6,2,0,0
 MEMBER:'instr-grab',-1,2,128,6,2,0,0
@@ -53,7 +53,7 @@ MEMBER:'instr-input',-1,1,32,2,6,0,0
 MEMBER:'instr-grab',-1,1,32,1,5,0,0
 MEMBER:'instr-grab',-1,2,32,1,3,0,0
 MEMBER:'instr-rotate',-1,0,128,2,4,0,0
-MEMBER:'instr-input',-1,0,32,1,1,0,0
+MEMBER:'instr-input',-1,0,32,1,2,0,0
 MEMBER:'instr-toggle',90,0,32,9,1,0,0
 MEMBER:'instr-arrow',180,0,16,9,2,0,0
 MEMBER:'instr-arrow',0,0,16,1,1,0,0
