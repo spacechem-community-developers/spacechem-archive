@@ -1,7 +1,7 @@
-SOLUTION:Better Than Graphene,Archiver,978-1-56,Archived Solution
+SOLUTION:Better Than Graphene,Archiver,978-1-55,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,6,1,0,0
-MEMBER:'instr-start',0,0,32,0,5,0,0
+MEMBER:'instr-start',-90,0,32,1,6,0,0
 MEMBER:'feature-bonder',-1,0,1,1,4,0,0
 MEMBER:'feature-bonder',-1,0,1,1,5,0,0
 MEMBER:'feature-bonder',-1,0,1,5,1,0,0
@@ -59,7 +59,6 @@ MEMBER:'instr-arrow',90,0,64,3,2,0,0
 MEMBER:'instr-arrow',180,0,64,3,5,0,0
 MEMBER:'instr-output',-1,0,32,2,7,0,0
 MEMBER:'instr-bond',-1,0,32,6,1,0,0
-MEMBER:'instr-arrow',-90,0,16,1,5,0,0
 MEMBER:'instr-input',-1,1,128,6,2,0,0
 MEMBER:'instr-bond',-1,1,32,1,1,0,0
 MEMBER:'instr-arrow',-90,0,16,1,6,0,0
