@@ -1,4 +1,4 @@
-SOLUTION:Carbon Splatter,12345ieee,21321-1-123,cycles (copy) (copy)
+SOLUTION:Carbon Splatter,12345ieee,21321-1-123,cycles (copy) (copy) (copy)
 COMPONENT:'drag-nuclear-reactor',18,2,''
 MEMBER:'instr-start',-90,0,128,0,2,0,0
 MEMBER:'instr-start',180,0,32,8,1,0,0
