@@ -1,4 +1,4 @@
-SOLUTION:QT-1,Zig,15-1-14
+SOLUTION:QT-1,Zig,15-1-14,Cycles
 COMPONENT:'drag-quantum-reactor-x',2,0,''
 MEMBER:'instr-start',90,0,128,0,0,0,0
 MEMBER:'instr-start',90,0,32,0,2,0,0
