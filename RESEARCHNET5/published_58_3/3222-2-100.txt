@@ -1,4 +1,4 @@
-SOLUTION:Revenge,Archiver,3222-2-100,Archived Solution
+SOLUTION:Revenge,12345ieee,3222-2-100,gotta go kinda fastish
 COMPONENT:'drag-superbonder-reactor',6,4,''
 MEMBER:'instr-start',-90,0,128,9,3,0,0
 MEMBER:'instr-start',180,0,32,6,6,0,0
