@@ -1,5 +1,5 @@
-SOLUTION:Vereinheitlichung,12345ieee,5661-2-42,2/42
-COMPONENT:'drag-advanced-reactor',4,5,''
+SOLUTION:Vereinheitlichung,12345ieee,5166-2-42,2/42 (copy)
+COMPONENT:'drag-advanced-reactor',5,5,''
 MEMBER:'instr-start',180,0,128,4,3,0,0
 MEMBER:'instr-start',180,0,32,0,7,0,0
 MEMBER:'feature-bonder',-1,0,1,5,5,0,0
@@ -10,16 +10,16 @@ MEMBER:'feature-sensor',-1,0,1,5,4,0,0
 MEMBER:'instr-input',-1,0,128,2,3,0,0
 MEMBER:'instr-grab',-1,1,128,1,3,0,0
 MEMBER:'instr-arrow',0,0,64,1,4,0,0
-MEMBER:'instr-arrow',180,0,64,8,3,0,0
-MEMBER:'instr-grab',-1,2,128,8,3,0,0
-MEMBER:'instr-output',-1,0,128,7,3,0,0
+MEMBER:'instr-arrow',180,0,64,7,3,0,0
+MEMBER:'instr-grab',-1,2,128,7,3,0,0
+MEMBER:'instr-output',-1,0,128,6,3,0,0
 MEMBER:'instr-arrow',0,0,64,3,7,0,0
 MEMBER:'instr-grab',-1,1,128,5,7,0,0
 MEMBER:'instr-grab',-1,2,128,6,7,0,0
 MEMBER:'instr-bond',-1,1,128,7,7,0,0
-MEMBER:'instr-bond',-1,1,128,8,7,0,0
-MEMBER:'instr-output',-1,1,128,8,6,0,0
-MEMBER:'instr-arrow',-90,0,64,8,7,0,0
+MEMBER:'instr-bond',-1,1,128,7,6,0,0
+MEMBER:'instr-output',-1,1,128,7,5,0,0
+MEMBER:'instr-arrow',-90,0,64,7,7,0,0
 MEMBER:'instr-sensor',90,0,128,3,3,0,1
 MEMBER:'instr-bond',-1,0,128,3,6,0,0
 MEMBER:'instr-sensor',90,0,128,3,4,0,1
@@ -28,7 +28,7 @@ MEMBER:'instr-grab',-1,2,128,3,7,0,0
 MEMBER:'instr-arrow',90,0,64,4,4,0,0
 MEMBER:'instr-arrow',0,0,64,4,7,0,0
 MEMBER:'instr-sensor',0,0,128,4,4,0,1
-MEMBER:'instr-arrow',-90,0,64,8,4,0,0
+MEMBER:'instr-arrow',-90,0,64,7,4,0,0
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,4,0
@@ -47,7 +47,6 @@ PIPE:0,14,-2
 PIPE:0,15,-2
 PIPE:0,16,-2
 PIPE:0,17,-2
-PIPE:0,18,-2
 PIPE:1,5,2
 PIPE:1,6,2
 PIPE:1,7,2
@@ -56,8 +55,7 @@ PIPE:1,9,2
 PIPE:1,10,2
 PIPE:1,11,2
 PIPE:1,12,2
-PIPE:1,13,2
-PIPE:1,13,3
+PIPE:1,12,3
 ANNOTATION:0,1,0,0,'\n\r\n\r\n\r'
 ANNOTATION:1,1,0,0,'0,1:0,6;0,0:0,1;\n0,0,0:1;\r0,3:0,1;0,2:0,6;\n0,2,0:1;\r\n\r'
 COMPONENT:'drag-superbonder-reactor',18,7,''
@@ -87,9 +85,9 @@ MEMBER:'instr-grab',-1,2,128,7,4,0,0
 MEMBER:'instr-output',-1,0,128,6,0,0,0
 MEMBER:'instr-arrow',180,0,64,7,4,0,0
 MEMBER:'instr-arrow',-90,0,64,0,4,0,0
-MEMBER:'instr-bond',-1,0,128,9,1,0,0
-MEMBER:'instr-arrow',-90,0,64,9,1,0,0
-MEMBER:'instr-arrow',180,0,64,9,0,0,0
+MEMBER:'instr-bond',-1,0,128,8,0,0,0
+MEMBER:'instr-arrow',-90,0,64,8,1,0,0
+MEMBER:'instr-arrow',180,0,64,8,0,0,0
 MEMBER:'instr-arrow',90,0,64,0,0,0,0
 PIPE:0,4,1
 PIPE:1,4,2
@@ -97,3 +95,6 @@ PIPE:1,4,3
 PIPE:1,4,4
 PIPE:1,4,5
 PIPE:1,4,6
+COMPONENT:'drag-arbitrary-input',1,5,''
+PIPE:0,2,1
+PIPE:0,3,1
