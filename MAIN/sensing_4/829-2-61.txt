@@ -1,4 +1,4 @@
-SOLUTION:No Ordinary Headache,Zig,829-2-61
+SOLUTION:No Ordinary Headache,Zig,829-2-61,Cycles
 COMPONENT:'drag-advanced-reactor',11,17,''
 MEMBER:'instr-start',-90,0,128,2,6,0,0
 MEMBER:'instr-start',0,0,32,1,1,0,0
