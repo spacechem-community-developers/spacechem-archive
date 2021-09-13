@@ -1,4 +1,4 @@
-SOLUTION:Fertigprodukt,12345ieee,3165-6-348,Sync bad
+SOLUTION:Fertigprodukt,12345ieee,3165-6-348,Sync bad (copy)
 COMPONENT:'drag-arbitrary-input',3,18,''
 PIPE:0,2,1
 PIPE:0,2,0
