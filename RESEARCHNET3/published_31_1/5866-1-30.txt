@@ -1,4 +1,4 @@
-SOLUTION:Sulfuric Acid,12345ieee,5866-1-30,(Default Solution) (copy) (copy) (copy) (copy)
+SOLUTION:Sulfuric Acid,12345ieee,5866-1-30,(Default Solution) (copy) (copy) (copy) (copy) (copy)
 COMPONENT:'drag-starter-reactor',6,7,''
 MEMBER:'instr-start',180,0,128,6,1,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0
@@ -8,7 +8,7 @@ MEMBER:'feature-bonder',-1,0,1,7,5,0,0
 MEMBER:'feature-bonder',-1,0,1,7,6,0,0
 MEMBER:'instr-output',-1,1,32,0,7,0,0
 MEMBER:'instr-toggle',90,0,128,3,1,0,0
-MEMBER:'instr-input',-1,1,128,2,2,0,0
+MEMBER:'instr-input',-1,1,128,2,4,0,0
 MEMBER:'instr-grab',-1,1,128,2,5,0,0
 MEMBER:'instr-arrow',0,0,64,2,5,0,0
 MEMBER:'instr-bond',-1,1,128,7,5,0,0
