@@ -1,4 +1,4 @@
-SOLUTION:Haber-Bosch,12345ieee,2165-2-91,sharing is caring (copy) (copy) (copy) (copy) (copy)
+SOLUTION:Haber-Bosch,12345ieee,2165-2-91,sharing is caring (copy) (copy) (copy) (copy) (copy) (copy)
 COMPONENT:'drag-advanced-reactor',6,7,''
 MEMBER:'instr-start',180,0,128,6,2,0,0
 MEMBER:'instr-start',90,0,32,4,4,0,0
