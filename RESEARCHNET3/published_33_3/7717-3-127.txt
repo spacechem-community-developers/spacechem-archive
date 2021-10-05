@@ -1,4 +1,4 @@
-SOLUTION:Photovoltaic Cells,whoever314,7718-3-129,gotta go fast (copy) (copy) (copy)
+SOLUTION:Photovoltaic Cells,whoever314,7717-3-127,gotta go fast (copy) (copy) (copy)
 COMPONENT:'drag-superbonder-reactor',12,5,''
 MEMBER:'instr-start',90,0,128,1,0,0,0
 MEMBER:'instr-start',90,0,32,7,0,0,0
@@ -218,7 +218,7 @@ MEMBER:'feature-bonder',-1,0,1,0,3,0,0
 MEMBER:'feature-bonder',-1,0,1,5,6,0,0
 MEMBER:'feature-bonder',-1,0,1,3,4,0,0
 MEMBER:'instr-input',-1,0,32,4,1,0,0
-MEMBER:'instr-input',-1,0,32,5,7,0,0
+MEMBER:'instr-input',-1,0,128,3,5,0,0
 MEMBER:'instr-input',-1,1,128,0,6,0,0
 MEMBER:'instr-sync',-1,0,32,3,0,0,0
 MEMBER:'instr-bond',-1,0,32,5,1,0,0
@@ -240,9 +240,8 @@ MEMBER:'instr-grab',-1,2,128,5,7,0,0
 MEMBER:'instr-arrow',0,0,64,2,3,0,0
 MEMBER:'instr-grab',-1,2,128,8,2,0,0
 MEMBER:'instr-arrow',180,0,64,8,6,0,0
-MEMBER:'instr-output',-1,1,32,8,1,0,0
+MEMBER:'instr-output',-1,1,32,6,2,0,0
 MEMBER:'instr-output',-1,0,128,8,3,0,0
-MEMBER:'instr-arrow',180,0,16,8,1,0,0
 MEMBER:'instr-sync',-1,0,128,2,1,0,0
 MEMBER:'instr-sync',-1,0,32,6,1,0,0
 MEMBER:'instr-bond',-1,0,128,4,4,0,0
@@ -257,20 +256,19 @@ MEMBER:'instr-arrow',-90,0,64,0,6,0,0
 MEMBER:'instr-arrow',-90,0,64,7,4,0,0
 MEMBER:'instr-arrow',0,0,64,7,2,0,0
 MEMBER:'instr-arrow',90,0,64,8,4,0,0
-MEMBER:'instr-sync',-1,0,128,3,5,0,0
-MEMBER:'instr-sync',-1,0,32,6,7,0,0
+MEMBER:'instr-sync',-1,0,128,8,5,0,0
+MEMBER:'instr-sync',-1,0,32,5,2,0,0
 MEMBER:'instr-arrow',-90,0,64,4,7,0,0
 MEMBER:'instr-bond',-1,1,128,5,6,0,0
 MEMBER:'instr-bond',-1,0,128,3,4,0,0
 MEMBER:'instr-arrow',0,0,64,3,4,0,0
-MEMBER:'instr-arrow',0,0,16,3,7,0,0
 MEMBER:'instr-arrow',180,0,64,4,5,0,0
 MEMBER:'instr-toggle',90,0,32,3,1,0,0
-MEMBER:'instr-toggle',90,0,32,3,2,0,0
+MEMBER:'instr-toggle',0,0,32,3,2,0,0
 MEMBER:'instr-arrow',0,0,16,3,1,0,0
 MEMBER:'instr-arrow',90,0,16,3,0,0,0
 MEMBER:'instr-arrow',-90,0,16,3,2,0,0
-MEMBER:'instr-arrow',-90,0,16,8,7,0,0
+MEMBER:'instr-arrow',-90,0,16,6,2,0,0
 MEMBER:'instr-arrow',-90,0,16,6,1,0,0
 MEMBER:'instr-arrow',180,0,16,6,0,0,0
 MEMBER:'instr-arrow',-90,0,64,3,5,0,0
