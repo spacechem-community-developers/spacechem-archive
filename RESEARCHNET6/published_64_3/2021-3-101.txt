@@ -1,4 +1,4 @@
-SOLUTION:Nightmare Factory,12345ieee,2021-3-101,rc (copy)
+SOLUTION:Nightmare Factory,12345ieee,2021-3-101,rc
 COMPONENT:'drag-advanced-reactor',6,12,''
 MEMBER:'instr-start',180,0,128,6,3,0,0
 MEMBER:'instr-start',90,0,32,1,4,0,0

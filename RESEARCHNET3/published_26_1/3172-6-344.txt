@@ -1,4 +1,4 @@
-SOLUTION:Fertigprodukt,12345ieee,3172-6-344,Unnamed Solution (copy) (copy) (copy) (copy)
+SOLUTION:Fertigprodukt,12345ieee,3172-6-344,Unnamed Solution
 COMPONENT:'drag-arbitrary-input',3,18,''
 PIPE:0,2,1
 PIPE:0,2,0

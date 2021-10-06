@@ -1,4 +1,4 @@
-SOLUTION:Novel Semiconductor,whoever314,8671-1-72,Discord Chat (copy) (copy)
+SOLUTION:Novel Semiconductor,whoever314,8671-1-72,Discord Chat
 COMPONENT:'drag-advanced-reactor',6,6,''
 MEMBER:'instr-start',180,0,32,9,0,0,0
 MEMBER:'instr-start',180,0,128,9,3,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Impostor,12345ieee,6225-2-169,Faster R1 (copy) (copy)
+SOLUTION:Impostor,12345ieee,6225-2-169,Faster R1
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',180,0,128,9,4,0,0
 MEMBER:'instr-start',0,0,32,2,5,0,0

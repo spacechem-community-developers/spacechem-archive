@@ -1,4 +1,4 @@
-SOLUTION:A New Beginning,12345ieee,33720-5-179,sol 15 (copy)
+SOLUTION:A New Beginning,12345ieee,33720-5-179,sol 15
 COMPONENT:'drag-nuclear-reactor',2,8,''
 MEMBER:'instr-start',-90,0,128,7,5,0,0
 MEMBER:'instr-start',0,0,32,9,7,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Haber-Bosch,12345ieee,2653-2-83,gotta go fast (copy) (copy) (copy) (copy) (copy)
+SOLUTION:Haber-Bosch,12345ieee,2653-2-83,gotta go fast
 COMPONENT:'drag-advanced-reactor',6,7,''
 MEMBER:'instr-start',180,0,128,6,0,0,0
 MEMBER:'instr-start',180,0,32,7,6,0,0

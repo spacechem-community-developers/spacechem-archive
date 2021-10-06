@@ -1,4 +1,4 @@
-SOLUTION:Homogenizer,12345ieee,4830-2-80,Unnamed Solution (copy) (copy) (copy) (copy)
+SOLUTION:Homogenizer,12345ieee,4830-2-80,Unnamed Solution
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',180,0,32,5,5,0,0
 MEMBER:'instr-start',180,0,128,4,5,0,0

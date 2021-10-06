@@ -1,4 +1,4 @@
-SOLUTION:Haber-Bosch,whoever314,2072-2-90,12345ieee (copy)
+SOLUTION:Haber-Bosch,whoever314,2072-2-90,12345ieee
 COMPONENT:'drag-advanced-reactor',6,7,''
 MEMBER:'instr-start',180,0,32,3,0,0,0
 MEMBER:'instr-start',180,0,128,4,4,0,0

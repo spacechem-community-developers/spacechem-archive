@@ -1,4 +1,4 @@
-SOLUTION:Molting,12345ieee,808-1-36,(Default Solution) (copy) (copy) (copy)
+SOLUTION:Molting,12345ieee,808-1-36,(Default Solution)
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,6,1,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

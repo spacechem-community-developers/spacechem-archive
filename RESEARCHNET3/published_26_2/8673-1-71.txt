@@ -1,4 +1,4 @@
-SOLUTION:Novel Semiconductor,12345ieee,8673-1-71,Discord Chat (copy)
+SOLUTION:Novel Semiconductor,12345ieee,8673-1-71,Discord Chat
 COMPONENT:'drag-advanced-reactor',6,6,''
 MEMBER:'instr-start',0,0,32,1,0,0,0
 MEMBER:'instr-start',-90,0,128,2,6,0,0
