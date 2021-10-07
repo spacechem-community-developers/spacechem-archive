@@ -1,4 +1,4 @@
-SOLUTION:1,3-Dimetoxibencene,Archiver,353-1-57,Archived Solution
+SOLUTION:'1,3-Dimetoxibencene',Archiver,353-1-57,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,0,4,0,0
 MEMBER:'instr-start',-90,0,32,0,2,0,0
