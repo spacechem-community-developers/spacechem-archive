@@ -1,4 +1,4 @@
-SOLUTION:1,2,3-Triphenol,Archiver,526-1-49,Archived Solution
+SOLUTION:'1,2,3-Triphenol',Archiver,526-1-49,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,4,0,0
 MEMBER:'instr-start',90,0,32,2,1,0,0
