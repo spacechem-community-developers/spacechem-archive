@@ -1,4 +1,4 @@
-SOLUTION:Photovoltaic Cells,12345ieee,9356-2-171,on the plus side...
+SOLUTION:Photovoltaic Cells,12345ieee,9223-2-170,on the plus side...
 COMPONENT:'drag-arbitrary-input',3,18,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -72,12 +72,11 @@ MEMBER:'instr-arrow',-90,0,16,1,2,0,0
 MEMBER:'instr-arrow',180,0,16,7,2,0,0
 MEMBER:'instr-arrow',180,0,16,3,2,0,0
 MEMBER:'instr-arrow',-90,0,64,9,7,0,0
-MEMBER:'instr-bond',-1,1,128,9,7,0,0
 MEMBER:'instr-sync',-1,0,128,9,5,0,0
-MEMBER:'instr-arrow',90,0,64,9,1,0,0
-MEMBER:'instr-bond',-1,1,128,6,4,0,0
+MEMBER:'instr-arrow',90,0,64,9,2,0,0
+MEMBER:'instr-bond',-1,1,32,5,1,0,0
 MEMBER:'instr-toggle',180,0,128,9,3,0,0
-MEMBER:'instr-bond',-1,1,128,7,3,0,0
+MEMBER:'instr-bond',-1,1,128,6,4,0,0
 MEMBER:'instr-arrow',90,0,64,6,3,0,0
 MEMBER:'instr-output',-1,0,32,2,1,0,0
 MEMBER:'instr-toggle',180,0,128,9,6,0,0
