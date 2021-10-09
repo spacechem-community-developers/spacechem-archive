@@ -1,4 +1,4 @@
-SOLUTION:Nobility,12345ieee,4885-2-94,Latency games
+SOLUTION:Nobility,12345ieee,4885-2-94,Latency games (copy)
 COMPONENT:'drag-nuclear-reactor',6,4,''
 MEMBER:'instr-start',180,0,32,3,4,0,0
 MEMBER:'instr-start',0,0,128,0,5,0,0
