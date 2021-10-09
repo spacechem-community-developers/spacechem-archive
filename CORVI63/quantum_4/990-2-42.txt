@@ -71,6 +71,8 @@ PIPE:1,15,2
 PIPE:1,16,2
 PIPE:1,17,2
 PIPE:1,18,2
+ANNOTATION:0,1,-319,-218,'2,3:0,74;\n\r\n\r\n\r'
+ANNOTATION:1,1,-184,-248,'2,0:0,8;\n\r\n\r\n\r'
 COMPONENT:'drag-quantum-reactor',17,2,''
 MEMBER:'instr-start',-90,0,128,8,5,0,0
 MEMBER:'instr-start',0,0,32,6,7,0,0
