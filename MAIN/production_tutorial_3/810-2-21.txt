@@ -1,4 +1,4 @@
-SOLUTION:Sleepless on Sernimir IV,Zig,810-2-21,Unnamed Solution
+SOLUTION:Sleepless on Sernimir IV,Zig,810-2-21
 COMPONENT:'drag-starter-reactor',12,9,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0
