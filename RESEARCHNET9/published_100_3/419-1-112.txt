@@ -1,4 +1,4 @@
-SOLUTION:Upscale Downscale,12345ieee,419-1-112,Unnamed Solution
+SOLUTION:Upscale Downscale,12345ieee,419-1-112,Unnamed Solution (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,32,1,1,0,0
 MEMBER:'instr-start',-90,0,128,8,6,0,0
