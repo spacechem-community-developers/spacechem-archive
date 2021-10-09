@@ -1,4 +1,4 @@
-SOLUTION:An Introduction to Sensing,12345ieee,236-1-11
+SOLUTION:An Introduction to Sensing,12345ieee,236-1-11,Unnamed Solution
 COMPONENT:'drag-advanced-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,6,2,0,0
 MEMBER:'instr-start',-90,0,32,0,2,0,0
