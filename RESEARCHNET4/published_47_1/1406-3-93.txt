@@ -37,12 +37,14 @@ MEMBER:'instr-arrow',-90,0,16,2,4,0,0
 MEMBER:'instr-arrow',0,0,16,2,3,0,0
 MEMBER:'instr-output',-1,0,32,7,3,0,0
 PIPE:0,4,1
+PIPE:1,4,2
 PIPE:0,5,1
 PIPE:0,6,1
 PIPE:0,7,1
 PIPE:0,8,1
 PIPE:0,9,1
-PIPE:1,4,2
+ANNOTATION:0,0,0,0,'1,2:0,43;\n\r\n\r\n\r'
+ANNOTATION:1,1,0,0,'\n\r\n\r\n\r'
 COMPONENT:'drag-nuclear-reactor',6,12,''
 MEMBER:'instr-start',180,0,128,2,6,0,0
 MEMBER:'instr-start',180,0,32,9,7,0,0
@@ -92,6 +94,7 @@ MEMBER:'instr-arrow',90,0,16,9,6,0,0
 MEMBER:'instr-arrow',180,0,16,9,7,0,0
 MEMBER:'instr-output',-1,0,128,7,3,0,0
 PIPE:0,4,1
+PIPE:1,4,2
 PIPE:0,4,0
 PIPE:0,4,-1
 PIPE:0,4,-2
@@ -109,7 +112,6 @@ PIPE:0,0,-9
 PIPE:0,-1,-9
 PIPE:0,-1,-8
 PIPE:0,-1,-7
-PIPE:1,4,2
 PIPE:1,5,2
 PIPE:1,5,1
 PIPE:1,5,0
@@ -123,6 +125,8 @@ PIPE:1,6,-6
 PIPE:1,7,-6
 PIPE:1,8,-6
 PIPE:1,9,-6
+ANNOTATION:0,0,0,0,'1,2:0,32;\n\r\n\r\n\r'
+ANNOTATION:1,0,0,0,'1,1:0,8;\n\r\n\r\n\r'
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -163,12 +167,12 @@ MEMBER:'instr-arrow',90,0,16,7,2,0,0
 MEMBER:'instr-arrow',180,0,16,7,3,0,0
 MEMBER:'instr-output',-1,0,32,7,3,0,0
 PIPE:0,4,1
+PIPE:1,4,2
+PIPE:1,4,1
 PIPE:0,5,1
 PIPE:0,5,0
 PIPE:0,5,-1
 PIPE:0,6,-1
-PIPE:1,4,2
-PIPE:1,4,1
 PIPE:1,4,0
 PIPE:1,5,0
 PIPE:1,6,0
