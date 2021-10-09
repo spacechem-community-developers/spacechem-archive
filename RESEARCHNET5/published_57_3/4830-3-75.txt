@@ -1,4 +1,4 @@
-SOLUTION:Carbon Splatter,12345ieee,4830-3-75,Sync bad (copy) (copy)
+SOLUTION:Carbon Splatter,12345ieee,4830-3-75,Sync bad
 COMPONENT:'drag-superbonder-reactor',7,4,''
 MEMBER:'instr-start',90,0,128,1,4,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

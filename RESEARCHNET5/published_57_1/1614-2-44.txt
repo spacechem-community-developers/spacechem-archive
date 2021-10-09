@@ -1,4 +1,4 @@
-SOLUTION:Benzene Machine,12345ieee,1614-2-44,(Default Solution) (copy) (copy) (copy)
+SOLUTION:Benzene Machine,12345ieee,1614-2-44,(Default Solution)
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,2

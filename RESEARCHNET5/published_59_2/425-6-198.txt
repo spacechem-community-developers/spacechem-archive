@@ -1,4 +1,4 @@
-SOLUTION:Carbon Compounds,12345ieee,425-6-198,Saved some symbols (copy)
+SOLUTION:Carbon Compounds,12345ieee,425-6-198,Saved some symbols
 COMPONENT:'drag-advanced-reactor',4,4,''
 MEMBER:'instr-start',0,0,32,0,4,0,0
 MEMBER:'instr-start',-90,0,128,9,5,0,0

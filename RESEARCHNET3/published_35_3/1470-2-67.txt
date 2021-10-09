@@ -1,4 +1,4 @@
-SOLUTION:Vereinheitlichung,12345ieee,1470-2-67,Unnamed Solution (copy) (copy) (copy) (copy)
+SOLUTION:Vereinheitlichung,12345ieee,1470-2-67,Unnamed Solution
 COMPONENT:'drag-advanced-reactor',4,5,''
 MEMBER:'instr-start',-90,0,128,6,6,0,0
 MEMBER:'instr-start',-90,0,32,0,4,0,0

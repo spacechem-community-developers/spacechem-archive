@@ -1,4 +1,4 @@
-SOLUTION:Boron Compounds,12345ieee,1229-5-187,Unnamed Solution (copy) (copy)
+SOLUTION:Boron Compounds,12345ieee,1229-5-187,Unnamed Solution
 COMPONENT:'drag-disassembly-reactor',6,5,''
 MEMBER:'instr-start',180,0,128,7,0,0,0
 MEMBER:'instr-start',180,0,32,4,0,0,0

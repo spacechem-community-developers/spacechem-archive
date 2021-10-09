@@ -1,4 +1,4 @@
-SOLUTION:Discombobulate,12345ieee,5421-3-227,/P Unnamed Solution (copy) (copy) (copy)
+SOLUTION:Discombobulate,12345ieee,5421-3-227,/P Unnamed Solution
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
