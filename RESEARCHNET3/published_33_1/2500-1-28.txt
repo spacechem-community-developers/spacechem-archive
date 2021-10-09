@@ -1,4 +1,4 @@
-SOLUTION:Radiation Treatment,12345ieee,2500-1-28,symbols
+SOLUTION:Radiation Treatment,12345ieee,2500-1-28,a
 COMPONENT:'drag-nuclear-reactor',18,2,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',90,0,32,2,3,0,0
