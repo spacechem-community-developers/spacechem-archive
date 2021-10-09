@@ -1,4 +1,4 @@
-SOLUTION:Photovoltaic Cells,whoever314,7717-2-171,'big, very big'
+SOLUTION:Photovoltaic Cells,12345ieee,7713-2-171,'big, very big'
 COMPONENT:'drag-arbitrary-input',3,18,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -103,7 +103,7 @@ MEMBER:'instr-arrow',90,0,16,8,4,0,0
 MEMBER:'instr-bond',-1,1,32,7,7,0,0
 MEMBER:'instr-arrow',180,0,16,8,0,0,0
 MEMBER:'instr-bond',-1,0,128,4,4,0,0
-MEMBER:'instr-toggle',0,0,128,6,4,0,0
+MEMBER:'instr-toggle',180,0,128,6,4,0,0
 MEMBER:'instr-arrow',180,0,64,5,5,0,0
 MEMBER:'instr-arrow',-90,0,64,7,4,0,0
 MEMBER:'instr-grab',-1,0,32,2,6,0,0
@@ -144,13 +144,10 @@ MEMBER:'instr-arrow',180,0,64,2,2,0,0
 MEMBER:'instr-arrow',180,0,64,3,5,0,0
 MEMBER:'instr-arrow',-90,0,64,2,5,0,0
 MEMBER:'instr-bond',-1,1,128,2,5,0,0
-MEMBER:'instr-sync',-1,0,32,1,4,0,0
-MEMBER:'instr-sync',-1,0,128,6,7,0,0
 MEMBER:'instr-arrow',180,0,64,4,3,0,0
 MEMBER:'instr-arrow',90,0,64,5,4,0,0
-MEMBER:'instr-arrow',180,0,64,6,4,0,0
 MEMBER:'instr-bond',-1,1,128,4,5,0,0
-MEMBER:'instr-arrow',-90,0,64,2,7,0,0
+MEMBER:'instr-arrow',180,0,64,6,2,0,0
 MEMBER:'instr-input',-1,0,128,0,1,0,0
 MEMBER:'instr-grab',-1,1,128,0,0,0,0
 MEMBER:'instr-arrow',0,0,64,0,0,0,0
@@ -159,21 +156,24 @@ MEMBER:'instr-output',-1,0,128,3,0,0,0
 MEMBER:'instr-arrow',180,0,64,8,6,0,0
 MEMBER:'instr-arrow',-90,0,64,0,6,0,0
 MEMBER:'instr-toggle',90,0,128,8,0,0,0
-MEMBER:'instr-toggle',180,0,128,9,7,0,0
+MEMBER:'instr-toggle',180,0,128,9,5,0,0
 MEMBER:'instr-toggle',180,0,128,9,2,0,0
-MEMBER:'instr-toggle',180,0,128,9,3,0,0
-MEMBER:'instr-toggle',90,0,128,9,5,0,0
-MEMBER:'instr-toggle',90,0,128,9,6,0,0
-MEMBER:'instr-arrow',-90,0,64,9,7,0,0
-MEMBER:'instr-arrow',180,0,64,9,6,0,0
+MEMBER:'instr-toggle',90,0,128,9,3,0,0
+MEMBER:'instr-toggle',90,0,128,7,0,0,0
+MEMBER:'instr-toggle',90,0,128,9,4,0,0
+MEMBER:'instr-arrow',-90,0,64,9,5,0,0
+MEMBER:'instr-arrow',180,0,64,9,4,0,0
 MEMBER:'instr-arrow',90,0,64,8,2,0,0
 MEMBER:'instr-arrow',90,0,64,8,3,0,0
-MEMBER:'instr-arrow',90,0,64,8,5,0,0
-MEMBER:'instr-toggle',180,0,128,9,4,0,0
 MEMBER:'instr-arrow',90,0,64,8,4,0,0
+MEMBER:'instr-toggle',180,0,128,9,1,0,0
+MEMBER:'instr-arrow',90,0,64,8,1,0,0
 MEMBER:'instr-arrow',90,0,16,3,0,0,0
 MEMBER:'instr-arrow',90,0,64,9,0,0,0
-MEMBER:'instr-arrow',180,0,64,9,5,0,0
+MEMBER:'instr-arrow',180,0,64,9,3,0,0
+MEMBER:'instr-arrow',-90,0,64,6,5,0,0
+MEMBER:'instr-arrow',0,0,64,7,1,0,0
+MEMBER:'instr-bond',-1,1,128,5,2,0,0
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:1,5,2
