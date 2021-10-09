@@ -1,4 +1,4 @@
-SOLUTION:Nightmare Factory,12345ieee,5060-3-39,stealing from Andy is too easy
+SOLUTION:Nightmare Factory,12345ieee,5060-3-39,stealing from Andy is too easy (copy)
 COMPONENT:'drag-advanced-reactor',6,12,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',90,0,32,1,3,0,0
