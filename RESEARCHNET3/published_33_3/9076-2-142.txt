@@ -1,4 +1,4 @@
-SOLUTION:Photovoltaic Cells,whoever314,9076-2-145,'it''s slow on purpose, I swear'
+SOLUTION:Photovoltaic Cells,12345ieee,9076-2-142,'it''s slow on purpose, I swear'
 COMPONENT:'drag-arbitrary-input',3,18,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -417,7 +417,7 @@ MEMBER:'feature-bonder',-1,0,1,1,1,0,0
 MEMBER:'feature-bonder',-1,0,1,2,2,0,0
 MEMBER:'feature-bonder',-1,0,1,6,3,0,0
 MEMBER:'feature-bonder',-1,0,1,7,3,0,0
-MEMBER:'instr-input',-1,0,32,7,5,0,0
+MEMBER:'instr-input',-1,0,128,8,0,0,0
 MEMBER:'instr-input',-1,1,32,6,5,0,0
 MEMBER:'instr-bond',-1,1,32,4,5,0,0
 MEMBER:'instr-sync',-1,0,32,5,5,0,0
@@ -444,7 +444,6 @@ MEMBER:'instr-arrow',180,0,16,7,5,0,0
 MEMBER:'instr-sync',-1,0,128,2,1,0,0
 MEMBER:'instr-grab',-1,1,128,1,1,0,0
 MEMBER:'instr-arrow',90,0,64,1,1,0,0
-MEMBER:'instr-toggle',180,0,32,7,4,0,0
 MEMBER:'instr-grab',-1,1,32,3,3,0,0
 MEMBER:'instr-toggle',180,0,128,9,1,0,0
 MEMBER:'instr-rotate',-1,0,32,6,3,0,0
@@ -457,8 +456,6 @@ MEMBER:'instr-grab',-1,2,32,7,2,0,0
 MEMBER:'instr-arrow',90,0,16,7,2,0,0
 MEMBER:'instr-toggle',-90,0,128,5,2,0,0
 MEMBER:'instr-output',-1,1,128,9,2,0,0
-MEMBER:'instr-arrow',90,0,16,6,4,0,0
-MEMBER:'instr-arrow',180,0,16,6,5,0,0
 MEMBER:'instr-arrow',180,0,64,2,2,0,0
 MEMBER:'instr-arrow',180,0,64,9,0,0,0
 MEMBER:'instr-arrow',90,0,64,2,0,0,0
