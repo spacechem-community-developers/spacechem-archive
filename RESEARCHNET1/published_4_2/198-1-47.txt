@@ -1,4 +1,4 @@
-SOLUTION:Propane Accessories,whoever314,198-1-47
+SOLUTION:Propane Accessories,whoever314,198-1-47,198-1-47
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,3,0,0,0
 MEMBER:'instr-start',-90,0,32,1,6,0,0
