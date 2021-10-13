@@ -1,4 +1,4 @@
-SOLUTION:Discombobulate,whoever314,4991-3-229,faster r2 & r3
+SOLUTION:Discombobulate,12345ieee,4977-3-225,faster r2 & r3
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -317,7 +317,7 @@ MEMBER:'instr-arrow',180,0,16,6,5,0,0
 MEMBER:'instr-arrow',-90,0,16,4,5,0,0
 MEMBER:'instr-arrow',180,0,16,4,4,0,0
 MEMBER:'instr-bond',-1,0,128,3,6,0,0
-MEMBER:'instr-output',-1,1,128,5,5,0,0
+MEMBER:'instr-output',-1,1,128,8,2,0,0
 MEMBER:'instr-bond',-1,1,128,4,0,0,0
 MEMBER:'instr-toggle',0,0,32,3,1,0,0
 MEMBER:'instr-sync',-1,0,128,5,0,0,0
@@ -325,10 +325,6 @@ MEMBER:'instr-input',-1,0,32,4,4,0,0
 MEMBER:'instr-arrow',-90,0,64,6,6,0,0
 MEMBER:'instr-arrow',90,0,64,4,3,0,0
 MEMBER:'instr-arrow',180,0,64,4,4,0,0
-MEMBER:'instr-toggle',180,0,128,6,5,0,0
-MEMBER:'instr-arrow',-90,0,64,5,5,0,0
-MEMBER:'instr-arrow',0,0,64,5,4,0,0
-MEMBER:'instr-arrow',-90,0,64,6,4,0,0
 MEMBER:'instr-arrow',-90,0,16,2,6,0,0
 MEMBER:'instr-arrow',0,0,16,2,5,0,0
 PIPE:0,4,1
