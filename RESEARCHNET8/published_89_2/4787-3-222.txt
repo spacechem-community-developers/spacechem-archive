@@ -1,4 +1,4 @@
-SOLUTION:Discombobulate,12345ieee,4855-3-222,just the right amount of abuse
+SOLUTION:Discombobulate,12345ieee,4787-3-222,just the right amount of abuse
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -35,7 +35,7 @@ MEMBER:'instr-arrow',180,0,16,2,6,0,0
 MEMBER:'instr-toggle',0,0,32,3,6,0,0
 MEMBER:'instr-arrow',90,0,16,2,4,0,0
 MEMBER:'instr-toggle',0,0,32,2,6,0,0
-MEMBER:'instr-arrow',180,0,16,7,2,0,0
+MEMBER:'instr-arrow',180,0,16,6,2,0,0
 MEMBER:'instr-rotate',-1,1,128,6,5,0,0
 MEMBER:'instr-rotate',-1,1,128,7,5,0,0
 MEMBER:'instr-grab',-1,2,128,8,5,0,0
@@ -77,16 +77,16 @@ MEMBER:'instr-input',-1,0,128,7,4,0,0
 MEMBER:'instr-input',-1,0,128,6,4,0,0
 MEMBER:'instr-arrow',180,0,16,9,0,0,0
 MEMBER:'instr-arrow',90,0,64,0,0,0,0
-MEMBER:'instr-arrow',-90,0,16,7,7,0,0
+MEMBER:'instr-arrow',-90,0,16,6,7,0,0
 MEMBER:'instr-arrow',180,0,16,4,2,0,0
-MEMBER:'instr-input',-1,0,32,7,7,0,0
+MEMBER:'instr-input',-1,0,32,5,2,0,0
 MEMBER:'instr-arrow',180,0,16,4,7,0,0
 MEMBER:'instr-toggle',0,0,32,4,7,0,0
 MEMBER:'instr-input',-1,1,32,0,7,0,0
 MEMBER:'instr-input',-1,0,128,4,0,0,0
 MEMBER:'instr-arrow',-90,0,16,1,6,0,0
 MEMBER:'instr-arrow',90,0,16,4,6,0,0
-MEMBER:'instr-output',-1,1,32,7,6,0,0
+MEMBER:'instr-output',-1,1,32,6,6,0,0
 MEMBER:'instr-output',-1,0,32,5,7,0,0
 MEMBER:'instr-sync',-1,0,32,4,6,0,0
 MEMBER:'instr-bond',-1,0,128,5,1,0,0
