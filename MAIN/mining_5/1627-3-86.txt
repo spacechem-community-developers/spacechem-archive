@@ -1,4 +1,4 @@
-SOLUTION:Molecular Foundry,kuroi_neko,1627-3-86,Considering Fe2 path, I can't see a way to go faster than this. May well be doable with less symbols...
+SOLUTION:Molecular Foundry,kuroi_neko,1627-3-86,'Considering Fe2 path, I can''t see a way to go faster than this. May well be doable with less symbols, though.'
 COMPONENT:'drag-advanced-reactor',5,6,''
 MEMBER:'instr-start',-90,0,128,8,5,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0
