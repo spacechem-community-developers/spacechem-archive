@@ -1,4 +1,4 @@
-SOLUTION:No Ordinary Headache,Billy,828-1-69,This is a faster and more compact version of my original solution (#26670). Requires at least N/2 of...
+SOLUTION:No Ordinary Headache,Billy,828-1-69,This is a faster and more compact version of my original solution (#26670). Requires at least N/2 of the first N molecules to be oxygen.
 COMPONENT:'drag-atmospheric-input',8,18,''
 PIPE:0,2,0
 PIPE:0,3,0
