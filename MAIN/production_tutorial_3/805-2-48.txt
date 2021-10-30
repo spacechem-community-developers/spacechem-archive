@@ -158,6 +158,8 @@ MEMBER:'instr-arrow',-90,0,64,2,7,0,0
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:1,5,2
+ANNOTATION:0,1,0,0,'\n\r\n\r\n\r'
+ANNOTATION:1,0,0,0,'2,1:0,6;3,1:0,1;2,2:0,1;\n2,1,1:1;2,1,0:1;\r\n\r\n\r'
 COMPONENT:'drag-starter-reactor',18,7,''
 MEMBER:'instr-start',180,0,128,4,1,0,0
 MEMBER:'instr-start',90,0,32,9,5,0,0
