@@ -1,4 +1,4 @@
-SOLUTION:Impostor,whoever314,4857-3-193,Copy of 12345ieee
+SOLUTION:Impostor,whoever314,4857-3-193,12345ieee
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',-90,0,128,7,7,0,0
 MEMBER:'instr-start',0,0,32,2,6,0,0

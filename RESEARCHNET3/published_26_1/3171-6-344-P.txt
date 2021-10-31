@@ -1,4 +1,4 @@
-SOLUTION:Fertigprodukt,whoever314,3171-6-344,/P Copy of Some cleanup here some cleanup there
+SOLUTION:Fertigprodukt,whoever314,3171-6-344,/P Some cleanup here some cleanup there
 COMPONENT:'drag-arbitrary-input',3,18,''
 PIPE:0,2,1
 PIPE:0,2,0

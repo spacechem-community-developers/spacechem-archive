@@ -1,4 +1,4 @@
-SOLUTION:Breeder Reactor,whoever314,615-1-44,Copy of Unnamed Solution
+SOLUTION:Breeder Reactor,whoever314,615-1-44,Unnamed Solution
 COMPONENT:'drag-nuclear-reactor',9,12,''
 MEMBER:'instr-start',90,0,32,2,1,0,0
 MEMBER:'instr-start',90,0,128,3,1,0,0

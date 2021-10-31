@@ -1,4 +1,4 @@
-SOLUTION:Σ-Ethylene,12345ieee,3089-2-54,Copy of Min Symbols
+SOLUTION:Σ-Ethylene,12345ieee,3089-2-54,Min Symbols
 COMPONENT:'drag-fusion-reactor',12,10,''
 MEMBER:'instr-start',180,0,32,1,7,0,0
 MEMBER:'instr-start',90,0,128,3,0,0,0

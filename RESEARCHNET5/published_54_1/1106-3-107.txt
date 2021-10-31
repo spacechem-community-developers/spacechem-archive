@@ -1,4 +1,4 @@
-SOLUTION:Two-fer,12345ieee,1106-3-107,Copy of Unnamed Solution
+SOLUTION:Two-fer,12345ieee,1106-3-107,Unnamed Solution
 COMPONENT:'drag-nuclear-reactor',5,4,''
 MEMBER:'instr-start',-90,0,128,0,7,0,0
 MEMBER:'instr-start',90,0,32,8,3,0,0

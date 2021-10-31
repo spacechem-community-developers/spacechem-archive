@@ -1,4 +1,4 @@
-SOLUTION:Fill in the Blank,whoever314,2007-2-135,Copy of (Default Solution)
+SOLUTION:Fill in the Blank,whoever314,2007-2-135,(Default Solution)
 COMPONENT:'drag-starter-reactor',6,18,''
 MEMBER:'instr-start',0,0,128,2,3,0,0
 MEMBER:'instr-start',0,0,32,2,3,0,0

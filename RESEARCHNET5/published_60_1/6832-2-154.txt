@@ -1,4 +1,4 @@
-SOLUTION:Impostor,12345ieee,6832-2-154,Copy of Ancient cleaning magic
+SOLUTION:Impostor,12345ieee,6832-2-154,Ancient cleaning magic
 COMPONENT:'drag-nuclear-reactor',5,5,''
 MEMBER:'instr-start',0,0,128,1,2,0,0
 MEMBER:'instr-start',0,0,32,0,5,0,0
