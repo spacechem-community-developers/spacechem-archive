@@ -1,4 +1,4 @@
-SOLUTION:Accidents Happen,Zig,275-1-88
+SOLUTION:Accidents Happen,Zig,275-1-88,Cycles
 COMPONENT:'drag-advanced-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,4,1,0,0
 MEMBER:'instr-start',90,0,32,1,0,0,0
