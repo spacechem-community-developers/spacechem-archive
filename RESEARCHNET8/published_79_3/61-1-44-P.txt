@@ -1,4 +1,4 @@
-SOLUTION:Lies,Zig,61-1-44,/P Cycles
+SOLUTION:Lies,Zig,61-1-44,/P 
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,2,7,0,0
 MEMBER:'instr-start',90,0,32,2,1,0,0
