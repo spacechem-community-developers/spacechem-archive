@@ -1,4 +1,4 @@
-SOLUTION:Every Day is the First Day,Zig,103-1-41,Cycles
+SOLUTION:Every Day is the First Day,Zig,103-1-41
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,4,3,0,0
 MEMBER:'instr-start',180,0,32,2,5,0,0
