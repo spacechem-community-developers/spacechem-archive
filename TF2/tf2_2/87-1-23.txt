@@ -1,4 +1,4 @@
-SOLUTION:Moustachium 604,Zig,87-1-23
+SOLUTION:Moustachium 604,Zig,87-1-23,Input Island
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,1,5,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0
