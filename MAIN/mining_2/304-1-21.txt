@@ -1,4 +1,4 @@
-SOLUTION:Like a Boss,Zig,304-1-21
+SOLUTION:Like a Boss,Zig,304-1-21,Symbols
 COMPONENT:'drag-reduced-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',180,0,32,1,6,0,0
