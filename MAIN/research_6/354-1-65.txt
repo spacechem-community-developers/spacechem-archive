@@ -1,4 +1,4 @@
-SOLUTION:No Employment Record Found,Zig,354-1-65,Cycles
+SOLUTION:No Employment Record Found,Zig,354-1-65
 COMPONENT:'drag-advancedfusion-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,3,2,0,0
 MEMBER:'instr-start',0,0,32,0,5,0,0
