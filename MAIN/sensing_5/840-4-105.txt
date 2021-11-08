@@ -1,4 +1,4 @@
-SOLUTION:No Thanks Necessary,Lemonymous,840-4-105,/P 
+SOLUTION:No Thanks Necessary,Lemonymous,840-4-105
 COMPONENT:'drag-atmospheric-input',4,5,''
 PIPE:0,2,0
 COMPONENT:'drag-oceanic-input',7,18,''
