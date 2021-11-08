@@ -1,4 +1,4 @@
-SOLUTION:No Ordinary Headache,Spiff,2673-1-28,/P Windows 7 / Nice solution
+SOLUTION:No Ordinary Headache,Spiff,2673-1-28,Windows 7 / Nice solution
 COMPONENT:'drag-advanced-reactor',11,16,''
 MEMBER:'instr-start',90,0,128,0,4,0,0
 MEMBER:'instr-start',90,0,32,0,4,0,0
