@@ -1,4 +1,4 @@
-SOLUTION:Organic Fusion Chemistry,12345ieee,3462-1-44,/P 
+SOLUTION:Organic Fusion Chemistry,12345ieee,3462-1-44
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,8,6,0,0
 MEMBER:'instr-start',180,0,32,5,0,0,0
