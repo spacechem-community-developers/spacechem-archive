@@ -1,4 +1,4 @@
-SOLUTION:Contaminated,whoever314,1220-4-80,/P ToughThought
+SOLUTION:Contaminated,whoever314,1220-4-80,ToughThought
 COMPONENT:'drag-starter-reactor',4,4,''
 MEMBER:'instr-start',180,0,128,9,2,0,0
 MEMBER:'instr-start',90,0,32,2,4,0,0
