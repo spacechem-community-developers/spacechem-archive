@@ -1,4 +1,4 @@
-SOLUTION:Ω-Pseudoethyne,12345ieee,843-2-84,/P 
+SOLUTION:Ω-Pseudoethyne,12345ieee,843-2-84
 COMPONENT:'drag-advanced-reactor',11,7,''
 MEMBER:'instr-start',180,0,128,8,0,0,0
 MEMBER:'instr-start',180,0,32,7,1,0,0
