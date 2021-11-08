@@ -1,4 +1,4 @@
-SOLUTION:Prelude to a Migraine,xrdd,74-1-13,/P 
+SOLUTION:Prelude to a Migraine,xrdd,74-1-13
 COMPONENT:'drag-advanced-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,4,1,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0
