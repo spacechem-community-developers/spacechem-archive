@@ -1,4 +1,4 @@
-SOLUTION:Oxygen Candle,Archiver,174-1-52,Archived Solution
+SOLUTION:Oxygen Candle,Andy,174-1-52,/P
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,2,3,0,0
 MEMBER:'instr-start',90,0,32,1,0,0,0

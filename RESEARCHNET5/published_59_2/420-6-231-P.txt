@@ -1,4 +1,4 @@
-SOLUTION:Carbon Compounds,12345ieee,420-6-231,Community Solution
+SOLUTION:Carbon Compounds,12345ieee,420-6-231,/P Community Solution
 COMPONENT:'drag-advanced-reactor',4,4,''
 MEMBER:'instr-start',0,0,32,0,4,0,0
 MEMBER:'instr-start',-90,0,128,9,5,0,0
