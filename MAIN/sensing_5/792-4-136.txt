@@ -1,4 +1,4 @@
-SOLUTION:No Thanks Necessary,whoever314,792-4-136,/P 
+SOLUTION:No Thanks Necessary,whoever314,792-4-136
 COMPONENT:'drag-oceanic-input',7,18,''
 PIPE:0,2,0
 COMPONENT:'drag-atmospheric-input',4,5,''
