@@ -1,4 +1,4 @@
-SOLUTION:Combustion Engine,Leylite,939-3-48,'Why yes, this is how my car works.'
+SOLUTION:Combustion Engine,Leylite,939-3-48
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -33,18 +33,6 @@ MEMBER:'instr-arrow',180,0,64,7,1,0,0
 MEMBER:'instr-output',-1,1,128,7,4,0,0
 MEMBER:'instr-output',-1,0,32,0,0,0,0
 PIPE:0,4,1
-PIPE:0,5,1
-PIPE:0,6,1
-PIPE:0,7,1
-PIPE:0,8,1
-PIPE:0,9,1
-PIPE:0,10,1
-PIPE:0,11,1
-PIPE:0,12,1
-PIPE:0,12,2
-PIPE:0,12,3
-PIPE:0,12,4
-PIPE:0,12,5
 PIPE:1,4,2
 PIPE:1,4,3
 PIPE:1,4,4
@@ -139,6 +127,20 @@ PIPE:1,24,14
 PIPE:1,25,14
 PIPE:1,26,14
 PIPE:1,27,14
+PIPE:0,5,1
+PIPE:0,6,1
+PIPE:0,7,1
+PIPE:0,8,1
+PIPE:0,9,1
+PIPE:0,10,1
+PIPE:0,11,1
+PIPE:0,12,1
+PIPE:0,12,2
+PIPE:0,12,3
+PIPE:0,12,4
+PIPE:0,12,5
+ANNOTATION:0,0,0,0,'1,1:0,6;1,0:0,1;0,1:0,1;\n0,1,1:1;1,0,0:1;\r\n\r\n\r'
+ANNOTATION:1,0,0,0,'0,1:0,31;1,1:0,37;2,1:0,47;3,1:0,32;\n0,1,1:1;2,1,1:1;\r\n\r\n\r'
 COMPONENT:'drag-superbonder-reactor',10,7,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',90,0,32,0,0,0,0
@@ -158,9 +160,11 @@ MEMBER:'instr-output',-1,0,32,5,1,0,0
 MEMBER:'instr-grab',-1,2,32,6,1,0,0
 MEMBER:'instr-arrow',180,0,16,6,1,0,0
 PIPE:0,4,1
+PIPE:1,4,2
 PIPE:0,5,1
 PIPE:0,6,1
-PIPE:1,4,2
+ANNOTATION:0,0,0,0,'0,1:0,8;\n\r\n\r\n\r'
+ANNOTATION:1,1,0,0,'\n\r\n\r\n\r'
 COMPONENT:'drag-superbonder-reactor',17,7,''
 MEMBER:'instr-start',180,0,128,2,1,0,0
 MEMBER:'instr-start',180,0,32,4,5,0,0
@@ -204,8 +208,8 @@ MEMBER:'instr-bond',-1,0,32,1,1,0,0
 MEMBER:'instr-arrow',0,0,16,1,1,0,0
 MEMBER:'instr-bond',-1,0,128,6,3,0,0
 PIPE:0,4,1
-PIPE:0,5,1
 PIPE:1,4,2
+PIPE:0,5,1
 PIPE:1,4,1
 PIPE:1,4,0
 PIPE:1,4,-1
