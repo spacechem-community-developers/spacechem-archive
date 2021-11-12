@@ -1,4 +1,4 @@
-SOLUTION:Neodymium Magnet,Leylite,1321-1-53,'Blue creates atoms to swap into the iron, and Red moves the iron block around. Cost-effective!'
+SOLUTION:Neodymium Magnet,Leylite,1321-1-53
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,0,2,0,0
 MEMBER:'instr-start',90,0,32,1,3,0,0
