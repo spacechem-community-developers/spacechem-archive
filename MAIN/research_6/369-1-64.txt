@@ -1,4 +1,4 @@
-SOLUTION:No Employment Record Found,whoever314,369-1-64
+SOLUTION:No Employment Record Found,whoever314,369-1-64,'(ref: kuroi_neko,42931) Mine was slow so I peeked at kuroi_neko''s.'
 COMPONENT:'drag-advancedfusion-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,2,6,0,0
 MEMBER:'instr-start',-90,0,32,0,6,0,0
