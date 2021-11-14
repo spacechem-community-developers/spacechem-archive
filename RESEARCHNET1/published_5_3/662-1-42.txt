@@ -1,4 +1,4 @@
-SOLUTION:2-Hexene,nicuveo,662-1-42,The blue waldo is the bottleneck, but I don't know how to improve on that.
+SOLUTION:2-Hexene,nicuveo,662-1-42,'The blue waldo is the bottleneck, but I don''t know how to improve on that.'
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,0,6,0,0
 MEMBER:'instr-start',-90,0,32,2,2,0,0
