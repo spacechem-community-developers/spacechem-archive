@@ -1,4 +1,4 @@
-SOLUTION:I Told You So,kuroi_neko,216-1-42,Another 21 cycles loop solution, only a bit leaner than Saighdiur's
+SOLUTION:I Told You So,kuroi_neko,216-1-42,'Another 21 cycles loop solution, only a bit leaner than Saighdiur''s'
 COMPONENT:'drag-superbonder-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,4,4,0,0
 MEMBER:'instr-start',90,0,32,1,0,0,0
