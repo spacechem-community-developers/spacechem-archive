@@ -1,4 +1,4 @@
-SOLUTION:Σ-Ethylene,cearn,2012-2-90,(ref: 21654) Found an extra cycle :) (#1 bonder-prio: vert) 20130517 edit: noooo!!! Nice one, ToughT...
+SOLUTION:Σ-Ethylene,cearn,2012-2-90,'(ref: 21654) Found an extra cycle :) (#1 bonder-prio: vert) 20130517 edit: noooo!!! Nice one, ToughThought'
 COMPONENT:'drag-fusion-reactor',12,10,''
 MEMBER:'instr-start',0,0,128,0,0,0,0
 MEMBER:'instr-start',0,0,32,3,2,0,0
