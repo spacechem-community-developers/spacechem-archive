@@ -1,4 +1,4 @@
-SOLUTION:Combustion Engine,whoever314,4747-1-119,WildFilch
+SOLUTION:Combustion Engine,whoever314,4747-1-117,WildFilch
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -25,7 +25,7 @@ PIPE:0,7,1
 PIPE:0,8,1
 PIPE:0,9,1
 COMPONENT:'drag-advanced-reactor',11,4,''
-MEMBER:'instr-start',180,0,32,9,7,0,0
+MEMBER:'instr-start',-90,0,32,0,2,0,0
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'feature-bonder',-1,0,1,6,2,0,0
 MEMBER:'feature-bonder',-1,0,1,6,3,0,0
@@ -67,8 +67,7 @@ MEMBER:'instr-arrow',180,0,16,6,2,0,0
 MEMBER:'instr-arrow',90,0,16,6,0,0,0
 MEMBER:'instr-toggle',-90,0,32,7,1,0,0
 MEMBER:'instr-grab',-1,0,32,4,0,0,0
-MEMBER:'instr-toggle',-90,0,32,0,1,0,0
-MEMBER:'instr-arrow',0,0,16,0,1,0,0
+MEMBER:'instr-toggle',0,0,32,0,1,0,0
 MEMBER:'instr-bond',-1,0,128,6,5,0,0
 MEMBER:'instr-output',-1,0,128,5,5,0,0
 MEMBER:'instr-sync',-1,0,128,3,3,0,0
@@ -144,8 +143,7 @@ MEMBER:'instr-arrow',0,0,16,1,2,0,0
 MEMBER:'instr-arrow',-90,0,16,0,5,0,0
 MEMBER:'instr-arrow',90,0,16,4,0,0,0
 MEMBER:'instr-arrow',180,0,16,4,7,0,0
-MEMBER:'instr-toggle',90,0,32,4,1,0,0
-MEMBER:'instr-arrow',0,0,16,4,1,0,0
+MEMBER:'instr-toggle',0,0,32,4,1,0,0
 MEMBER:'instr-arrow',0,0,64,2,0,0,0
 MEMBER:'instr-arrow',0,0,16,6,6,0,0
 MEMBER:'instr-arrow',90,0,16,7,6,0,0
