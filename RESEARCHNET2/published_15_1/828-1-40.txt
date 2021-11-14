@@ -1,4 +1,4 @@
-SOLUTION:Anthraquinone,Masked_Critic,828-1-40,My first attempt actually took 42, but I improved it. Not bad for a guy who had to look for help to ...
+SOLUTION:Anthraquinone,Masked_Critic,828-1-40,'My first attempt actually took 42, but I improved it. Not bad for a guy who had to look for help to finish the game proper, eh?'
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,0,1,0,0
 MEMBER:'instr-start',0,0,32,0,7,0,0
