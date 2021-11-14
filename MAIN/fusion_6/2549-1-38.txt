@@ -1,4 +1,4 @@
-SOLUTION:Challenge: Applied Fusion,cearn,2549-1-38,(ref: cearn,24466; Enigma,30012) well played, Enigma/Sahishar
+SOLUTION:Challenge: Applied Fusion,cearn,2549-1-38,'(ref: cearn,24466; Enigma,30012) well played, Enigma/Sahishar'
 COMPONENT:'drag-fusion-reactor',7,9,''
 MEMBER:'instr-start',90,0,128,4,5,0,0
 MEMBER:'instr-start',90,0,32,1,4,0,0
