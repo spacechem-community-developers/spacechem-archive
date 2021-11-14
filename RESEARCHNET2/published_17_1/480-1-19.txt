@@ -1,4 +1,4 @@
-SOLUTION:Fusion - Germane,mrcable,480-1-19,minor improvement of davenger-7238, Andy-7273
+SOLUTION:Fusion - Germane,mrcable,480-1-19,'minor improvement of davenger-7238, Andy-7273'
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,2,6,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0
