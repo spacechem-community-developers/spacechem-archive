@@ -1,4 +1,4 @@
-SOLUTION:Vitamin B3,Andy,2174-5-222
+SOLUTION:Vitamin B3 (4-6-3),Andy,2174-5-222
 COMPONENT:'drag-nuclear-reactor',6,12,''
 MEMBER:'instr-start',0,0,128,3,7,0,0
 MEMBER:'instr-start',0,0,32,2,5,0,0
