@@ -1,4 +1,4 @@
-SOLUTION:Vitamin B3 (4-6-3),davenger,5974-5-108
+SOLUTION:Vitamin B3,davenger,5974-5-108
 COMPONENT:'drag-nuclear-reactor',12,11,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Vitamin B3 (2-1-3),ToughThought,222-1-42
+SOLUTION:Vitamin B3,ToughThought,222-1-42
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,7,5,0,0
 MEMBER:'instr-start',0,0,32,0,6,0,0
