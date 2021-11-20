@@ -1,4 +1,4 @@
-SOLUTION:Benzene Machine,12345ieee,1779-2-41,Discord Chat
+SOLUTION:Benzene Machine,12345ieee,1776-2-41,Discord Chat
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,2
@@ -13,7 +13,7 @@ PIPE:0,9,3
 PIPE:0,10,3
 PIPE:0,11,3
 COMPONENT:'drag-nuclear-reactor',18,1,''
-MEMBER:'instr-start',0,0,128,3,5,0,0
+MEMBER:'instr-start',0,0,128,6,5,0,0
 MEMBER:'instr-start',180,0,32,8,4,0,0
 MEMBER:'feature-bonder',-1,0,1,6,7,0,0
 MEMBER:'feature-bonder',-1,0,1,6,5,0,0
@@ -133,7 +133,7 @@ PIPE:0,-11,17
 ANNOTATION:0,0,0,0,'0,3:0,6;\n\r\n\r\n\r'
 ANNOTATION:1,1,0,0,'\n\r\n\r\n\r'
 COMPONENT:'drag-superbonder-reactor',13,7,''
-MEMBER:'instr-start',90,0,32,9,1,0,0
+MEMBER:'instr-start',90,0,32,9,4,0,0
 MEMBER:'instr-start',90,0,128,1,4,0,0
 MEMBER:'feature-bonder',-1,0,1,0,2,0,0
 MEMBER:'feature-bonder',-1,0,1,1,1,0,0
@@ -164,7 +164,7 @@ MEMBER:'instr-toggle',0,0,128,1,5,0,0
 MEMBER:'instr-rotate',-1,1,128,5,5,0,0
 MEMBER:'instr-rotate',-1,1,128,6,5,0,0
 MEMBER:'instr-bond',-1,1,32,2,4,0,0
-MEMBER:'instr-input',-1,0,128,7,5,0,0
+MEMBER:'instr-input',-1,0,128,7,2,0,0
 MEMBER:'instr-toggle',0,0,32,2,7,0,0
 MEMBER:'instr-bond',-1,0,32,4,7,0,0
 MEMBER:'instr-arrow',-90,0,64,7,5,0,0
