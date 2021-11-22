@@ -1,4 +1,4 @@
-SOLUTION:No Thanks Necessary,BigMangoHead,8848-2-41,My World Record
+SOLUTION:No Thanks Necessary,12345ieee,8846-2-41,'It''s actually MY world record, thank you very much'
 COMPONENT:'drag-advanced-reactor',7,3,''
 MEMBER:'instr-start',90,0,32,1,4,0,0
 MEMBER:'instr-start',0,0,128,6,2,0,0
@@ -92,19 +92,19 @@ MEMBER:'feature-bonder',-1,0,1,2,2,0,0
 MEMBER:'feature-bonder',-1,0,1,1,2,0,0
 MEMBER:'feature-bonder',-1,0,1,4,1,0,0
 MEMBER:'feature-bonder',-1,0,1,5,1,0,0
-MEMBER:'feature-sensor',-1,0,1,6,2,0,0
+MEMBER:'feature-sensor',-1,0,1,5,2,0,0
 MEMBER:'instr-input',-1,0,128,1,1,0,0
 MEMBER:'instr-grab',-1,1,128,2,1,0,0
 MEMBER:'instr-arrow',0,0,64,0,1,0,0
 MEMBER:'instr-bond',-1,0,32,0,7,0,0
-MEMBER:'instr-sensor',90,0,128,7,1,0,1
-MEMBER:'instr-arrow',0,0,64,7,5,0,0
+MEMBER:'instr-sensor',90,0,128,6,1,0,1
+MEMBER:'instr-arrow',0,0,64,6,5,0,0
 MEMBER:'instr-grab',-1,2,128,7,5,0,0
 MEMBER:'instr-output',-1,1,128,8,5,0,0
 MEMBER:'instr-arrow',-90,0,64,8,5,0,0
 MEMBER:'instr-arrow',180,0,64,8,1,0,0
-MEMBER:'instr-grab',-1,2,128,8,1,0,0
-MEMBER:'instr-output',-1,0,128,6,1,0,0
+MEMBER:'instr-grab',-1,2,128,7,1,0,0
+MEMBER:'instr-output',-1,0,128,8,1,0,0
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:1,5,2
