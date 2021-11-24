@@ -1,4 +1,4 @@
-SOLUTION:Freon,Archiver,112-1-63,/P Archived Solution
+SOLUTION:Freon,Andy,112-1-63,/P
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,9,2,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0
