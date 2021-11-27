@@ -1,4 +1,4 @@
-SOLUTION:Challenge: KOHCTPYKTOP,BigMangoHead,18962-2-86,/B WR Symbols
+SOLUTION:Challenge: KOHCTPYKTOP,BigMangoHead,18962-2-86,/B
 COMPONENT:'drag-silo-input',2,10,''
 PIPE:0,5,2
 PIPE:0,6,2
