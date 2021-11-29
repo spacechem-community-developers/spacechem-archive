@@ -39,6 +39,5 @@ MEMBER:'instr-grab',-1,0,128,9,1,0,0
 MEMBER:'instr-bond',-1,0,128,9,2,0,0
 MEMBER:'instr-arrow',-90,0,64,9,6,0,0
 MEMBER:'instr-rotate',-1,1,128,9,6,0,0
-
 PIPE:0,4,1
 PIPE:1,4,2

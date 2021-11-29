@@ -86,7 +86,6 @@ MEMBER:'feature-bonder',-1,0,1,2,1,0,0
 MEMBER:'feature-bonder',-1,0,1,2,5,0,0
 MEMBER:'feature-bonder',-1,0,1,2,2,0,0
 MEMBER:'feature-bonder',-1,0,1,1,5,0,0
-
 MEMBER:'instr-arrow',0,0,16,1,2,0,0
 MEMBER:'instr-arrow',-90,0,16,1,3,0,0
 MEMBER:'instr-grab',-1,1,32,1,3,0,0

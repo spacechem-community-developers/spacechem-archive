@@ -167,7 +167,6 @@ MEMBER:'instr-arrow',180,0,64,8,2,0,0
 MEMBER:'instr-output',-1,1,128,8,6,0,0
 MEMBER:'instr-arrow',-90,0,64,8,7,0,0
 MEMBER:'instr-grab',-1,2,128,8,7,0,0
-
 PIPE:0,4,1
 PIPE:1,4,2
 COMPONENT:'drag-advanced-reactor',14,0,''

@@ -28,7 +28,6 @@ MEMBER:'instr-arrow',-90,0,64,7,3,0,0
 MEMBER:'instr-output',-1,1,128,7,4,0,0
 MEMBER:'instr-arrow',-90,0,64,7,5,0,0
 MEMBER:'instr-grab',-1,2,128,7,5,0,0
-
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,4,0
@@ -106,7 +105,6 @@ MEMBER:'feature-bonder',-1,0,1,4,6,0,0
 MEMBER:'feature-bonder',-1,0,1,1,2,0,0
 MEMBER:'feature-bonder',-1,0,1,2,2,0,0
 MEMBER:'feature-sensor',-1,0,1,4,2,0,0
-
 MEMBER:'instr-arrow',0,0,16,2,2,0,0
 MEMBER:'instr-bond',-1,0,32,2,2,0,0
 MEMBER:'instr-input',-1,0,32,2,3,0,0
@@ -130,7 +128,6 @@ MEMBER:'feature-bonder',-1,0,1,0,2,0,0
 MEMBER:'feature-bonder',-1,0,1,1,2,0,0
 MEMBER:'feature-bonder',-1,0,1,5,6,0,0
 MEMBER:'feature-sensor',-1,0,1,4,2,0,0
-
 MEMBER:'instr-arrow',0,0,16,0,1,0,0
 MEMBER:'instr-bond',-1,0,32,0,2,0,0
 MEMBER:'instr-input',-1,0,32,0,3,0,0

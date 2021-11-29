@@ -33,7 +33,6 @@ MEMBER:'instr-sensor',-90,0,128,6,5,0,7
 MEMBER:'instr-grab',-1,2,128,7,5,0,0
 MEMBER:'instr-arrow',180,0,64,8,5,0,0
 MEMBER:'instr-output',-1,1,128,8,5,0,0
-
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,5,1

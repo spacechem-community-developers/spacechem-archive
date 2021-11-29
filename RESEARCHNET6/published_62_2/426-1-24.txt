@@ -27,6 +27,5 @@ MEMBER:'instr-arrow',180,0,64,7,0,0,0
 MEMBER:'instr-output',-1,0,128,7,0,0,0
 MEMBER:'instr-arrow',-90,0,64,7,1,0,0
 MEMBER:'instr-grab',-1,0,128,7,1,0,0
-
 PIPE:0,4,1
 PIPE:1,4,2

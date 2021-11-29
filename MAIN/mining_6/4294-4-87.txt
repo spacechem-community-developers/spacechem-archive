@@ -173,7 +173,6 @@ MEMBER:'instr-arrow',180,0,64,8,1,0,0
 MEMBER:'instr-sensor',90,0,128,8,1,0,33
 MEMBER:'instr-arrow',-90,0,64,8,5,0,0
 MEMBER:'instr-sensor',180,0,128,8,5,0,33
-
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,5,1
@@ -261,7 +260,6 @@ MEMBER:'feature-bonder',-1,0,1,4,6,0,0
 MEMBER:'feature-bonder',-1,0,1,5,5,0,0
 MEMBER:'feature-bonder',-1,0,1,5,6,0,0
 MEMBER:'feature-sensor',-1,0,1,7,5,0,0
-
 MEMBER:'instr-arrow',90,0,16,0,2,0,0
 MEMBER:'instr-arrow',0,0,16,0,5,0,0
 MEMBER:'instr-input',-1,1,32,0,5,0,0

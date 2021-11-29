@@ -30,6 +30,5 @@ MEMBER:'instr-toggle',180,0,128,7,3,0,0
 MEMBER:'instr-output',-1,0,128,7,4,0,0
 MEMBER:'instr-arrow',-90,0,64,7,5,0,0
 MEMBER:'instr-bond',-1,0,128,7,5,0,0
-
 PIPE:0,4,1
 PIPE:1,4,2

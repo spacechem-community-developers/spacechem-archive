@@ -48,7 +48,6 @@ MEMBER:'instr-arrow',90,0,64,8,4,0,0
 MEMBER:'instr-bond',-1,1,128,8,4,0,0
 MEMBER:'instr-arrow',180,0,64,8,5,0,0
 MEMBER:'instr-output',-1,1,128,8,5,0,0
-
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,4,0
