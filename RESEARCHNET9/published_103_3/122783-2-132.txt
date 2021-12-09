@@ -1,4 +1,4 @@
-SOLUTION:The Greatest Honor,ToughThought,122783-2-133,based on andy & britboy
+SOLUTION:The Greatest Honor,britboy3456,122783-2-132,ToughThought NP RC improved
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -158,7 +158,6 @@ MEMBER:'instr-bond',-1,1,32,8,4,0,0
 MEMBER:'instr-arrow',-90,0,16,8,5,0,0
 MEMBER:'instr-output',-1,1,32,8,5,0,0
 MEMBER:'instr-arrow',180,0,16,9,0,0,0
-MEMBER:'instr-output',-1,1,32,9,2,0,0
 MEMBER:'instr-toggle',180,0,32,9,3,0,0
 MEMBER:'instr-arrow',-90,0,16,9,4,0,0
 MEMBER:'instr-grab',-1,2,32,9,4,0,0
