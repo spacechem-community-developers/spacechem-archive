@@ -1,7 +1,7 @@
-SOLUTION:Propane Accessories,12345ieee,1478-1-17,Unnamed Solution
+SOLUTION:Propane Accessories,12345ieee,1436-1-17,Unnamed Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
-MEMBER:'instr-start',0,0,32,4,5,0,0
+MEMBER:'instr-start',90,0,32,2,3,0,0
 MEMBER:'feature-bonder',-1,0,1,0,0,0,0
 MEMBER:'feature-bonder',-1,0,1,9,0,0,0
 MEMBER:'feature-bonder',-1,0,1,6,5,0,0
@@ -15,17 +15,17 @@ MEMBER:'instr-bond',-1,0,128,0,7,0,0
 MEMBER:'instr-arrow',0,0,16,1,1,0,0
 MEMBER:'instr-grab',-1,1,32,1,1,0,0
 MEMBER:'instr-toggle',90,0,32,2,1,0,0
+MEMBER:'instr-toggle',0,0,32,2,4,0,0
 MEMBER:'instr-arrow',0,0,16,2,5,0,0
-MEMBER:'instr-arrow',180,0,16,3,1,0,0
+MEMBER:'instr-output',-1,0,32,2,5,0,0
 MEMBER:'instr-input',-1,0,32,3,1,0,0
-MEMBER:'instr-arrow',-90,0,16,3,3,0,0
 MEMBER:'instr-arrow',180,0,16,5,1,0,0
 MEMBER:'instr-input',-1,1,32,5,2,0,0
-MEMBER:'instr-sensor',180,0,32,5,3,0,6
+MEMBER:'instr-sensor',0,0,32,5,3,0,6
+MEMBER:'instr-arrow',-90,0,16,5,4,0,0
 MEMBER:'instr-grab',-1,2,32,5,4,0,0
-MEMBER:'instr-toggle',-90,0,32,5,5,0,0
-MEMBER:'instr-output',-1,0,32,6,5,0,0
 MEMBER:'instr-arrow',180,0,16,7,1,0,0
+MEMBER:'instr-arrow',-90,0,16,7,3,0,0
 MEMBER:'instr-grab',-1,2,32,7,4,0,0
 MEMBER:'instr-arrow',-90,0,16,7,5,0,0
 PIPE:0,4,1
