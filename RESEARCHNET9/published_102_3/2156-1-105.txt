@@ -1,4 +1,4 @@
-SOLUTION:Mass of Osmium,Zig,2156-1-105,Cycles
+SOLUTION:Mass of Osmium,Zig,2156-1-105
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,5,6,0,0
 MEMBER:'instr-start',0,0,32,1,6,0,0
