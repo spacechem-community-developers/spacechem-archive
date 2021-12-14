@@ -1,4 +1,4 @@
-SOLUTION:Benzoic Acid,serbaldrig,260-1-28,serbaldrig
+SOLUTION:Benzoic Acid,serbaldrig/whoever314,259-1-28,serbaldrig
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,8,0,0,0
 MEMBER:'instr-start',180,0,32,3,5,0,0
@@ -19,7 +19,6 @@ MEMBER:'instr-arrow',-90,0,64,3,5,0,0
 MEMBER:'instr-rotate',-1,1,128,3,5,0,0
 MEMBER:'instr-arrow',180,0,64,9,0,0,0
 MEMBER:'instr-input',-1,1,128,9,0,0,0
-MEMBER:'instr-output',-1,0,128,9,1,0,0
 MEMBER:'instr-arrow',-90,0,64,9,2,0,0
 MEMBER:'instr-grab',-1,2,128,9,2,0,0
 MEMBER:'instr-arrow',90,0,16,2,2,0,0
@@ -28,6 +27,7 @@ MEMBER:'instr-rotate',-1,1,32,2,3,0,0
 MEMBER:'instr-arrow',-90,0,16,2,5,0,0
 MEMBER:'instr-grab',-1,0,32,2,5,0,0
 MEMBER:'instr-grab',-1,1,32,3,2,0,0
+MEMBER:'instr-output',-1,0,32,4,5,0,0
 MEMBER:'instr-arrow',90,0,16,8,2,0,0
 MEMBER:'instr-bond',-1,1,32,8,2,0,0
 MEMBER:'instr-bond',-1,0,32,8,3,0,0
