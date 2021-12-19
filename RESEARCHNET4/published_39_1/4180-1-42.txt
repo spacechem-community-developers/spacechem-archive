@@ -1,4 +1,4 @@
-SOLUTION:Ethandiamin,12345ieee,4181-1-42,cactus
+SOLUTION:Ethandiamin,12345ieee,4180-1-42,cactus
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -11,7 +11,6 @@ PIPE:0,9,1
 PIPE:0,10,1
 PIPE:0,11,1
 PIPE:0,12,1
-PIPE:0,13,1
 COMPONENT:'drag-arbitrary-input',3,18,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -28,9 +27,8 @@ PIPE:0,9,-3
 PIPE:0,10,-3
 PIPE:0,11,-3
 PIPE:0,12,-3
-PIPE:0,13,-3
-COMPONENT:'drag-starter-reactor',17,13,''
-MEMBER:'instr-start',180,0,128,3,0,0,0
+COMPONENT:'drag-starter-reactor',16,13,''
+MEMBER:'instr-start',180,0,128,8,0,0,0
 MEMBER:'instr-start',-90,0,32,6,5,0,0
 MEMBER:'feature-bonder',-1,0,1,6,3,0,0
 MEMBER:'feature-bonder',-1,0,1,6,4,0,0
@@ -55,6 +53,7 @@ MEMBER:'instr-arrow',0,0,64,6,3,0,0
 MEMBER:'instr-bond',-1,0,128,6,3,0,0
 MEMBER:'instr-arrow',180,0,64,6,4,0,0
 MEMBER:'instr-bond',-1,1,128,6,4,0,0
+MEMBER:'instr-input',-1,1,128,7,0,0,0
 MEMBER:'instr-arrow',90,0,64,7,1,0,0
 MEMBER:'instr-rotate',-1,1,128,7,2,0,0
 MEMBER:'instr-arrow',90,0,64,7,3,0,0
@@ -67,7 +66,6 @@ MEMBER:'instr-rotate',-1,1,128,8,4,0,0
 MEMBER:'instr-grab',-1,1,128,8,5,0,0
 MEMBER:'instr-arrow',-90,0,64,8,6,0,0
 MEMBER:'instr-arrow',90,0,16,1,0,0,0
-MEMBER:'instr-input',-1,1,32,1,4,0,0
 MEMBER:'instr-grab',-1,1,32,1,5,0,0
 MEMBER:'instr-arrow',0,0,16,1,7,0,0
 MEMBER:'instr-arrow',180,0,16,6,0,0,0
@@ -196,3 +194,4 @@ PIPE:1,5,-7
 PIPE:1,5,-8
 PIPE:1,5,-9
 PIPE:1,5,-10
+PIPE:1,6,-10
