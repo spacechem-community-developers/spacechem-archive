@@ -1,4 +1,4 @@
-SOLUTION:Breeder Reactor,whoever314,615-1-44,Unnamed Solution
+SOLUTION:Breeder Reactor,whoever314,615-1-44
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -187,7 +187,3 @@ PIPE:1,15,7
 PIPE:1,16,7
 PIPE:1,17,7
 PIPE:1,18,7
-PIPE:1,19,7
-PIPE:1,20,7
-PIPE:1,21,7
-PIPE:1,22,7
