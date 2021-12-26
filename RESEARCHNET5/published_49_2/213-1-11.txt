@@ -1,0 +1,21 @@
+SOLUTION:PAX Challenge 2,12345ieee,213-1-11,Unnamed Solution
+COMPONENT:'custom-research-reactor',2,0,''
+MEMBER:'instr-start',180,0,128,4,1,0,0
+MEMBER:'instr-start',180,0,32,1,7,0,0
+MEMBER:'feature-bonder',-1,0,1,2,5,0,0
+MEMBER:'feature-bonder',-1,0,1,1,5,0,0
+MEMBER:'feature-bonder',-1,0,1,1,6,0,0
+MEMBER:'feature-bonder',-1,0,1,2,6,0,0
+MEMBER:'instr-arrow',90,0,64,1,1,0,0
+MEMBER:'instr-arrow',0,0,64,1,6,0,0
+MEMBER:'instr-input',-1,1,128,1,6,0,0
+MEMBER:'instr-grab',-1,1,128,2,1,0,0
+MEMBER:'instr-bond',-1,1,128,2,6,0,0
+MEMBER:'instr-input',-1,0,128,3,1,0,0
+MEMBER:'instr-arrow',180,0,64,7,1,0,0
+MEMBER:'instr-output',-1,0,128,7,5,0,0
+MEMBER:'instr-arrow',-90,0,64,7,6,0,0
+MEMBER:'instr-grab',-1,2,128,7,6,0,0
+MEMBER:'instr-bond',-1,0,32,0,7,0,0
+PIPE:0,4,1
+PIPE:1,4,2
