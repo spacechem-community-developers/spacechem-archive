@@ -1,11 +1,11 @@
-SOLUTION:Oxygen Synthesis,12345ieee,22491-2-71,s
+SOLUTION:Oxygen Synthesis,andy,22204-2-71,s
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,2
 PIPE:0,3,2
 COMPONENT:'drag-nuclear-reactor',5,6,''
 MEMBER:'instr-start',180,0,128,3,0,0,0
-MEMBER:'instr-start',0,0,32,0,7,0,0
+MEMBER:'instr-start',0,0,32,5,7,0,0
 MEMBER:'feature-bonder',-1,0,1,0,0,0,0
 MEMBER:'feature-bonder',-1,0,1,9,7,0,0
 MEMBER:'feature-bonder',-1,0,1,8,0,0,0
@@ -23,6 +23,7 @@ MEMBER:'instr-bond',-1,1,128,8,1,0,0
 MEMBER:'instr-arrow',180,0,64,9,0,0,0
 MEMBER:'instr-arrow',180,0,64,9,1,0,0
 MEMBER:'instr-toggle',-90,0,128,9,1,0,0
+MEMBER:'instr-arrow',90,0,16,3,0,0,0
 MEMBER:'instr-arrow',0,0,16,3,3,0,0
 MEMBER:'instr-arrow',-90,0,16,3,5,0,0
 MEMBER:'instr-grab',-1,0,32,3,5,0,0
@@ -31,7 +32,6 @@ MEMBER:'instr-split',-1,0,32,5,5,0,0
 MEMBER:'instr-toggle',90,0,32,6,3,0,0
 MEMBER:'instr-grab',-1,1,32,6,5,0,0
 MEMBER:'instr-arrow',0,0,16,6,7,0,0
-MEMBER:'instr-arrow',90,0,16,7,0,0,0
 MEMBER:'instr-arrow',90,0,16,7,3,0,0
 MEMBER:'instr-arrow',180,0,16,7,5,0,0
 MEMBER:'instr-toggle',-90,0,32,7,7,0,0
