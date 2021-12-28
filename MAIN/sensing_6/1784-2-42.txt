@@ -1,4 +1,4 @@
-SOLUTION:Challenge: Going Green,JYPark1101,1786-2-42
+SOLUTION:Challenge: Going Green,Haxton,1784-2-42
 COMPONENT:'drag-powerplant-input',-7,4,''
 PIPE:0,14,7
 PIPE:0,14,6
@@ -28,24 +28,18 @@ MEMBER:'instr-arrow',180,0,64,8,5,0,0
 MEMBER:'instr-output',-1,0,32,0,7,0,0
 PIPE:0,4,1
 PIPE:1,4,2
-PIPE:0,4,0
-PIPE:0,5,0
 PIPE:0,5,1
 PIPE:0,6,1
-PIPE:0,6,0
-PIPE:0,7,0
 PIPE:0,7,1
 PIPE:0,8,1
-PIPE:0,8,0
-PIPE:0,9,0
 PIPE:0,9,1
 PIPE:1,5,2
 PIPE:1,6,2
 PIPE:1,7,2
-PIPE:1,7,3
-PIPE:1,8,3
-PIPE:1,9,3
+PIPE:1,8,2
 PIPE:1,9,2
+ANNOTATION:0,1,18,-142,'2,3:0,1;\n\r1,3:0,16;\n\r2,3:0,1;\n\r'
+ANNOTATION:1,1,-9,123,'0,0:0,8;2,0:0,8;1,0:0,6;\n0,0,1:2;1,0,1:2;\r\n\r\n\r'
 COMPONENT:'drag-advanced-reactor',18,7,''
 MEMBER:'instr-start',180,0,128,8,1,0,0
 MEMBER:'instr-start',180,0,32,7,4,0,0
