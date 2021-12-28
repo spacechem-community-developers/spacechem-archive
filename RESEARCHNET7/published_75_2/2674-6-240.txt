@@ -69,8 +69,8 @@ PIPE:1,8,6
 PIPE:1,9,6
 PIPE:1,10,6
 PIPE:1,11,6
-ANNOTATION:0,1,0,0,'0,3:0,79;\n\r\n\r\n\r'
-ANNOTATION:1,1,0,0,'0,0:0,78;\n\r\n\r\n\r'
+ANNOTATION:0,1,0,-34,'0,3:0,79;\n\r\n\r\n\r'
+ANNOTATION:1,1,112,-60,'0,0:0,78;\n\r\n\r\n\r'
 COMPONENT:'drag-superbonder-reactor',6,13,''
 MEMBER:'instr-start',180,0,128,1,2,0,0
 MEMBER:'instr-start',90,0,32,0,4,0,0
@@ -144,8 +144,8 @@ PIPE:1,8,-10
 PIPE:1,9,-10
 PIPE:1,10,-10
 PIPE:1,11,-10
-ANNOTATION:0,1,0,0,'0,3:0,22;\n\r\n\r\n\r'
-ANNOTATION:1,1,0,0,'0,0:0,26;\n\r\n\r\n\r'
+ANNOTATION:0,1,-6,-40,'0,3:0,22;\n\r\n\r\n\r'
+ANNOTATION:1,1,107,-61,'0,0:0,26;\n\r\n\r\n\r'
 COMPONENT:'drag-superbonder-reactor',6,18,''
 MEMBER:'instr-start',180,0,128,1,2,0,0
 MEMBER:'instr-start',90,0,32,0,4,0,0
@@ -234,8 +234,8 @@ PIPE:1,11,-7
 PIPE:1,11,-8
 PIPE:1,11,-9
 PIPE:1,11,-10
-ANNOTATION:0,1,0,0,'0,3:0,13;\n\r\n\r\n\r'
-ANNOTATION:1,1,0,0,'0,0:0,29;\n\r\n\r\n\r'
+ANNOTATION:0,1,11,-4,'0,3:0,13;\n\r\n\r\n\r'
+ANNOTATION:1,1,126,-9,'0,0:0,29;\n\r\n\r\n\r'
 COMPONENT:'drag-superbonder-reactor',18,1,''
 MEMBER:'instr-start',-90,0,128,0,5,0,0
 MEMBER:'instr-start',180,0,32,7,7,0,0
