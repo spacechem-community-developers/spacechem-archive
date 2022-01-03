@@ -1,4 +1,4 @@
-SOLUTION:100,12345ieee,67-1-37
+SOLUTION:100,britboy3456,67-1-36,Brit 36 pareto
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,4,7,0,0
 MEMBER:'instr-start',0,0,32,1,2,0,0
@@ -30,7 +30,6 @@ MEMBER:'instr-arrow',180,0,64,6,4,0,0
 MEMBER:'instr-bond',-1,1,128,6,4,0,0
 MEMBER:'instr-arrow',0,0,16,2,2,0,0
 MEMBER:'instr-grab',-1,0,32,2,2,0,0
-MEMBER:'instr-arrow',-90,0,16,2,3,0,0
 MEMBER:'instr-input',-1,0,32,2,3,0,0
 MEMBER:'instr-arrow',-90,0,16,2,4,0,0
 MEMBER:'instr-output',-1,0,32,2,4,0,0
