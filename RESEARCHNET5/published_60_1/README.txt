@@ -1,1 +1,1 @@
-./scores.txt
+./solutions.psv
