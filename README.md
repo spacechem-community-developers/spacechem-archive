@@ -1,6 +1,35 @@
 # spacechem-archive
 Machine-readable solutions for SpaceChem (http://www.zachtronics.com/spacechem)
 
+## What's in here
+
+Companion repo of [the Reddit wiki](https://www.reddit.com/r/spacechem/wiki/index), hosts the complete wiki state and the [pareto frontier](https://en.wikipedia.org/wiki/Pareto_front) of each level in the form of [CE exports](https://github.com/spacechem-community-developers/SpaceChem-Community-Edition/).
+
+## I have a solution I want to add
+
+The [wiki section of submitting a new record](https://www.reddit.com/r/spacechem/wiki/index#wiki_submitting_a_new_solution) has all the info you need.
+
+## I am a wiki mod
+
+You'll normally want to operate the bot as a normal user (by using `bypassValidation` if needed), but you may want to do manual changes to the wiki pages or the solutions state.
+
+### Change the wiki pages
+
+The wiki pages on reddit can be edited manually, the bot will respect that. New explanations can be added/removed and level tables can be widened/shrinked.
+
+The bot will replace the content of the record cells each time it's run on a certain puzzle, so those must not be edited manually.
+
+### Change the solutions state
+
+To edit record cells (to change authors for example) it's needed to edit the state hosted here, for example [here is OPAS' state](https://github.com/spacechem-community-developers/spacechem-archive/blob/master/MAIN/research_example_1/solutions.psv).
+
+Once the file has been edited and saved, call the bot via `/sc rebuild puzzle:<name>` and the cells of that puzzle will be rebuilt.
+
+### Add new catgories/puzzle, change the styling of record cells
+Ask @12345ieee .
+
+## Direct links to level folders
+
 [Of Pancakes and Spaceships](MAIN/research_example_1)  
 [Slightly Different](MAIN/research_tutorial_1)  
 [Crossover](MAIN/research_tutorial_1point5)  
