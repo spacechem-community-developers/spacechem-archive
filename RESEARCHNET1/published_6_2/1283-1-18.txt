@@ -1,4 +1,4 @@
-SOLUTION:Silica,anningmay,1283-1-18,Symbols 18
+SOLUTION:Silica,12345ieee,1283-1-18,Symbols 18
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,4,3,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

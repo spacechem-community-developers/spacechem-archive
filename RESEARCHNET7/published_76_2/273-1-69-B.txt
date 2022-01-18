@@ -1,4 +1,4 @@
-SOLUTION:Magnets,Ser,273-1-69,/B
+SOLUTION:Magnets,serbaldrig,273-1-69,/B
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,6,2,0,0
 MEMBER:'instr-start',90,0,32,1,0,0,0

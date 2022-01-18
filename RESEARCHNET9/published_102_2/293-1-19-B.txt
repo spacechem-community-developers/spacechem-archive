@@ -1,4 +1,4 @@
-SOLUTION:Doping,12345ieee,293-1-19,/B
+SOLUTION:Doping,DariusRaider,293-1-19,/B
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,4,3,0,0
 MEMBER:'instr-start',180,0,32,2,3,0,0

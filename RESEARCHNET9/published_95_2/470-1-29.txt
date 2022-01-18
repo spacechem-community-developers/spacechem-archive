@@ -1,4 +1,4 @@
-SOLUTION:Modern Alchemy,12345ieee,470-1-29
+SOLUTION:Modern Alchemy,whoever314,470-1-29
 COMPONENT:'drag-nuclear-reactor',6,18,''
 MEMBER:'instr-start',0,0,128,4,2,0,0
 MEMBER:'instr-start',90,0,32,3,1,0,0

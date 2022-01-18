@@ -1,4 +1,4 @@
-SOLUTION:How Ionic,Archiver,195-1-40,Archived Solution
+SOLUTION:How Ionic,ToughThought/Andy,195-1-40,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,4,4,0,0
 MEMBER:'instr-start',90,0,32,1,0,0,0

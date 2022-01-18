@@ -1,4 +1,4 @@
-SOLUTION:Fusion - Silane,Archiver,178-1-40,Archived Solution
+SOLUTION:Fusion - Silane,Andy,178-1-40,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,3,5,0,0
 MEMBER:'instr-start',-90,0,32,0,6,0,0

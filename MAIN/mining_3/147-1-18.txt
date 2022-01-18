@@ -1,4 +1,4 @@
-SOLUTION:Sacré Bleu!,giggs,147-1-18
+SOLUTION:Sacré Bleu!,darkgiggs,147-1-18
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,4,4,0,0
 MEMBER:'instr-start',-90,0,32,2,6,0,0

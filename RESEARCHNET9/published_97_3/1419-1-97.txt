@@ -1,4 +1,4 @@
-SOLUTION:Photosynthesis,2ofts,1419-1-97
+SOLUTION:Photosynthesis,davenger,1419-1-97
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,2,2,0,0
 MEMBER:'instr-start',180,0,32,3,1,0,0

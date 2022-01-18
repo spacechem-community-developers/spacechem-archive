@@ -1,4 +1,4 @@
-SOLUTION:Challenge: KOHCTPYKTOP,joequincy,21633-4-55
+SOLUTION:Challenge: KOHCTPYKTOP,Ir_Sigma,21633-4-55
 COMPONENT:'drag-silo-input',2,10,''
 PIPE:0,5,2
 PIPE:0,5,3

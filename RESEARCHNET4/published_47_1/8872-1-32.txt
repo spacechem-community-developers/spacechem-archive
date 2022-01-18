@@ -1,4 +1,4 @@
-SOLUTION:Nuclear Medicine,Archiver,8872-1-32,Archived Solution
+SOLUTION:Nuclear Medicine,Andy,8872-1-32,Archived Solution
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,0

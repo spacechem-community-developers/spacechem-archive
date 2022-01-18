@@ -1,4 +1,4 @@
-SOLUTION:Allyl Alcohol,Archiver,259-1-14,Archived Solution
+SOLUTION:Allyl Alcohol,Andy,259-1-14,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,0,4,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

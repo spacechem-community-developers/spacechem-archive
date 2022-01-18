@@ -1,4 +1,4 @@
-SOLUTION:Multiple Outputs,Zig,155-1-10,Symbols
+SOLUTION:Multiple Outputs,Jared T.,155-1-10,Symbols
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',-90,0,32,2,3,0,0

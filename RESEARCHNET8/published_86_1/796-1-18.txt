@@ -1,4 +1,4 @@
-SOLUTION:How Ionic,giggs,796-1-18
+SOLUTION:How Ionic,darkgiggs,796-1-18
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,0,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Fun with Oxides,giggs,2634-2-35
+SOLUTION:Fun with Oxides,darkgiggs/12345ieee,2634-2-35
 COMPONENT:'drag-starter-reactor',4,5,''
 MEMBER:'instr-start',0,0,128,5,1,0,0
 MEMBER:'instr-start',-90,0,32,2,3,0,0

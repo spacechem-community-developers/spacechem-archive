@@ -1,4 +1,4 @@
-SOLUTION:Carbon Snakes,Zig,87-1-38
+SOLUTION:Carbon Snakes,Zig/Andy,87-1-38
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,3,3,0,0
 MEMBER:'instr-start',90,0,32,0,2,0,0

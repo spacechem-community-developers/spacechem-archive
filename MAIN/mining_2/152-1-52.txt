@@ -1,4 +1,4 @@
-SOLUTION:Like a Boss,GuavaMoment,152-1-52
+SOLUTION:Like a Boss,Sahishar,152-1-52
 COMPONENT:'drag-reduced-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,5,6,0,0
 MEMBER:'instr-start',-90,0,32,1,6,0,0

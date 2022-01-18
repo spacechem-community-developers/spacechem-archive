@@ -1,4 +1,4 @@
-SOLUTION:Chlorine and Ammonia,Archiver,408-1-22,Archived Solution
+SOLUTION:Chlorine and Ammonia,Andy,408-1-22,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,3,3,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

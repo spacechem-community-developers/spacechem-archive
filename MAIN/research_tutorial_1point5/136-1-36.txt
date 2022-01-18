@@ -1,4 +1,4 @@
-SOLUTION:Crossover,Archiver,136-1-36,Archived Solution
+SOLUTION:Crossover,toi333,136-1-36,Archived Solution
 COMPONENT:'empty-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,4,1,0,0
 MEMBER:'instr-start',90,0,32,1,0,0,0

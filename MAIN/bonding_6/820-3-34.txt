@@ -1,4 +1,4 @@
-SOLUTION:Settling into the Routine,Zig,820-3-34,Cycles
+SOLUTION:Settling into the Routine,Sahishar,820-3-34,Cycles
 COMPONENT:'drag-disassembly-reactor',11,2,''
 MEMBER:'instr-start',-90,0,128,9,5,0,0
 MEMBER:'instr-start',0,0,32,1,1,0,0

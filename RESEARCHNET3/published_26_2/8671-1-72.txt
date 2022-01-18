@@ -1,4 +1,4 @@
-SOLUTION:Novel Semiconductor,whoever314,8671-1-72,Discord Chat
+SOLUTION:Novel Semiconductor,whoever314/12345ieee,8671-1-72,Discord Chat
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,2

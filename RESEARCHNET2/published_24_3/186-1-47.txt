@@ -1,4 +1,4 @@
-SOLUTION:Styrene,Archiver,186-1-47,Archived Solution
+SOLUTION:Styrene,Andy,186-1-47,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,5,1,0,0
 MEMBER:'instr-start',0,0,32,1,1,0,0

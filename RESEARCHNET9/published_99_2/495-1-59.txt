@@ -1,4 +1,4 @@
-SOLUTION:What a Waste,DariusOne,495-1-59
+SOLUTION:What a Waste,DariusRaider,495-1-59
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,4,1,0,0
 MEMBER:'instr-start',90,0,32,4,1,0,0

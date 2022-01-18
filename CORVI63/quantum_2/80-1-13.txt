@@ -1,4 +1,4 @@
-SOLUTION:QT-2,sboparen,80-1-13
+SOLUTION:QT-2,ToughThought,80-1-13
 COMPONENT:'drag-quantum-reactor-s',2,0,''
 MEMBER:'instr-start',90,0,128,7,1,0,0
 MEMBER:'instr-start',-90,0,32,4,2,0,0

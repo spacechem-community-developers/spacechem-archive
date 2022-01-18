@@ -1,4 +1,4 @@
-SOLUTION:Downgrade,Andy,80-1-19
+SOLUTION:Downgrade,davenger,80-1-19
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,5,0,0,0
 MEMBER:'instr-start',-90,0,32,0,1,0,0

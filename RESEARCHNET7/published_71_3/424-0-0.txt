@@ -1,4 +1,4 @@
-SOLUTION:Particle Accelerator,Zig,424-0-0,Unnamed Solution
+SOLUTION:Particle Accelerator,AlphaRaptor,424-0-0,Unnamed Solution
 COMPONENT:'drag-arbitrary-input',3,18,''
 PIPE:0,2,1
 PIPE:0,3,1

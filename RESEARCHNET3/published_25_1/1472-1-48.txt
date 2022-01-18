@@ -1,4 +1,4 @@
-SOLUTION:Thinner Line,12345ieee,1472-1-48
+SOLUTION:Thinner Line,whoever314,1472-1-48
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1

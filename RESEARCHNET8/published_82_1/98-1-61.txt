@@ -1,4 +1,4 @@
-SOLUTION:Waste Gas,whoever314,98-1-61
+SOLUTION:Waste Gas,ToughThought,98-1-61
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,0,0,0,0
 MEMBER:'instr-start',-90,0,32,1,7,0,0

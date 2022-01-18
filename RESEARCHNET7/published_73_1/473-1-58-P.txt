@@ -1,4 +1,4 @@
-SOLUTION:Halogen Sorting,12345ieee,473-1-58,/P pdude
+SOLUTION:Halogen Sorting,Pseudodude,473-1-58,/P pdude
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,0,4,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0

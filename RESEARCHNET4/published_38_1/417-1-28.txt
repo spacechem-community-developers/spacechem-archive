@@ -1,4 +1,4 @@
-SOLUTION:Cyanogen,giggs,417-1-28
+SOLUTION:Cyanogen,Community,417-1-28
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,7,4,0,0
 MEMBER:'instr-start',0,0,32,5,0,0,0

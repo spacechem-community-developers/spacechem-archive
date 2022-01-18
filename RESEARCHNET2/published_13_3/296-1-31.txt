@@ -1,4 +1,4 @@
-SOLUTION:Vitamin B3,giggs,296-1-31
+SOLUTION:Vitamin B3,cactus/12345ieee,296-1-31
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,2,5,0,0
 MEMBER:'instr-start',0,0,32,3,4,0,0

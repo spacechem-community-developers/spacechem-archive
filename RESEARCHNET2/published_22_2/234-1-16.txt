@@ -1,4 +1,4 @@
-SOLUTION:Beckmann Rearrangement,Archiver,234-1-16,Archived Solution
+SOLUTION:Beckmann Rearrangement,Andy,234-1-16,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',0,0,32,4,3,0,0

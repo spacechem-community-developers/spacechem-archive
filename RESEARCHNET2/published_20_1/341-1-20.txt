@@ -1,4 +1,4 @@
-SOLUTION:Phenol,12345ieee,341-1-20,Ser/giggs
+SOLUTION:Phenol,serbaldrig/darkgiggs,341-1-20,Ser/giggs
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',90,0,32,2,2,0,0

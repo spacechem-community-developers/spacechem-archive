@@ -1,4 +1,4 @@
-SOLUTION:Challenge: In-Place Swap,12345ieee,1710-1-25,Sahishar
+SOLUTION:Challenge: In-Place Swap,Sahishar,1710-1-25,Sahishar
 COMPONENT:'drag-oceanic-input',1,16,''
 PIPE:0,2,0
 PIPE:0,2,-1

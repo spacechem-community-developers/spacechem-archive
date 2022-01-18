@@ -1,4 +1,4 @@
-SOLUTION:Glucose,Archiver,417-1-31,Archived Solution
+SOLUTION:Glucose,Andy,417-1-31,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,5,0,0,0
 MEMBER:'instr-start',0,0,32,1,0,0,0

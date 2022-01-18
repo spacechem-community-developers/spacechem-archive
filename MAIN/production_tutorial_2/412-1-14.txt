@@ -1,4 +1,4 @@
-SOLUTION:There's Something in the Fishcake,Zig,412-1-14,Cycles
+SOLUTION:There's Something in the Fishcake,hailstone,412-1-14,Cycles
 COMPONENT:'drag-silo-input',6,8,''
 PIPE:0,5,2
 PIPE:0,5,1

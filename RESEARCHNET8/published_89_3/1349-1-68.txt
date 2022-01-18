@@ -1,4 +1,4 @@
-SOLUTION:Magnum Opus,whoever314,1349-1-68,1349-1-68
+SOLUTION:Magnum Opus,whoever314/12345ieee,1349-1-68,1349-1-68
 COMPONENT:'drag-superbonder-reactor',6,12,''
 MEMBER:'instr-start',0,0,128,2,1,0,0
 MEMBER:'instr-start',0,0,32,0,5,0,0

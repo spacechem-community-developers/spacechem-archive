@@ -1,4 +1,4 @@
-SOLUTION:Slightly Different,Zig,115-1-6
+SOLUTION:Slightly Different,Sahishar,115-1-6
 COMPONENT:'empty-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,0,5,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

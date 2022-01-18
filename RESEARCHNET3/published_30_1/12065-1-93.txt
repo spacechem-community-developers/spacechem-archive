@@ -1,4 +1,4 @@
-SOLUTION:Fuel Production,whoever314,12065-1-93
+SOLUTION:Fuel Production,Community,12065-1-93
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1

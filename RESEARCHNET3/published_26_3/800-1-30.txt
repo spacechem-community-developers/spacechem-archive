@@ -1,4 +1,4 @@
-SOLUTION:Passivation,Ser,800-1-30
+SOLUTION:Passivation,serbaldrig,800-1-30
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,7,2,0,0
 MEMBER:'instr-start',180,0,32,3,7,0,0

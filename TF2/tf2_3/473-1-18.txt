@@ -1,4 +1,4 @@
-SOLUTION:Moustachium 608,SolracCV,473-1-18
+SOLUTION:Moustachium 608,Phoil,473-1-18
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

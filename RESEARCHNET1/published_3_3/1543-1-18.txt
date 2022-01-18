@@ -1,4 +1,4 @@
-SOLUTION:KOHCTPYKTOP++,cams,1543-1-18
+SOLUTION:KOHCTPYKTOP++,Ir_Sigma,1543-1-18
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,8,2,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

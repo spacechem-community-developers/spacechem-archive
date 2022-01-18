@@ -1,4 +1,4 @@
-SOLUTION:Normalization,giggs,285-1-16
+SOLUTION:Normalization,cactus,285-1-16
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,7,0,0,0
 MEMBER:'instr-start',180,0,32,1,1,0,0

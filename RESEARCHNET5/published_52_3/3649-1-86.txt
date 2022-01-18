@@ -1,4 +1,4 @@
-SOLUTION:Running Low,12345ieee,3649-1-86,12345ieee
+SOLUTION:Running Low,whoever314/12345ieee,3649-1-86,12345ieee
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',-90,0,128,4,7,0,0
 MEMBER:'instr-start',90,0,32,0,4,0,0

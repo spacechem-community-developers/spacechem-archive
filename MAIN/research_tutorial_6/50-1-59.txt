@@ -1,4 +1,4 @@
-SOLUTION:Multiple Outputs,TheNonEntity,50-1-59
+SOLUTION:Multiple Outputs,harbinger,50-1-59
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,7,2,0,0
 MEMBER:'instr-start',0,0,32,1,1,0,0

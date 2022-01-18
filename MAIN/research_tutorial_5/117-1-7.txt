@@ -1,4 +1,4 @@
-SOLUTION:Best Left Unanswered,Zig,117-1-7,Symbols
+SOLUTION:Best Left Unanswered,prdwong,117-1-7,Symbols
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,1,1,0,0

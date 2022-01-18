@@ -1,4 +1,4 @@
-SOLUTION:Industrial Methanol,12345ieee,106-1-40
+SOLUTION:Industrial Methanol,Andy,106-1-40
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,6,7,0,0
 MEMBER:'instr-start',90,0,32,2,0,0,0

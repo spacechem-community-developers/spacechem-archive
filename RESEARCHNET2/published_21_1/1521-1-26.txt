@@ -1,4 +1,4 @@
-SOLUTION:Phosgene,Archiver,1521-1-26,Archived Solution
+SOLUTION:Phosgene,Andy,1521-1-26,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,0,0,0
 MEMBER:'instr-start',-90,0,32,9,1,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Prime Time,Archiver,1086-1-24,Archived Solution
+SOLUTION:Prime Time,Andy/gggol,1086-1-24,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,5,1,0,0
 MEMBER:'instr-start',180,0,32,1,1,0,0

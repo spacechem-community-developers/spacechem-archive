@@ -1,4 +1,4 @@
-SOLUTION:Nuclear Sorting,mohawkpete,1549-2-26,Symbols
+SOLUTION:Nuclear Sorting,MPete,1549-2-26,Symbols
 COMPONENT:'drag-nuclear-reactor',4,5,''
 MEMBER:'instr-start',-90,0,128,7,2,0,0
 MEMBER:'instr-start',0,0,32,1,1,0,0

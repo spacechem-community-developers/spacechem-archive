@@ -1,4 +1,4 @@
-SOLUTION:PVA,Archiver,368-1-47,Archived Solution
+SOLUTION:PVA,Andy,368-1-47,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,1,0,0,0
 MEMBER:'instr-start',180,0,32,2,5,0,0

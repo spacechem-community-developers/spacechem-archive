@@ -1,4 +1,4 @@
-SOLUTION:Going Green Part II,12345ieee,497-1-21
+SOLUTION:Going Green Part II,Zig,497-1-21
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,8,0,0,0
 MEMBER:'instr-start',180,0,32,4,0,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Average Out,12345ieee,1223-3-60,Unnamed Solution
+SOLUTION:Average Out,serbaldrig,1223-3-60,Unnamed Solution
 COMPONENT:'drag-advanced-reactor',4,4,''
 MEMBER:'instr-start',180,0,128,9,4,0,0
 MEMBER:'instr-start',90,0,32,1,4,0,0

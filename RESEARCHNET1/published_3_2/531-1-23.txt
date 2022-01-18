@@ -1,4 +1,4 @@
-SOLUTION:Cycloaddition,Archiver,531-1-23,Archived Solution
+SOLUTION:Cycloaddition,Andy,531-1-23,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',-90,0,32,2,5,0,0

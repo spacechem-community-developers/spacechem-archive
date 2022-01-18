@@ -1,4 +1,4 @@
-SOLUTION:Haber-Bosch,whoever314,1256-2-94,1256-2-94
+SOLUTION:Haber-Bosch,Community,1256-2-94,1256-2-94
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1

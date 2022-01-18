@@ -1,4 +1,4 @@
-SOLUTION:Sun Simulator,12345ieee,118-1-25
+SOLUTION:Sun Simulator,mjau,118-1-25
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,2,4,0,0
 MEMBER:'instr-start',-90,0,32,1,2,0,0

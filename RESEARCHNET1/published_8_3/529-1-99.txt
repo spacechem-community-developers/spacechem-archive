@@ -1,4 +1,4 @@
-SOLUTION:Bad Times,Archiver,529-1-99,Archived Solution
+SOLUTION:Bad Times,Andy,529-1-99,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,3,5,0,0
 MEMBER:'instr-start',-90,0,32,1,6,0,0

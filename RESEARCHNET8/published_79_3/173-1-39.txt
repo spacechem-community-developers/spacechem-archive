@@ -1,4 +1,4 @@
-SOLUTION:Lies,whoever314,173-1-39
+SOLUTION:Lies,serbaldrig,173-1-39
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,3,3,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0

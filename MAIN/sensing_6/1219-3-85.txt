@@ -1,4 +1,4 @@
-SOLUTION:Challenge: Going Green,Myrar,1219-3-85
+SOLUTION:Challenge: Going Green,kuroi_neko,1219-3-85
 COMPONENT:'drag-powerplant-input',-7,4,''
 PIPE:0,14,7
 PIPE:0,14,6

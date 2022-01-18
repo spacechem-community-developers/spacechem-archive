@@ -1,4 +1,4 @@
-SOLUTION:Challenge: Applied Fusion,Sahishar,5457-1-31,thx guys!
+SOLUTION:Challenge: Applied Fusion,mrcable,5457-1-31,thx guys!
 COMPONENT:'drag-fusion-reactor',7,9,''
 MEMBER:'instr-start',180,0,128,6,7,0,0
 MEMBER:'instr-start',90,0,32,1,4,0,0

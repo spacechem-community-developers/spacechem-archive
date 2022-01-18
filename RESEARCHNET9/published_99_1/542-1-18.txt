@@ -1,4 +1,4 @@
-SOLUTION:Antimony Mining,andy,542-1-18,s
+SOLUTION:Antimony Mining,Counterpoint,542-1-18,s
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',180,0,32,8,3,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Silica,Archiver,233-1-61,Archived Solution
+SOLUTION:Silica,Andy,233-1-61,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,2,4,0,0
 MEMBER:'instr-start',-90,0,32,1,6,0,0

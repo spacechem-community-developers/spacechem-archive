@@ -1,4 +1,4 @@
-SOLUTION:Thermoplastic,whoever314,836-1-28
+SOLUTION:Thermoplastic,serbaldrig,836-1-28
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,2,6,0,0
 MEMBER:'instr-start',0,0,32,3,6,0,0

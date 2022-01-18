@@ -1,4 +1,4 @@
-SOLUTION:Bosch-Meiser,Archiver,238-1-37,Archived Solution
+SOLUTION:Bosch-Meiser,Andy,238-1-37,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,2,5,0,0
 MEMBER:'instr-start',90,0,32,0,0,0,0

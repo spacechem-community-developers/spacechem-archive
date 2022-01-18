@@ -1,4 +1,4 @@
-SOLUTION:Ice to Meet You,Zig,176-1-10,Symbols
+SOLUTION:Ice to Meet You,Sahishar,176-1-10,Symbols
 COMPONENT:'drag-fusion-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

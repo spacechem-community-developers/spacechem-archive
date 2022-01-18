@@ -1,4 +1,4 @@
-SOLUTION:Benzene Derivatives,Archiver,270-1-65,Archived Solution
+SOLUTION:Benzene Derivatives,Andy,270-1-65,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,7,1,0,0
 MEMBER:'instr-start',0,0,32,0,5,0,0

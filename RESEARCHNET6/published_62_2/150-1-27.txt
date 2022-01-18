@@ -1,4 +1,4 @@
-SOLUTION:Deadly Fluorinated Water,12345ieee,150-1-27
+SOLUTION:Deadly Fluorinated Water,CannibalK9,150-1-27
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,7,5,0,0
 MEMBER:'instr-start',90,0,32,2,0,0,0

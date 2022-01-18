@@ -1,4 +1,4 @@
-SOLUTION:Memories,Archiver,1863-1-55,Archived Solution
+SOLUTION:Memories,Andy,1863-1-55,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,9,3,0,0
 MEMBER:'instr-start',180,0,32,2,1,0,0

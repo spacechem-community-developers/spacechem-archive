@@ -1,4 +1,4 @@
-SOLUTION:Novel Semiconductor,12345ieee,18737-1-37,Community
+SOLUTION:Novel Semiconductor,Community,18737-1-37,Community
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,2

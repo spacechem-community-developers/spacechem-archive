@@ -1,4 +1,4 @@
-SOLUTION:Life: Thymine,Archiver,162-1-32,Archived Solution
+SOLUTION:Life: Thymine,Andy,162-1-32,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,8,2,0,0
 MEMBER:'instr-start',0,0,32,2,2,0,0

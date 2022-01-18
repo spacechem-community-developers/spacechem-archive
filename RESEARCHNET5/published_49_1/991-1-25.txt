@@ -1,4 +1,4 @@
-SOLUTION:PAX Challenge 1,Zig,991-1-25
+SOLUTION:PAX Challenge 1,Andy,991-1-25
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',180,0,32,1,6,0,0

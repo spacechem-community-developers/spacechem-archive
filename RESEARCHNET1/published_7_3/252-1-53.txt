@@ -1,4 +1,4 @@
-SOLUTION:Bioplastic,Archiver,252-1-53,Archived Solution
+SOLUTION:Bioplastic,Andy,252-1-53,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,9,3,0,0
 MEMBER:'instr-start',180,0,32,2,1,0,0

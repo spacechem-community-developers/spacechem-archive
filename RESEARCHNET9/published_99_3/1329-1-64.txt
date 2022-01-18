@@ -1,4 +1,4 @@
-SOLUTION:AC without AGW,giggs,1329-1-64
+SOLUTION:AC without AGW,Blueeyedrat/darkgiggs,1329-1-64
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,7,7,0,0
 MEMBER:'instr-start',90,0,32,6,1,0,0

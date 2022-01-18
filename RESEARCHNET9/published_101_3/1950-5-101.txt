@@ -1,4 +1,4 @@
-SOLUTION:Unpleasant Dreams,giggs,1950-5-101
+SOLUTION:Unpleasant Dreams,darkgiggs,1950-5-101
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,0

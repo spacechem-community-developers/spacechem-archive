@@ -1,4 +1,4 @@
-SOLUTION:Teleporters,Spiff,983-3-48,*** 3rd / 3rd (3R)
+SOLUTION:Teleporters,GuavaMoment,983-3-48,*** 3rd / 3rd (3R)
 COMPONENT:'drag-quantum-reactor',7,16,''
 MEMBER:'instr-start',0,0,128,0,5,0,0
 MEMBER:'instr-start',180,0,32,8,2,0,0

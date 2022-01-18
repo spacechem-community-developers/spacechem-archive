@@ -1,4 +1,4 @@
-SOLUTION:Graphene,Archiver,561-1-74,Archived Solution
+SOLUTION:Graphene,Andy,561-1-74,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,8,5,0,0
 MEMBER:'instr-start',180,0,32,2,1,0,0

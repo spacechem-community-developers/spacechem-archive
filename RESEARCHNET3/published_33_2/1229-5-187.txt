@@ -1,4 +1,4 @@
-SOLUTION:Boron Compounds,12345ieee,1229-5-187,Unnamed Solution
+SOLUTION:Boron Compounds,whoever314/12345ieee,1229-5-187,Unnamed Solution
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1

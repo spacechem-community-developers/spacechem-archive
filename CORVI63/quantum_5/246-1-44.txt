@@ -1,4 +1,4 @@
-SOLUTION:QT-4,giggs,246-1-44
+SOLUTION:QT-4,eFse7en,246-1-44
 COMPONENT:'drag-quantum-reactor-s',2,0,''
 MEMBER:'instr-start',-90,0,128,3,7,0,0
 MEMBER:'instr-start',-90,0,32,1,6,0,0

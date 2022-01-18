@@ -1,4 +1,4 @@
-SOLUTION:Precursor Compounds,Archiver,1050-4-100,Archived Solution
+SOLUTION:Precursor Compounds,eiTTio,1050-4-100,Archived Solution
 COMPONENT:'drag-spaceship-input',1,9,''
 PIPE:0,2,0
 PIPE:0,2,1

@@ -1,4 +1,4 @@
-SOLUTION:Settling into the Routine,siderberry,1777-3-25
+SOLUTION:Settling into the Routine,Sahishar,1777-3-25
 COMPONENT:'drag-disassembly-reactor',11,2,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,1,6,0,0

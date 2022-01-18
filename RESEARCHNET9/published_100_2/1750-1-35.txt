@@ -1,4 +1,4 @@
-SOLUTION:Philosopher's Cleanup,Archiver,1750-1-35,Archived Solution
+SOLUTION:Philosopher's Cleanup,Andy,1750-1-35,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',0,0,32,3,4,0,0

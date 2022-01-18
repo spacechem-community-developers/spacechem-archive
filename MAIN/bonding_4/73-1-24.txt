@@ -1,4 +1,4 @@
-SOLUTION:Split Before Bonding,Zig,73-1-24,Cycles
+SOLUTION:Split Before Bonding,toi333,73-1-24,Cycles
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,6,4,0,0
 MEMBER:'instr-start',180,0,32,3,5,0,0

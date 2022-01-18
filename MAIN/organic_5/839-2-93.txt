@@ -1,4 +1,4 @@
-SOLUTION:Ω-Pseudoethyne,whoever314,839-2-93,12345ieee
+SOLUTION:Ω-Pseudoethyne,Community,839-2-93,12345ieee
 COMPONENT:'drag-ancient-input',3,7,''
 PIPE:0,2,0
 PIPE:0,3,0

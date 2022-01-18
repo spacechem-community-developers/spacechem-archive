@@ -1,4 +1,4 @@
-SOLUTION:Precious Oxygen,britboy,383-1-74,Mayomizak
+SOLUTION:Precious Oxygen,mayomizak,383-1-74,Mayomizak
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,9,4,0,0

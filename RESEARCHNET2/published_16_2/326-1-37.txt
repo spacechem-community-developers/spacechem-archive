@@ -1,4 +1,4 @@
-SOLUTION:INH,gggol,326-1-37,variation on Andy's
+SOLUTION:INH,gggol/Andy,326-1-37,variation on Andy's
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,4,5,0,0
 MEMBER:'instr-start',-90,0,32,1,7,0,0

@@ -1,4 +1,4 @@
-SOLUTION:PVC,12345ieee,2014-1-22,Unnamed Solution
+SOLUTION:PVC,Counterpoint,2014-1-22,Unnamed Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,9,1,0,0
 MEMBER:'instr-start',-90,0,32,3,5,0,0

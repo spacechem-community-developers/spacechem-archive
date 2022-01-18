@@ -1,4 +1,4 @@
-SOLUTION:Θne,Archiver,1285-1-26,Archived Solution
+SOLUTION:Θne (Thetane),Andy,1285-1-26,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,3,4,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0

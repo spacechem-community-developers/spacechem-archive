@@ -1,4 +1,4 @@
-SOLUTION:Neodymium Magnet,Archiver,5225-1-32,Archived Solution
+SOLUTION:Neodymium Magnet,Andy,5225-1-32,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,2,0,0
 MEMBER:'instr-start',0,0,32,3,1,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Thinner Line,Archiver,681-2-75,Archived Solution
+SOLUTION:Thinner Line,Andy,681-2-75,Archived Solution
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,0

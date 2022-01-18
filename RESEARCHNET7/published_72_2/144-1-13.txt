@@ -1,4 +1,4 @@
-SOLUTION:100,12345ieee,144-1-13
+SOLUTION:100,John Evans,144-1-13
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',180,0,32,4,2,0,0

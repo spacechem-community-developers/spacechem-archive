@@ -1,4 +1,4 @@
-SOLUTION:Fertigprodukt,whoever314,31638-1-89
+SOLUTION:Fertigprodukt,whoever314/12345ieee,31638-1-89
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1

@@ -1,4 +1,4 @@
-SOLUTION:Ribulose,Archiver,1912-1-25,Archived Solution
+SOLUTION:Ribulose,Andy/12345ieee,1912-1-25,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,7,1,0,0
 MEMBER:'instr-start',0,0,32,0,7,0,0

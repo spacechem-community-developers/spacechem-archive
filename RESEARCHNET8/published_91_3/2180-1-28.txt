@@ -1,4 +1,4 @@
-SOLUTION:Hydrocarbon Stitch,Archiver,2180-1-28,Archived Solution
+SOLUTION:Hydrocarbon Stitch,Andy,2180-1-28,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',180,0,32,5,1,0,0

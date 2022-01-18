@@ -1,4 +1,4 @@
-SOLUTION:Martian Respiration,Archiver,244-1-22,Archived Solution
+SOLUTION:Martian Respiration,Andy,244-1-22,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,8,4,0,0
 MEMBER:'instr-start',0,0,32,1,3,0,0

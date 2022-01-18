@@ -1,4 +1,4 @@
-SOLUTION:Fuming Nitric Acid,Archiver,1026-2-88,Archived Solution
+SOLUTION:Fuming Nitric Acid,Andy,1026-2-88,Archived Solution
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1

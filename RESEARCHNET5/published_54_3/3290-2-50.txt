@@ -1,4 +1,4 @@
-SOLUTION:Stupor,12345ieee,3290-2-50,cactus
+SOLUTION:Stupor,cactus,3290-2-50,cactus
 COMPONENT:'drag-nuclear-reactor',4,5,''
 MEMBER:'instr-start',0,0,128,5,1,0,0
 MEMBER:'instr-start',180,0,32,1,6,0,0

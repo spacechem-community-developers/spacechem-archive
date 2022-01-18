@@ -1,4 +1,4 @@
-SOLUTION:Overflow,12345ieee,803-1-43
+SOLUTION:Overflow,darkgiggs/12345ieee,803-1-43
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',90,0,128,5,1,0,0
 MEMBER:'instr-start',0,0,32,0,5,0,0

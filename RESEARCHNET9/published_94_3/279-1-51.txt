@@ -1,4 +1,4 @@
-SOLUTION:Barbituric Acid,andy,279-1-51,c
+SOLUTION:Barbituric Acid,spagchem,279-1-51,c
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,8,2,0,0
 MEMBER:'instr-start',0,0,32,2,1,0,0

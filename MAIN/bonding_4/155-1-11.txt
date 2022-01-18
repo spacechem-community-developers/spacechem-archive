@@ -1,4 +1,4 @@
-SOLUTION:Split Before Bonding,Zig,155-1-11,Symbols
+SOLUTION:Split Before Bonding,prdwong,155-1-11,Symbols
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,4,5,0,0
 MEMBER:'instr-start',180,0,32,1,6,0,0

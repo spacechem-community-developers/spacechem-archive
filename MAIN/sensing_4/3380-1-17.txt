@@ -1,4 +1,4 @@
-SOLUTION:No Ordinary Headache,Archiver,3380-1-17,Archived Solution
+SOLUTION:No Ordinary Headache,bigmangohead,3380-1-17,Archived Solution
 COMPONENT:'drag-advanced-reactor',11,16,''
 MEMBER:'instr-start',-90,0,128,5,1,0,0
 MEMBER:'instr-start',90,0,32,1,4,0,0

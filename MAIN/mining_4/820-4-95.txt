@@ -1,4 +1,4 @@
-SOLUTION:Gas Works Park,Ser,820-4-95
+SOLUTION:Gas Works Park,serbaldrig,820-4-95
 COMPONENT:'drag-superbonder-reactor',5,6,''
 MEMBER:'instr-start',0,0,128,0,0,0,0
 MEMBER:'instr-start',180,0,32,4,3,0,0

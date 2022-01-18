@@ -1,4 +1,4 @@
-SOLUTION:Wöhler Synthesis,giggs,117-1-41
+SOLUTION:Wöhler Synthesis,Andy,117-1-41
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,2,1,0,0
 MEMBER:'instr-start',0,0,32,1,5,0,0

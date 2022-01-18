@@ -1,4 +1,4 @@
-SOLUTION:Graphene,12345ieee,6975-1-20
+SOLUTION:Graphene,darkgiggs/12345ieee,6975-1-20
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,0,0,0,0
 MEMBER:'instr-start',180,0,32,4,7,0,0

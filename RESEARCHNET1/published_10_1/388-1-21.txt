@@ -1,4 +1,4 @@
-SOLUTION:'Bad Times, Part II',12345ieee,388-1-21,Ser
+SOLUTION:'Bad Times, Part II',serbaldrig,388-1-21,Ser
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,6,0,0
 MEMBER:'instr-start',90,0,32,6,3,0,0

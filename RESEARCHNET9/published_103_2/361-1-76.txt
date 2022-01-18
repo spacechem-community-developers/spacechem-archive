@@ -1,4 +1,4 @@
-SOLUTION:Handle With Care,Archiver,361-1-76,Archived Solution
+SOLUTION:Handle With Care,Andy,361-1-76,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,7,3,0,0
 MEMBER:'instr-start',180,0,32,2,0,0,0

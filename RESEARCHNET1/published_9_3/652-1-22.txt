@@ -1,4 +1,4 @@
-SOLUTION:Diels-Alder,giggs,652-1-22
+SOLUTION:Diels-Alder,darkgiggs/12345ieee,652-1-22
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,7,5,0,0
 MEMBER:'instr-start',-90,0,32,9,3,0,0

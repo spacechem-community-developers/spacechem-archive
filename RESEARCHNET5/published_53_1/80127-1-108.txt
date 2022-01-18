@@ -1,4 +1,4 @@
-SOLUTION:Not a Planet,Archiver,80127-1-108,Archived Solution
+SOLUTION:Not a Planet,Andy,80127-1-108,Archived Solution
 COMPONENT:'drag-nuclear-reactor',6,12,''
 MEMBER:'instr-start',180,0,128,7,2,0,0
 MEMBER:'instr-start',0,0,32,0,5,0,0

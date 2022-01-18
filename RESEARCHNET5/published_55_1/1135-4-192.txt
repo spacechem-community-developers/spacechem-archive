@@ -1,4 +1,4 @@
-SOLUTION:Oxygen Synthesis for Kids,whoever314,1135-4-192,ToughThought
+SOLUTION:Oxygen Synthesis for Kids,ToughThought,1135-4-192,ToughThought
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',180,0,128,8,1,0,0
 MEMBER:'instr-start',0,0,32,1,4,0,0

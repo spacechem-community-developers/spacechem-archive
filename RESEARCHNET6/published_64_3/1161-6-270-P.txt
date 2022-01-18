@@ -1,4 +1,4 @@
-SOLUTION:Nightmare Factory,Ser,1161-6-270,/P
+SOLUTION:Nightmare Factory,serbaldrig,1161-6-270,/P
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,2,2

@@ -1,4 +1,4 @@
-SOLUTION:Radiation Treatment,giggs,2947-1-27
+SOLUTION:Radiation Treatment,Community,2947-1-27
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1

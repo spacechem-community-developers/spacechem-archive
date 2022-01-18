@@ -1,4 +1,4 @@
-SOLUTION:QT-1,12345ieee,20-1-5
+SOLUTION:QT-1,Alexander Pas,20-1-5
 COMPONENT:'drag-quantum-reactor-x',2,0,''
 MEMBER:'instr-start',180,0,128,3,3,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

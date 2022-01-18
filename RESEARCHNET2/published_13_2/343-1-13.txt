@@ -1,4 +1,4 @@
-SOLUTION:Breakdown,Archiver,343-1-13,Archived Solution
+SOLUTION:Breakdown,Andy,343-1-13,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,0,6,0,0
 MEMBER:'instr-start',90,0,32,9,1,0,0

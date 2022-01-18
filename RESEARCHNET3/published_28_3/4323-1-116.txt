@@ -1,4 +1,4 @@
-SOLUTION:Combustion Engine,whoever314,4323-1-116,WildFilch
+SOLUTION:Combustion Engine,whoever314/WildFilch,4323-1-116,WildFilch
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1

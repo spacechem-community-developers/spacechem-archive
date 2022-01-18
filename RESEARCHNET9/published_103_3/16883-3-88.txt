@@ -1,4 +1,4 @@
-SOLUTION:The Greatest Honor,Archiver,16883-3-88,Archived Solution
+SOLUTION:The Greatest Honor,Andy,16883-3-88,Archived Solution
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1

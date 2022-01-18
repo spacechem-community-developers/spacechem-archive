@@ -1,4 +1,4 @@
-SOLUTION:Electrophilic Addition,Zig,110-1-34
+SOLUTION:Electrophilic Addition,toi333,110-1-34
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,7,2,0,0
 MEMBER:'instr-start',-90,0,32,2,6,0,0

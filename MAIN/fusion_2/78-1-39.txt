@@ -1,4 +1,4 @@
-SOLUTION:Under the Ice,sboparen,78-1-39
+SOLUTION:Under the Ice,Sahishar,78-1-39
 COMPONENT:'drag-fusion-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,5,5,0,0
 MEMBER:'instr-start',90,0,32,1,0,0,0

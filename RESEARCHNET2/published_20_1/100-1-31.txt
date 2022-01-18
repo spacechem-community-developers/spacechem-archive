@@ -1,4 +1,4 @@
-SOLUTION:Phenol,12345ieee,100-1-31
+SOLUTION:Phenol,ToughThought,100-1-31
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,5,5,0,0
 MEMBER:'instr-start',90,0,32,2,2,0,0

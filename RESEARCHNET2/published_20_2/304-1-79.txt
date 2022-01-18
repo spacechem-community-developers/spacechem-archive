@@ -1,4 +1,4 @@
-SOLUTION:Uracil,Archiver,304-1-79,Archived Solution
+SOLUTION:Uracil,Andy,304-1-79,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,8,7,0,0
 MEMBER:'instr-start',-90,0,32,0,3,0,0

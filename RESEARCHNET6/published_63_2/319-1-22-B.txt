@@ -1,4 +1,4 @@
-SOLUTION:Catalyst,Archiver,319-1-22,/B Archived Solution
+SOLUTION:Catalyst,Andy,319-1-22,/B Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,0,2,0,0
 MEMBER:'instr-start',90,0,32,2,1,0,0

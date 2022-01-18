@@ -1,4 +1,4 @@
-SOLUTION:A Brief History of SpaceChem,Zig,154-1-10,Symbols
+SOLUTION:A Brief History of SpaceChem,Sahishar,154-1-10,Symbols
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,1,6,0,0

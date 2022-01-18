@@ -1,4 +1,4 @@
-SOLUTION:Fission II,Ozgrim,154-1-10
+SOLUTION:Fission II,toi333,154-1-10
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,1,3,0,0
 MEMBER:'instr-start',180,0,32,1,6,0,0

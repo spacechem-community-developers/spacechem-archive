@@ -1,4 +1,4 @@
-SOLUTION:Dessication Station,12345ieee,291-1-66
+SOLUTION:Dessication Station,gggol,291-1-66
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,7,0,0,0
 MEMBER:'instr-start',0,0,32,0,2,0,0

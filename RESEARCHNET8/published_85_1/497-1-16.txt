@@ -1,4 +1,4 @@
-SOLUTION:Shared Space I,12345ieee,497-1-16
+SOLUTION:Shared Space I,serbaldrig,497-1-16
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,3,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

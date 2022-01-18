@@ -1,4 +1,4 @@
-SOLUTION:Two-fer,whoever314,1213-1-44,ToughThought
+SOLUTION:Two-fer,ToughThought,1213-1-44,ToughThought
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',180,0,128,6,6,0,0
 MEMBER:'instr-start',90,0,32,0,4,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Oxygen Synthesis,Archiver,13659-1-97,Archived Solution
+SOLUTION:Oxygen Synthesis,Andy,13659-1-97,Archived Solution
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1

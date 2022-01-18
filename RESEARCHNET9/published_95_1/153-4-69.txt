@@ -1,4 +1,4 @@
-SOLUTION:Really Easy,12345ieee,153-4-69,Unnamed Solution
+SOLUTION:Really Easy,Leylite/DariusRaider,153-4-69,Unnamed Solution
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1

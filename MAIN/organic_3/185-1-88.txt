@@ -1,4 +1,4 @@
-SOLUTION:I Told You So,Archiver,185-1-88,Archived Solution
+SOLUTION:I Told You So,Andy,185-1-88,Archived Solution
 COMPONENT:'drag-superbonder-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,0,2,0,0
 MEMBER:'instr-start',0,0,32,0,4,0,0

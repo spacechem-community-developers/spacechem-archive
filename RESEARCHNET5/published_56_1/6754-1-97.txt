@@ -1,4 +1,4 @@
-SOLUTION:Fun with Oxides,Zig,6754-1-97
+SOLUTION:Fun with Oxides,Zig/darkgiggs,6754-1-97
 COMPONENT:'drag-starter-reactor',4,5,''
 MEMBER:'instr-start',0,0,128,4,1,0,0
 MEMBER:'instr-start',90,0,32,2,0,0,0

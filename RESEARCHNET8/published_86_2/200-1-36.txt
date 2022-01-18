@@ -1,4 +1,4 @@
-SOLUTION:Two by Two,ToughThought,200-1-36,By TT/brookie
+SOLUTION:Two by Two,ToughThought/brookieoz,200-1-36,By TT/brookie
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,8,2,0,0
 MEMBER:'instr-start',0,0,32,0,5,0,0

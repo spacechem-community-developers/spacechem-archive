@@ -1,4 +1,4 @@
-SOLUTION:Challenge: Going Green,Archiver,4558-1-78,Archived Solution
+SOLUTION:Challenge: Going Green,Zig,4558-1-78,Archived Solution
 COMPONENT:'drag-powerplant-input',-7,4,''
 PIPE:0,14,7
 PIPE:0,14,6

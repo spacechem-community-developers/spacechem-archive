@@ -1,4 +1,4 @@
-SOLUTION:Combustion,2ofts,710-1-27
+SOLUTION:Combustion,davenger,710-1-27
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',90,0,32,2,4,0,0

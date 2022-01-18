@@ -1,4 +1,4 @@
-SOLUTION:Anthraquinone,giggs,997-1-33
+SOLUTION:Anthraquinone,darkgiggs,997-1-33
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,0,0,0
 MEMBER:'instr-start',0,0,32,5,2,0,0

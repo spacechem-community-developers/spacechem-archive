@@ -1,4 +1,4 @@
-SOLUTION:No Stomach for Lunch,Ser,132-1-30
+SOLUTION:No Stomach for Lunch,serbaldrig,132-1-30
 COMPONENT:'drag-reduced-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,4,3,0,0
 MEMBER:'instr-start',0,0,32,2,1,0,0

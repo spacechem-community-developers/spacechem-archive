@@ -1,4 +1,4 @@
-SOLUTION:Every Day is the First Day,Zig,354-1-12,Symbols
+SOLUTION:Every Day is the First Day,Sahishar,354-1-12,Symbols
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Exercise,Archiver,533-1-30,Archived Solution
+SOLUTION:Exercise,Andy,533-1-30,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,5,0,0,0
 MEMBER:'instr-start',180,0,32,5,2,0,0

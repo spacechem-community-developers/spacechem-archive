@@ -1,4 +1,4 @@
-SOLUTION:I Told You So,CaitSith2,1216-1-17
+SOLUTION:I Told You So,Ir_Sigma,1216-1-17
 COMPONENT:'drag-superbonder-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

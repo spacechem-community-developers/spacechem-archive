@@ -1,4 +1,4 @@
-SOLUTION:Homogenizer,Archiver,10914-2-52,Archived Solution
+SOLUTION:Homogenizer,Andy,10914-2-52,Archived Solution
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',180,0,128,9,5,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

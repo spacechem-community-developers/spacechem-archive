@@ -1,4 +1,4 @@
-SOLUTION:A New Beginning,whoever314,2455-5-334
+SOLUTION:A New Beginning,Community,2455-5-334
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',-90,0,128,8,7,0,0
 MEMBER:'instr-start',0,0,32,0,4,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Mazeite',giggs,225-1-13
+SOLUTION:Mazeite',darkgiggs,225-1-13
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,6,2,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

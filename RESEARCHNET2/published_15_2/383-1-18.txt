@@ -1,4 +1,4 @@
-SOLUTION:Soap,giggs,383-1-18
+SOLUTION:Soap,Community,383-1-18
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,9,1,0,0
 MEMBER:'instr-start',180,0,32,2,5,0,0

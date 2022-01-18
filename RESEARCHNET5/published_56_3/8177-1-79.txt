@@ -1,4 +1,4 @@
-SOLUTION:Conversion,britboy,8177-1-79,Andy
+SOLUTION:Conversion,Andy,8177-1-79,Andy
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1

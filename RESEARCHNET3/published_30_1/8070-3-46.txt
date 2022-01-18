@@ -1,4 +1,4 @@
-SOLUTION:Fuel Production,12345ieee,8070-3-46,Unnamed Solution
+SOLUTION:Fuel Production,cactus/12345ieee,8070-3-46,Unnamed Solution
 COMPONENT:'drag-advanced-reactor',4,5,''
 MEMBER:'instr-start',-90,0,128,8,5,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0

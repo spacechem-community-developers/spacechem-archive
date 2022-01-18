@@ -1,4 +1,4 @@
-SOLUTION:Master Plan,12345ieee,17385-2-108,Unnamed Solution
+SOLUTION:Master Plan,darkgiggs/12345ieee,17385-2-108,Unnamed Solution
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,2

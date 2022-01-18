@@ -1,4 +1,4 @@
-SOLUTION:Slightly Different,12345ieee,45-1-14
+SOLUTION:Slightly Different,toi333,45-1-14
 COMPONENT:'empty-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,2,1,0,0
 MEMBER:'instr-start',90,0,32,2,4,0,0

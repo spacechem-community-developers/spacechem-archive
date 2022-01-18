@@ -1,4 +1,4 @@
-SOLUTION:Miracle Cure,whoever314,306-1-58
+SOLUTION:Miracle Cure,serbaldrig/whoever314,306-1-58
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,7,5,0,0
 MEMBER:'instr-start',-90,0,32,2,3,0,0

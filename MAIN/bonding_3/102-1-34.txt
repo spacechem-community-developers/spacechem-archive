@@ -1,4 +1,4 @@
-SOLUTION:It Takes Three,Zig,102-1-34,Cycles
+SOLUTION:It Takes Three,toi333,102-1-34,Cycles
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,6,4,0,0
 MEMBER:'instr-start',180,0,32,2,5,0,0

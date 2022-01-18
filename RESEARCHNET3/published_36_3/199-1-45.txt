@@ -1,4 +1,4 @@
-SOLUTION:Nano Electric Motor,Archiver,199-1-45,Archived Solution
+SOLUTION:Nano Electric Motor,Andy,199-1-45,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,5,1,0,0
 MEMBER:'instr-start',0,0,32,1,2,0,0

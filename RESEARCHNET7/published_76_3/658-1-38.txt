@@ -1,4 +1,4 @@
-SOLUTION:Precious Oxygen,Archiver,658-1-38,Archived Solution
+SOLUTION:Precious Oxygen,Andy,658-1-38,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,6,5,0,0
 MEMBER:'instr-start',90,0,32,4,4,0,0

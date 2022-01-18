@@ -1,4 +1,4 @@
-SOLUTION:Alchemy,Archiver,200-1-40,Archived Solution
+SOLUTION:Alchemy,Andy,200-1-40,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,2,6,0,0
 MEMBER:'instr-start',90,0,32,2,0,0,0

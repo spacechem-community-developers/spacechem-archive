@@ -1,4 +1,4 @@
-SOLUTION:Bioplastic,giggs,599-1-27
+SOLUTION:Bioplastic,darkgiggs,599-1-27
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,8,5,0,0
 MEMBER:'instr-start',180,0,32,6,1,0,0

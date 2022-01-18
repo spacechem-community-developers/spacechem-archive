@@ -1,4 +1,4 @@
-SOLUTION:Deadly Soft Drinks,12345ieee,231-1-14,Stealing from v
+SOLUTION:Deadly Soft Drinks,Community,231-1-14,Stealing from v
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',-90,0,32,3,2,0,0

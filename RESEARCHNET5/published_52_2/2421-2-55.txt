@@ -1,4 +1,4 @@
-SOLUTION:Contaminated,whoever314,2421-2-55,12345ieee
+SOLUTION:Contaminated,whoever314/12345ieee,2421-2-55,12345ieee
 COMPONENT:'drag-starter-reactor',4,4,''
 MEMBER:'instr-start',90,0,128,9,1,0,0
 MEMBER:'instr-start',0,0,32,0,5,0,0

@@ -1,4 +1,4 @@
-SOLUTION:A Small Push,Archiver,223-1-40,Archived Solution
+SOLUTION:A Small Push,Andy,223-1-40,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,9,1,0,0
 MEMBER:'instr-start',90,0,32,3,1,0,0

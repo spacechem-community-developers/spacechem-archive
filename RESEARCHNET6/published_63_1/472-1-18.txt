@@ -1,4 +1,4 @@
-SOLUTION:Carbon Snakes,Archiver,472-1-18,Archived Solution
+SOLUTION:Carbon Snakes,Andy,472-1-18,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,0,2,0,0
 MEMBER:'instr-start',90,0,32,0,6,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Mazeite',12345ieee,92-1-19
+SOLUTION:Mazeite',Andy,92-1-19
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,5,1,0,0
 MEMBER:'instr-start',0,0,32,1,2,0,0

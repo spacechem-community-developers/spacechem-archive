@@ -1,4 +1,4 @@
-SOLUTION:A Brief History of SpaceChem,Zig,75-1-20,Cycles
+SOLUTION:A Brief History of SpaceChem,toi333,75-1-20,Cycles
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,4,1,0,0
 MEMBER:'instr-start',180,0,32,2,1,0,0

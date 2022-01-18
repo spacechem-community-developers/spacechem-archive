@@ -1,4 +1,4 @@
-SOLUTION:Chemotherapy,SpagChem(NS),1690-1-61
+SOLUTION:Chemotherapy,spagchem,1690-1-61
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,2,2,0,0
 MEMBER:'instr-start',180,0,32,5,1,0,0

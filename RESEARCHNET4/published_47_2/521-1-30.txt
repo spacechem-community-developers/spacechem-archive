@@ -1,4 +1,4 @@
-SOLUTION:Oxygen Supply,giggs,521-1-30
+SOLUTION:Oxygen Supply,darkgiggs/12345ieee,521-1-30
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,3,2,0,0
 MEMBER:'instr-start',-90,0,32,7,7,0,0

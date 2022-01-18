@@ -1,4 +1,4 @@
-SOLUTION:Molecular Foundry,Archiver,23608270-1-32,Archived Solution
+SOLUTION:Molecular Foundry,Andy,23608270-1-32,Archived Solution
 COMPONENT:'drag-mining-input',1,7,''
 PIPE:0,3,0
 PIPE:0,4,0

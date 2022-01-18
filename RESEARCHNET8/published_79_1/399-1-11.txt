@@ -1,4 +1,4 @@
-SOLUTION:Fenton Industries 001,12345ieee,399-1-11
+SOLUTION:Fenton Industries 001,Counterpoint,399-1-11
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,7,1,0,0
 MEMBER:'instr-start',180,0,32,2,5,0,0

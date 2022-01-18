@@ -1,4 +1,4 @@
-SOLUTION:Carbide Swap,Archiver,331-1-82,Archived Solution
+SOLUTION:Carbide Swap,Andy,331-1-82,Archived Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,4,5,0,0
 MEMBER:'instr-start',180,0,32,1,0,0,0

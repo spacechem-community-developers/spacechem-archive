@@ -1,4 +1,4 @@
-SOLUTION:Large Scale,12345ieee,2048-2-33
+SOLUTION:Large Scale,ToughThought/12345ieee,2048-2-33
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',90,0,32,2,5,0,0

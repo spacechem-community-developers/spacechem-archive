@@ -1,4 +1,4 @@
-SOLUTION:Σ-Ethylene,Archiver,4097-2-47,Archived Solution
+SOLUTION:Σ-Ethylene,Andy,4097-2-47,Archived Solution
 COMPONENT:'drag-ancient-input',5,10,''
 PIPE:0,2,0
 PIPE:0,3,0

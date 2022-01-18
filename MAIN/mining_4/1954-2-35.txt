@@ -1,4 +1,4 @@
-SOLUTION:Gas Works Park,giggs,1954-2-35
+SOLUTION:Gas Works Park,darkgiggs/Sahishar,1954-2-35
 COMPONENT:'drag-mining-input',1,7,''
 PIPE:0,3,0
 PIPE:0,3,1
