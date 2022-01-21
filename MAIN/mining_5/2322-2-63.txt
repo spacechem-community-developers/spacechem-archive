@@ -1,4 +1,4 @@
-SOLUTION:Molecular Foundry,JYPark1101,2322-2-63
+SOLUTION:Molecular Foundry,Haxton,2322-2-63
 COMPONENT:'drag-mining-input',1,7,''
 PIPE:0,3,0
 PIPE:0,4,0

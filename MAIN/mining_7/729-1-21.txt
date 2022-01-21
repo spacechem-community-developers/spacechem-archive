@@ -1,4 +1,4 @@
-SOLUTION:The Plot Thickens,JYPark1101,729-1-21
+SOLUTION:The Plot Thickens,Haxton,729-1-21
 COMPONENT:'drag-largeoutput-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,8,2,0,0

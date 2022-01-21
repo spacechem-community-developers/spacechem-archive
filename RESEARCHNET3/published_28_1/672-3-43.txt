@@ -1,4 +1,4 @@
-SOLUTION:Cyanamide,JYPark1101,672-3-43
+SOLUTION:Cyanamide,Haxton,672-3-43
 COMPONENT:'drag-disassembly-reactor',6,13,''
 MEMBER:'instr-start',180,0,128,2,1,0,0
 MEMBER:'instr-start',90,0,32,7,0,0,0

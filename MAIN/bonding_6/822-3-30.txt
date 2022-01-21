@@ -1,4 +1,4 @@
-SOLUTION:Settling into the Routine,JYPark1101,822-3-30
+SOLUTION:Settling into the Routine,Haxton,822-3-30
 COMPONENT:'drag-disassembly-reactor',11,2,''
 MEMBER:'instr-start',180,0,128,9,5,0,0
 MEMBER:'instr-start',-90,0,32,0,2,0,0

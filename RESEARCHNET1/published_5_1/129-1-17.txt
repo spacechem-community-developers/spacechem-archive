@@ -1,4 +1,4 @@
-SOLUTION:Electrophilic Addition,JYPark1101,129-1-17
+SOLUTION:Electrophilic Addition,Haxton,129-1-17
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,3,3,0,0
 MEMBER:'instr-start',180,0,32,4,5,0,0

@@ -1,4 +1,4 @@
-SOLUTION:PVA,JYPark1101,711-1-33
+SOLUTION:PVA,Haxton,711-1-33
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,5,0,0,0
 MEMBER:'instr-start',180,0,32,7,5,0,0

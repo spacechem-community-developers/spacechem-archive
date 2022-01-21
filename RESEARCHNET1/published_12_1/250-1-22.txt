@@ -1,4 +1,4 @@
-SOLUTION:The Big Cleanup,JYPark1101,250-1-22
+SOLUTION:The Big Cleanup,Haxton,250-1-22
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,5,2,0,0
 MEMBER:'instr-start',0,0,32,1,6,0,0

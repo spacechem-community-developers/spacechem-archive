@@ -1,4 +1,4 @@
-SOLUTION:Best Left Unanswered,JYPark1101,66-1-12
+SOLUTION:Best Left Unanswered,Haxton,66-1-12
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,5,1,0,0
 MEMBER:'instr-start',0,0,32,3,1,0,0

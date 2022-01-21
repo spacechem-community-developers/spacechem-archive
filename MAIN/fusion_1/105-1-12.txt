@@ -1,4 +1,4 @@
-SOLUTION:Ice to Meet You,JYPark1101,105-1-12
+SOLUTION:Ice to Meet You,Haxton,105-1-12
 COMPONENT:'drag-fusion-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,2,0,0,0
 MEMBER:'instr-start',-90,0,32,6,6,0,0

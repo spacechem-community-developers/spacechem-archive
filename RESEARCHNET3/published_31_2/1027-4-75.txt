@@ -1,4 +1,4 @@
-SOLUTION:Fuming Nitric Acid,JYPark1101,1027-4-75
+SOLUTION:Fuming Nitric Acid,Haxton,1027-4-75
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1

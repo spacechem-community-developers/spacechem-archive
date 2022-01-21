@@ -1,4 +1,4 @@
-SOLUTION:Silica,JYPark1101,530-1-24
+SOLUTION:Silica,Haxton,530-1-24
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,4,7,0,0
 MEMBER:'instr-start',180,0,32,4,5,0,0

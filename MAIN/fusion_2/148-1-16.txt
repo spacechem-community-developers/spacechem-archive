@@ -1,4 +1,4 @@
-SOLUTION:Under the Ice,JYPark1101,148-1-16
+SOLUTION:Under the Ice,Haxton,148-1-16
 COMPONENT:'drag-fusion-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

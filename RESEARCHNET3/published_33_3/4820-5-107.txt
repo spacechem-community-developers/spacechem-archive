@@ -1,4 +1,4 @@
-SOLUTION:Photovoltaic Cells,JYPark1101,4820-5-107
+SOLUTION:Photovoltaic Cells,Haxton,4820-5-107
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,2

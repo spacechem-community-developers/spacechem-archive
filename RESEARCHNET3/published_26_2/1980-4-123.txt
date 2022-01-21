@@ -1,4 +1,4 @@
-SOLUTION:Novel Semiconductor,JYPark1101,1980-4-123
+SOLUTION:Novel Semiconductor,Haxton,1980-4-123
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,2

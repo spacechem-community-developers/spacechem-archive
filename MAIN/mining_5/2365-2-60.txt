@@ -1,4 +1,4 @@
-SOLUTION:Molecular Foundry,JYPark1101,2365-2-60
+SOLUTION:Molecular Foundry,Haxton,2365-2-60
 COMPONENT:'drag-advanced-reactor',5,5,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

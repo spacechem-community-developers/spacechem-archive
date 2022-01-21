@@ -1,4 +1,4 @@
-SOLUTION:Fission II,JYPark1101,82-1-14
+SOLUTION:Fission II,Haxton,82-1-14
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,5,3,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0

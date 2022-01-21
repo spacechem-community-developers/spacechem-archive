@@ -1,4 +1,4 @@
-SOLUTION:KOHCTPYKTOP++,JYPark1101,635-1-27
+SOLUTION:KOHCTPYKTOP++,Haxton,635-1-27
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0
