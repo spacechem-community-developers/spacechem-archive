@@ -1,4 +1,4 @@
-SOLUTION:Random Oxides,Ntropy,315-1-24
+SOLUTION:Random Oxides,12345ieee,315-1-23,Unnamed Solution
 COMPONENT:'drag-advanced-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',-90,0,32,9,4,0,0
@@ -18,7 +18,6 @@ MEMBER:'instr-input',-1,0,128,2,1,0,0
 MEMBER:'instr-sensor',-90,0,128,2,4,0,22
 MEMBER:'instr-bond',-1,0,128,3,0,0,0
 MEMBER:'instr-arrow',90,0,64,5,0,0,0
-MEMBER:'instr-bond',-1,0,128,5,0,0,0
 MEMBER:'instr-arrow',180,0,64,5,1,0,0
 MEMBER:'instr-arrow',180,0,64,6,1,0,0
 MEMBER:'instr-output',-1,1,128,6,3,0,0
