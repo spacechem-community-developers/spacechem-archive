@@ -1,4 +1,4 @@
-SOLUTION:Random Oxides,kael,335-1-23
+SOLUTION:Random Oxides,12345ieee,335-1-22,Unnamed Solution
 COMPONENT:'drag-advanced-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,0,2,0,0
 MEMBER:'instr-start',180,0,32,1,6,0,0
@@ -18,8 +18,7 @@ MEMBER:'instr-bond',-1,0,128,1,4,0,0
 MEMBER:'instr-arrow',0,0,64,2,2,0,0
 MEMBER:'instr-bond',-1,0,128,2,2,0,0
 MEMBER:'instr-rotate',-1,0,128,2,3,0,0
-MEMBER:'instr-arrow',-90,0,64,2,4,0,0
-MEMBER:'instr-sensor',0,0,128,2,4,0,30
+MEMBER:'instr-sensor',-90,0,128,2,4,0,22
 MEMBER:'instr-input',-1,0,128,4,2,0,0
 MEMBER:'instr-rotate',-1,0,128,5,2,0,0
 MEMBER:'instr-arrow',180,0,64,6,1,0,0
