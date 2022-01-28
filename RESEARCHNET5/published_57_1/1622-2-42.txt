@@ -1,4 +1,4 @@
-SOLUTION:Benzene Machine,Archiver,1622-2-42,Archived Solution
+SOLUTION:Benzene Machine,Community,1622-2-42
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,2
