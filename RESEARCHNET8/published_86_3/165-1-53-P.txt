@@ -1,4 +1,4 @@
-SOLUTION:The Gold Standard,12345ieee,165-1-53,/P
+SOLUTION:The Gold Standard,serbaldrig/12345ieee,165-1-53,/P
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,8,3,0,0
 MEMBER:'instr-start',90,0,32,1,0,0,0
