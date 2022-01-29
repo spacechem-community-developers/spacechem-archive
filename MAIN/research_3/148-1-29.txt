@@ -1,4 +1,4 @@
-SOLUTION:No Stomach for Lunch,JacobBuysse,148-1-29
+SOLUTION:No Stomach for Lunch,cearn,148-1-29
 COMPONENT:'drag-reduced-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,5,5,0,0
 MEMBER:'instr-start',0,0,32,2,1,0,0
