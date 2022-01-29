@@ -1,4 +1,4 @@
-SOLUTION:Running Low,12345ieee,3969-1-73,britboy3456 - symbols
+SOLUTION:Running Low,britboy3456/12345ieee,3969-1-73,symbols
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,0
