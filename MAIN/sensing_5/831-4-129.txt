@@ -61,7 +61,7 @@ PIPE:1,1,6
 PIPE:1,2,6
 PIPE:1,3,6
 PIPE:1,4,6
-COMPONENT:'drag-atmospheric-input',7,18,''
+COMPONENT:'drag-oceanic-input',7,18,''
 PIPE:0,2,0
 PIPE:0,2,1
 COMPONENT:'drag-advanced-reactor',10,17,''

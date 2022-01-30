@@ -7,7 +7,7 @@ PIPE:0,5,0
 PIPE:0,5,1
 PIPE:0,5,2
 PIPE:0,5,3
-COMPONENT:'drag-atmospheric-input',7,18,''
+COMPONENT:'drag-oceanic-input',7,18,''
 PIPE:0,2,0
 PIPE:0,2,-1
 PIPE:0,2,-2
