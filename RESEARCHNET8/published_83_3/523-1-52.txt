@@ -1,4 +1,4 @@
-SOLUTION:Θne (Thetane),ToughThought,523-1-52
+SOLUTION:Θne,ToughThought,523-1-52
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,7,3,0,0
 MEMBER:'instr-start',-90,0,32,1,2,0,0
