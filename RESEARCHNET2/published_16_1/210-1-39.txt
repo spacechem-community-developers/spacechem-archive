@@ -1,4 +1,4 @@
-SOLUTION:PZA,12345ieee,210-1-39
+SOLUTION:PZA,darkgiggs/12345ieee,210-1-39
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,7,5,0,0
 MEMBER:'instr-start',-90,0,32,1,7,0,0
