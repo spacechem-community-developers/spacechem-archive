@@ -1,4 +1,4 @@
-SOLUTION:Inorganic Pigments,Community,4781-2-131,Community
+SOLUTION:Inorganic Pigments,Community,4781-2-130,Community
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -47,7 +47,7 @@ MEMBER:'instr-sensor',90,0,128,4,1,0,82
 MEMBER:'instr-arrow',0,0,64,4,2,0,0
 MEMBER:'instr-rotate',-1,1,128,4,2,0,0
 MEMBER:'instr-sync',-1,0,128,5,2,0,0
-MEMBER:'instr-bond',-1,0,128,6,2,0,0
+MEMBER:'instr-output',-1,0,128,6,2,0,0
 MEMBER:'instr-arrow',180,0,64,7,0,0,0
 MEMBER:'instr-output',-1,0,128,7,0,0,0
 MEMBER:'instr-arrow',-90,0,64,7,1,0,0
@@ -57,6 +57,7 @@ MEMBER:'instr-bond',-1,0,128,7,5,0,0
 MEMBER:'instr-rotate',-1,1,128,7,6,0,0
 MEMBER:'instr-arrow',180,0,64,7,7,0,0
 MEMBER:'instr-grab',-1,2,128,7,7,0,0
+MEMBER:'instr-bond',-1,0,128,8,2,0,0
 MEMBER:'instr-arrow',180,0,64,9,2,0,0
 MEMBER:'instr-bond',-1,1,128,9,2,0,0
 MEMBER:'instr-arrow',0,0,16,1,1,0,0
@@ -66,13 +67,11 @@ MEMBER:'instr-sensor',90,0,32,4,1,0,82
 MEMBER:'instr-arrow',0,0,16,4,2,0,0
 MEMBER:'instr-sync',-1,0,32,4,2,0,0
 MEMBER:'instr-rotate',-1,1,32,5,2,0,0
-MEMBER:'instr-output',-1,0,32,6,1,0,0
 MEMBER:'instr-arrow',90,0,16,6,3,0,0
-MEMBER:'instr-rotate',-1,1,32,6,3,0,0
-MEMBER:'instr-sync',-1,0,32,6,5,0,0
+MEMBER:'instr-sync',-1,0,32,6,4,0,0
+MEMBER:'instr-rotate',-1,1,32,6,5,0,0
 MEMBER:'instr-rotate',-1,1,32,6,6,0,0
-MEMBER:'instr-toggle',0,0,32,6,7,0,0
-MEMBER:'instr-arrow',180,0,16,7,1,0,0
+MEMBER:'instr-arrow',0,0,16,6,7,0,0
 MEMBER:'instr-grab',-1,2,32,7,1,0,0
 MEMBER:'instr-toggle',90,0,32,7,2,0,0
 MEMBER:'instr-toggle',180,0,32,7,3,0,0
@@ -81,11 +80,11 @@ MEMBER:'instr-output',-1,0,32,7,5,0,0
 MEMBER:'instr-arrow',0,0,16,7,6,0,0
 MEMBER:'instr-bond',-1,0,32,7,7,0,0
 MEMBER:'instr-arrow',180,0,16,8,1,0,0
+MEMBER:'instr-output',-1,0,32,8,1,0,0
 MEMBER:'instr-bond',-1,0,32,8,4,0,0
 MEMBER:'instr-arrow',-90,0,16,8,6,0,0
 MEMBER:'instr-grab',-1,2,32,8,6,0,0
-MEMBER:'instr-arrow',90,0,16,8,7,0,0
-MEMBER:'instr-toggle',-90,0,32,8,7,0,0
+MEMBER:'instr-arrow',-90,0,16,8,7,0,0
 MEMBER:'instr-arrow',180,0,16,9,2,0,0
 MEMBER:'instr-bond',-1,1,32,9,2,0,0
 PIPE:0,4,1
