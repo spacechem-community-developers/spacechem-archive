@@ -25,7 +25,7 @@ To edit record cells (to change authors for example) it's needed to edit the sta
 
 Once the file has been edited and saved, call the bot via `/sc rebuild puzzle:<name>` and the cells of that puzzle will be rebuilt.
 
-### Add new catgories/puzzle, change the styling of record cells
+### Add new categories/puzzles, change the styling of record cells
 Ask @12345ieee .
 
 ## Direct links to level folders
