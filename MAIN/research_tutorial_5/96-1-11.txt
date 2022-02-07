@@ -1,7 +1,7 @@
-SOLUTION:Best Left Unanswered,Zig,98-1-11
+SOLUTION:Best Left Unanswered,12345ieee,96-1-11,Stealing from zig
 COMPONENT:'drag-starter-reactor',2,0,''
-MEMBER:'instr-start',180,0,128,3,1,0,0
-MEMBER:'instr-start',-90,0,32,0,7,0,0
+MEMBER:'instr-start',-90,0,128,0,2,0,0
+MEMBER:'instr-start',180,0,32,4,1,0,0
 MEMBER:'feature-bonder',-1,0,1,1,1,0,0
 MEMBER:'feature-bonder',-1,0,1,5,1,0,0
 MEMBER:'feature-bonder',-1,0,1,2,1,0,0
