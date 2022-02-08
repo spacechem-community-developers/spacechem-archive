@@ -1,4 +1,4 @@
-SOLUTION:An Introduction to Bonding,Zig,74-1-40,Archived Solution
+SOLUTION:An Introduction to Bonding,Zig,74-1-40
 COMPONENT:'tutorial-research-reactor-2',2,0,''
 MEMBER:'instr-start',-90,0,128,1,7,0,0
 MEMBER:'instr-start',0,0,32,0,0,0,0

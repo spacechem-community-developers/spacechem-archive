@@ -1,4 +1,4 @@
-SOLUTION:An Introduction to Bonding,Archiver,82-1-15,Archived Solution
+SOLUTION:An Introduction to Bonding,Burbenog,82-1-15
 COMPONENT:'tutorial-research-reactor-2',2,0,''
 MEMBER:'instr-start',-90,0,128,2,6,0,0
 MEMBER:'instr-start',-90,0,32,1,6,0,0

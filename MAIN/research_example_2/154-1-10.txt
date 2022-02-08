@@ -1,4 +1,4 @@
-SOLUTION:An Introduction to Bonding,Sahishar,154-1-10,Archived Solution
+SOLUTION:An Introduction to Bonding,Sahishar,154-1-10
 COMPONENT:'tutorial-research-reactor-2',2,0,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

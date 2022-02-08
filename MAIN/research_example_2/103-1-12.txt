@@ -1,4 +1,4 @@
-SOLUTION:An Introduction to Bonding,Archiver,103-1-12,Archived Solution
+SOLUTION:An Introduction to Bonding,gmulert,103-1-12
 COMPONENT:'tutorial-research-reactor-2',2,0,''
 MEMBER:'instr-start',180,0,128,9,1,0,0
 MEMBER:'instr-start',-90,0,32,1,7,0,0
