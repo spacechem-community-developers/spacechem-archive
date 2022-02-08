@@ -1,4 +1,4 @@
-SOLUTION:Better Than Graphene,Archiver,1115-1-47,Archived Solution
+SOLUTION:Better Than Graphene,Andy,1115-1-47
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,1,2,0,0
 MEMBER:'instr-start',-90,0,32,1,6,0,0

@@ -1,4 +1,4 @@
-SOLUTION:Chlorination,Archiver,567-1-52,Archived Solution
+SOLUTION:Chlorination,Andy,567-1-52
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,4,1,0,0
 MEMBER:'instr-start',180,0,32,7,6,0,0
