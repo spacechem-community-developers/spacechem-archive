@@ -1,4 +1,4 @@
-SOLUTION:Of Pancakes and Spaceships,Archiver,88-1-9,Archived Solution
+SOLUTION:Of Pancakes and Spaceships,vpumeyyv,88-1-9
 COMPONENT:'empty-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,5,3,0,0
 MEMBER:'instr-start',0,0,32,1,1,0,0
