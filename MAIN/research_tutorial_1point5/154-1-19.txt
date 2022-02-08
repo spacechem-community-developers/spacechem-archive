@@ -1,4 +1,4 @@
-SOLUTION:Crossover,Archiver,154-1-19,Archived Solution
+SOLUTION:Crossover,vpumeyyv,154-1-19
 COMPONENT:'empty-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,3,5,0,0
