@@ -1,4 +1,4 @@
-SOLUTION:Exploding Head Syndrome,vpumeyyv,2466-2-93,'No Controls.  Reactor 1 takes 2H2O, outputs H4O2 and O2, and then Reactor 1 takes H402 and outputs H...'
+SOLUTION:Exploding Head Syndrome,12345ieee,2466-2-91,'No Controls.  Reactor 1 takes 2H2O, outputs H4O2 and O2, and then Reactor 1 takes H402 and outputs H...'
 COMPONENT:'drag-oceanic-input',5,18,''
 PIPE:0,2,0
 PIPE:0,2,-1
@@ -57,9 +57,9 @@ ANNOTATION:1,1,0,0,'3,2:0,8;2,2:0,8;3,3:0,1;2,3:0,1;\n2,2,1:1;3,2,0:1;2,2,0:1;\r
 COMPONENT:'drag-fusion-reactor',12,15,''
 MEMBER:'instr-start',180,0,128,5,0,0,0
 MEMBER:'instr-start',90,0,32,1,3,0,0
-MEMBER:'feature-bonder',-1,0,1,5,2,0,0
+MEMBER:'feature-bonder',-1,0,1,4,2,0,0
 MEMBER:'feature-bonder',-1,0,1,2,3,0,0
-MEMBER:'feature-bonder',-1,0,1,5,3,0,0
+MEMBER:'feature-bonder',-1,0,1,4,3,0,0
 MEMBER:'feature-bonder',-1,0,1,2,4,0,0
 MEMBER:'feature-fuser',-1,0,1,3,6,0,0
 MEMBER:'instr-arrow',90,0,64,0,0,0,0
@@ -86,14 +86,12 @@ MEMBER:'instr-arrow',-90,0,64,3,5,0,0
 MEMBER:'instr-fuse',-1,0,128,3,5,0,0
 MEMBER:'instr-fuse',-1,0,128,3,6,0,0
 MEMBER:'instr-sync',-1,0,128,4,0,0,0
-MEMBER:'instr-arrow',0,0,64,4,4,0,0
+MEMBER:'instr-arrow',0,0,64,4,1,0,0
+MEMBER:'instr-bond',-1,0,128,4,2,0,0
 MEMBER:'instr-rotate',-1,1,128,4,4,0,0
 MEMBER:'instr-arrow',-90,0,64,4,5,0,0
 MEMBER:'instr-grab',-1,0,128,4,5,0,0
 MEMBER:'instr-grab',-1,1,128,4,6,0,0
-MEMBER:'instr-arrow',0,0,64,5,1,0,0
-MEMBER:'instr-bond',-1,0,128,5,2,0,0
-MEMBER:'instr-arrow',-90,0,64,5,4,0,0
 MEMBER:'instr-arrow',180,0,64,6,0,0,0
 MEMBER:'instr-output',-1,0,128,6,0,0,0
 MEMBER:'instr-arrow',-90,0,64,6,1,0,0
@@ -121,10 +119,10 @@ MEMBER:'instr-arrow',90,0,16,3,4,0,0
 MEMBER:'instr-grab',-1,1,32,3,5,0,0
 MEMBER:'instr-arrow',180,0,16,3,6,0,0
 MEMBER:'instr-fuse',-1,0,32,3,6,0,0
+MEMBER:'instr-bond',-1,0,32,4,2,0,0
 MEMBER:'instr-arrow',180,0,16,4,4,0,0
 MEMBER:'instr-arrow',-90,0,16,4,5,0,0
 MEMBER:'instr-fuse',-1,0,32,4,5,0,0
-MEMBER:'instr-bond',-1,0,32,5,2,0,0
 MEMBER:'instr-arrow',90,0,16,6,2,0,0
 MEMBER:'instr-grab',-1,2,32,6,2,0,0
 MEMBER:'instr-arrow',180,0,16,6,3,0,0
