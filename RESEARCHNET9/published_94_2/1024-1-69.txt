@@ -1,4 +1,4 @@
-SOLUTION:Ferrous Wheel,andy,1024-1-69
+SOLUTION:Ferrous Wheel,andy,1024-1-69,c
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,8,0,0,0
 MEMBER:'instr-start',0,0,32,1,2,0,0
