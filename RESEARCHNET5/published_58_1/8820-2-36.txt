@@ -1,4 +1,4 @@
-SOLUTION:Eth,vpumeyyv,8827-2-36,Inspiration of the small hours
+SOLUTION:Eth,vpumeyyv,8820-2-36,S
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -15,6 +15,14 @@ PIPE:0,8,-4
 PIPE:0,8,-5
 PIPE:0,8,-6
 PIPE:0,8,-7
+PIPE:0,8,-8
+PIPE:0,8,-9
+PIPE:0,9,-9
+PIPE:0,10,-9
+PIPE:0,11,-9
+PIPE:0,12,-9
+PIPE:0,13,-9
+PIPE:0,14,-9
 COMPONENT:'drag-advanced-reactor',4,5,''
 MEMBER:'instr-start',180,0,128,1,0,0,0
 MEMBER:'instr-start',180,0,32,3,2,0,0
@@ -82,7 +90,7 @@ PIPE:1,16,15
 PIPE:1,17,15
 PIPE:1,18,15
 PIPE:1,19,15
-COMPONENT:'drag-superbonder-reactor',12,4,''
+COMPONENT:'drag-superbonder-reactor',18,2,''
 MEMBER:'instr-start',90,0,128,7,2,0,0
 MEMBER:'instr-start',-90,0,32,0,1,0,0
 MEMBER:'feature-bonder',-1,0,1,6,5,0,0
@@ -118,14 +126,6 @@ MEMBER:'instr-arrow',180,0,64,7,6,0,0
 MEMBER:'instr-output',-1,1,32,0,0,0,0
 PIPE:0,4,1
 PIPE:1,4,2
-PIPE:0,4,0
-PIPE:0,4,-1
-PIPE:0,5,-1
-PIPE:0,6,-1
-PIPE:0,7,-1
-PIPE:0,8,-1
-PIPE:0,9,-1
-PIPE:0,10,-1
 PIPE:1,4,3
 PIPE:1,4,4
 PIPE:1,4,5
@@ -138,12 +138,8 @@ PIPE:1,4,11
 PIPE:1,4,12
 PIPE:1,4,13
 PIPE:1,4,14
-PIPE:1,5,14
-PIPE:1,6,14
-PIPE:1,7,14
-PIPE:1,8,14
-PIPE:1,9,14
-PIPE:1,10,14
-PIPE:1,11,14
+PIPE:1,4,15
+PIPE:1,4,16
+PIPE:1,5,16
 ANNOTATION:0,1,0,0,'\n\r\n\r\n\r'
 ANNOTATION:1,1,0,0,'\n\r\n\r\n\r'
