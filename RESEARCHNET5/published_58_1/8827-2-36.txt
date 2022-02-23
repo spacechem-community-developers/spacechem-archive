@@ -1,4 +1,4 @@
-SOLUTION:Eth,vpumeyyv,8829-2-36,Inspiration of the small hours
+SOLUTION:Eth,vpumeyyv,8827-2-36,Inspiration of the small hours
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -83,7 +83,7 @@ PIPE:1,17,15
 PIPE:1,18,15
 PIPE:1,19,15
 COMPONENT:'drag-superbonder-reactor',12,4,''
-MEMBER:'instr-start',180,0,128,8,1,0,0
+MEMBER:'instr-start',90,0,128,7,2,0,0
 MEMBER:'instr-start',-90,0,32,0,1,0,0
 MEMBER:'feature-bonder',-1,0,1,6,5,0,0
 MEMBER:'feature-bonder',-1,0,1,7,1,0,0
