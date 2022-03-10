@@ -1,4 +1,4 @@
-SOLUTION:Getting Pumped,12345ieee,561-1-95,S.P.A.G.H.E.T.T.I.
+SOLUTION:Getting Pumped,vpumeyyv,561-1-94,S.P.A.G.H.E.T.T.I.
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,9,2,0,0
 MEMBER:'instr-start',-90,0,32,3,3,0,0
@@ -10,7 +10,7 @@ MEMBER:'feature-bonder',-1,0,1,2,5,0,0
 MEMBER:'feature-bonder',-1,0,1,3,5,0,0
 MEMBER:'feature-bonder',-1,0,1,5,2,0,0
 MEMBER:'feature-bonder',-1,0,1,5,3,0,0
-MEMBER:'feature-sensor',-1,0,1,3,2,0,0
+MEMBER:'feature-sensor',-1,0,1,1,6,0,0
 MEMBER:'feature-tunnel',-1,0,1,3,1,0,0
 MEMBER:'feature-tunnel',-1,0,1,4,5,0,0
 MEMBER:'instr-arrow',0,0,64,0,0,0,0
@@ -46,8 +46,7 @@ MEMBER:'instr-toggle',0,0,128,3,3,0,0
 MEMBER:'instr-bond',-1,0,128,3,5,0,0
 MEMBER:'instr-arrow',0,0,64,3,6,0,0
 MEMBER:'instr-bond',-1,1,128,4,1,0,0
-MEMBER:'instr-arrow',0,0,64,4,2,0,0
-MEMBER:'instr-toggle',180,0,128,4,2,0,0
+MEMBER:'instr-sensor',0,0,128,4,2,0,1
 MEMBER:'instr-grab',-1,1,128,4,3,0,0
 MEMBER:'instr-grab',-1,0,128,4,5,0,0
 MEMBER:'instr-toggle',-90,0,128,4,6,0,0
