@@ -1,4 +1,4 @@
-SOLUTION:Oxygen Synthesis for Kids,BigMangoHead,2423-1-26,Unnamed Solution
+SOLUTION:Oxygen Synthesis for Kids,vpumeyyv,2423-1-25,unpriming
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -20,7 +20,7 @@ PIPE:0,14,-3
 PIPE:0,15,-3
 PIPE:0,16,-3
 COMPONENT:'drag-nuclear-reactor',18,1,''
-MEMBER:'instr-start',-90,0,128,3,3,0,0
+MEMBER:'instr-start',180,0,128,4,1,0,0
 MEMBER:'instr-start',180,0,32,8,7,0,0
 MEMBER:'feature-bonder',-1,0,1,6,4,0,0
 MEMBER:'feature-bonder',-1,0,1,7,3,0,0
@@ -30,12 +30,11 @@ MEMBER:'feature-fuser',-1,0,1,6,2,0,0
 MEMBER:'feature-splitter',-1,0,1,4,3,0,0
 MEMBER:'instr-arrow',90,0,64,2,1,0,0
 MEMBER:'instr-grab',-1,1,128,2,1,0,0
-MEMBER:'instr-arrow',90,0,64,2,2,0,0
-MEMBER:'instr-toggle',0,0,128,2,2,0,0
+MEMBER:'instr-arrow',0,0,64,2,2,0,0
+MEMBER:'instr-toggle',90,0,128,2,2,0,0
 MEMBER:'instr-arrow',0,0,64,2,4,0,0
 MEMBER:'instr-input',-1,0,128,3,1,0,0
-MEMBER:'instr-arrow',180,0,64,3,2,0,0
-MEMBER:'instr-toggle',0,0,128,3,2,0,0
+MEMBER:'instr-toggle',180,0,128,3,2,0,0
 MEMBER:'instr-output',-1,1,128,4,2,0,0
 MEMBER:'instr-arrow',90,0,64,7,2,0,0
 MEMBER:'instr-fuse',-1,0,128,7,2,0,0
