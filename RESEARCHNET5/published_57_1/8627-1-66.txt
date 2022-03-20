@@ -1,4 +1,4 @@
-SOLUTION:Benzene Machine,12345ieee,9447-1-72,You don't need to prime FFs if you don't put them there
+SOLUTION:Benzene Machine,12345ieee,8627-1-66,You don't need to prime FFs if you don't put them there
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -19,8 +19,8 @@ PIPE:0,14,-2
 PIPE:0,15,-2
 PIPE:0,16,-2
 COMPONENT:'drag-nuclear-reactor',18,2,''
-MEMBER:'instr-start',0,0,128,2,7,0,0
-MEMBER:'instr-start',0,0,32,6,4,0,0
+MEMBER:'instr-start',-90,0,128,5,6,0,0
+MEMBER:'instr-start',0,0,32,7,7,0,0
 MEMBER:'feature-bonder',-1,0,1,4,5,0,0
 MEMBER:'feature-bonder',-1,0,1,2,4,0,0
 MEMBER:'feature-bonder',-1,0,1,5,5,0,0
@@ -37,10 +37,10 @@ MEMBER:'instr-bond',-1,0,128,2,4,0,0
 MEMBER:'instr-grab',-1,2,128,2,5,0,0
 MEMBER:'instr-bond',-1,0,128,3,5,0,0
 MEMBER:'instr-sync',-1,0,128,3,7,0,0
-MEMBER:'instr-arrow',0,0,64,4,4,0,0
-MEMBER:'instr-sync',-1,0,128,4,4,0,0
-MEMBER:'instr-arrow',-90,0,64,4,5,0,0
+MEMBER:'instr-arrow',0,0,64,5,4,0,0
 MEMBER:'instr-split',-1,0,128,5,4,0,0
+MEMBER:'instr-arrow',-90,0,64,5,5,0,0
+MEMBER:'instr-sync',-1,0,128,5,5,0,0
 MEMBER:'instr-arrow',90,0,64,6,0,0,0
 MEMBER:'instr-arrow',90,0,64,6,2,0,0
 MEMBER:'instr-grab',-1,2,128,6,2,0,0
@@ -60,12 +60,11 @@ MEMBER:'instr-grab',-1,1,32,0,2,0,0
 MEMBER:'instr-input',-1,0,32,0,3,0,0
 MEMBER:'instr-arrow',-90,0,16,0,6,0,0
 MEMBER:'instr-rotate',-1,0,32,1,2,0,0
-MEMBER:'instr-arrow',90,0,16,2,0,0,0
-MEMBER:'instr-output',-1,0,32,2,0,0,0
+MEMBER:'instr-arrow',90,0,16,2,1,0,0
 MEMBER:'instr-bond',-1,0,32,2,4,0,0
 MEMBER:'instr-toggle',0,0,32,2,5,0,0
 MEMBER:'instr-arrow',180,0,16,2,6,0,0
-MEMBER:'instr-toggle',90,0,32,3,0,0,0
+MEMBER:'instr-arrow',90,0,16,3,0,0,0
 MEMBER:'instr-bond',-1,1,32,3,2,0,0
 MEMBER:'instr-grab',-1,2,32,3,4,0,0
 MEMBER:'instr-arrow',0,0,16,3,5,0,0
@@ -75,24 +74,19 @@ MEMBER:'instr-sync',-1,0,32,4,3,0,0
 MEMBER:'instr-arrow',0,0,16,4,4,0,0
 MEMBER:'instr-sync',-1,0,32,4,4,0,0
 MEMBER:'instr-bond',-1,0,32,4,5,0,0
-MEMBER:'instr-arrow',90,0,16,5,1,0,0
 MEMBER:'instr-toggle',90,0,32,5,2,0,0
 MEMBER:'instr-grab',-1,1,32,5,3,0,0
 MEMBER:'instr-grab',-1,1,32,5,4,0,0
 MEMBER:'instr-rotate',-1,0,32,5,5,0,0
 MEMBER:'instr-bond',-1,0,32,5,6,0,0
 MEMBER:'instr-arrow',0,0,16,5,7,0,0
-MEMBER:'instr-arrow',180,0,16,6,0,0,0
-MEMBER:'instr-grab',-1,0,32,6,1,0,0
-MEMBER:'instr-grab',-1,2,32,6,2,0,0
+MEMBER:'instr-arrow',180,0,16,6,1,0,0
+MEMBER:'instr-output',-1,0,32,6,1,0,0
+MEMBER:'instr-grab',-1,0,32,6,2,0,0
 MEMBER:'instr-arrow',-90,0,16,6,5,0,0
 MEMBER:'instr-grab',-1,1,32,7,0,0,0
-MEMBER:'instr-arrow',180,0,16,7,1,0,0
 MEMBER:'instr-fuse',-1,0,32,7,2,0,0
-MEMBER:'instr-toggle',0,0,32,7,3,0,0
-MEMBER:'instr-toggle',-90,0,32,7,4,0,0
 MEMBER:'instr-arrow',180,0,16,8,2,0,0
-MEMBER:'instr-arrow',-90,0,16,8,3,0,0
 MEMBER:'instr-arrow',-90,0,16,8,4,0,0
 MEMBER:'instr-grab',-1,2,32,8,7,0,0
 MEMBER:'instr-arrow',180,0,16,9,0,0,0
