@@ -1,7 +1,7 @@
-SOLUTION:Pyridine,Joosy,177-1-27
+SOLUTION:Pyridine,12345ieee,177-1-26,Unnamed Solution
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,6,3,0,0
-MEMBER:'instr-start',180,0,32,6,5,0,0
+MEMBER:'instr-start',180,0,32,7,5,0,0
 MEMBER:'feature-bonder',-1,0,1,2,2,0,0
 MEMBER:'feature-bonder',-1,0,1,1,2,0,0
 MEMBER:'feature-bonder',-1,0,1,3,1,0,0
@@ -30,7 +30,6 @@ MEMBER:'instr-arrow',-90,0,16,2,5,0,0
 MEMBER:'instr-grab',-1,1,32,2,5,0,0
 MEMBER:'instr-bond',-1,0,32,3,2,0,0
 MEMBER:'instr-bond',-1,1,32,3,5,0,0
-MEMBER:'instr-bond',-1,0,32,4,2,0,0
 MEMBER:'instr-bond',-1,1,32,4,5,0,0
 MEMBER:'instr-bond',-1,1,32,5,5,0,0
 MEMBER:'instr-arrow',90,0,16,8,2,0,0
