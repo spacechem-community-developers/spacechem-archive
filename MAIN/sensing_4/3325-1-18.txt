@@ -1,4 +1,4 @@
-SOLUTION:No Ordinary Headache,Phil_8811,3325-1-18
+SOLUTION:No Ordinary Headache,TotalSushi,3325-1-18
 COMPONENT:'drag-atmospheric-input',8,18,''
 PIPE:0,2,0
 PIPE:0,2,-1
