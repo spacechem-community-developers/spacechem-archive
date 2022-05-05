@@ -1,12 +1,12 @@
-SOLUTION:PAX Challenge 3,britboy3456,196-1-22,brit pareto
+SOLUTION:PAX Challenge 3,vpumeyyv,196-1-21,brit pareto? NO
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',180,0,32,7,7,0,0
 MEMBER:'feature-bonder',-1,0,1,1,1,0,0
-MEMBER:'feature-bonder',-1,0,1,3,1,0,0
+MEMBER:'feature-bonder',-1,0,1,5,2,0,0
 MEMBER:'feature-bonder',-1,0,1,2,1,0,0
 MEMBER:'feature-bonder',-1,0,1,2,2,0,0
-MEMBER:'feature-bonder',-1,0,1,3,2,0,0
+MEMBER:'feature-bonder',-1,0,1,4,2,0,0
 MEMBER:'feature-bonder',-1,0,1,0,1,0,0
 MEMBER:'feature-bonder',-1,0,1,2,0,0,0
 MEMBER:'feature-bonder',-1,0,1,1,2,0,0
@@ -30,7 +30,6 @@ MEMBER:'instr-bond',-1,0,32,0,7,0,0
 MEMBER:'instr-output',-1,0,32,1,7,0,0
 MEMBER:'instr-bond',-1,0,32,2,7,0,0
 MEMBER:'instr-bond',-1,0,32,3,7,0,0
-MEMBER:'instr-bond',-1,0,32,4,7,0,0
 MEMBER:'instr-arrow',180,0,16,5,7,0,0
 PIPE:0,4,1
 PIPE:1,4,2
