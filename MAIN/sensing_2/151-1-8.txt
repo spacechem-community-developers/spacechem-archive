@@ -1,4 +1,4 @@
-SOLUTION:Prelude to a Migraine,alexrudd,151-1-8
+SOLUTION:Prelude to a Migraine,Bart Hanus,151-1-8
 COMPONENT:'drag-advanced-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,0,0,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0
