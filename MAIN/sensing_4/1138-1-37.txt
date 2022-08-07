@@ -1,4 +1,4 @@
-SOLUTION:No Ordinary Headache,Zemyla,1138-1-38
+SOLUTION:No Ordinary Headache,12345ieee,1138-1-37,Unnamed Solution
 COMPONENT:'drag-atmospheric-input',8,18,''
 PIPE:0,2,0
 PIPE:0,2,-1
@@ -8,20 +8,19 @@ PIPE:0,2,-4
 PIPE:0,2,-5
 COMPONENT:'drag-advanced-reactor',11,11,''
 MEMBER:'instr-start',90,0,128,1,4,0,0
-MEMBER:'instr-start',180,0,32,2,2,0,0
+MEMBER:'instr-start',90,0,32,0,0,0,0
 MEMBER:'feature-bonder',-1,0,1,5,2,0,0
 MEMBER:'feature-bonder',-1,0,1,6,2,0,0
 MEMBER:'feature-bonder',-1,0,1,5,3,0,0
 MEMBER:'feature-bonder',-1,0,1,6,3,0,0
-MEMBER:'feature-sensor',-1,0,1,3,5,0,0
+MEMBER:'feature-sensor',-1,0,1,4,5,0,0
 MEMBER:'instr-arrow',0,0,64,1,5,0,0
 MEMBER:'instr-input',-1,1,128,1,5,0,0
 MEMBER:'instr-grab',-1,1,128,2,5,0,0
-MEMBER:'instr-arrow',0,0,64,3,4,0,0
-MEMBER:'instr-rotate',-1,1,128,3,4,0,0
-MEMBER:'instr-sensor',-90,0,128,3,5,0,7
+MEMBER:'instr-rotate',-1,1,128,3,5,0,0
+MEMBER:'instr-arrow',0,0,64,4,4,0,0
 MEMBER:'instr-rotate',-1,1,128,4,4,0,0
-MEMBER:'instr-rotate',-1,1,128,4,5,0,0
+MEMBER:'instr-sensor',-90,0,128,4,5,0,7
 MEMBER:'instr-arrow',0,0,64,5,0,0,0
 MEMBER:'instr-bond',-1,1,128,5,0,0,0
 MEMBER:'instr-bond',-1,1,128,5,2,0,0
@@ -36,18 +35,18 @@ MEMBER:'instr-bond',-1,0,128,6,3,0,0
 MEMBER:'instr-output',-1,0,128,6,4,0,0
 MEMBER:'instr-arrow',180,0,64,6,5,0,0
 MEMBER:'instr-grab',-1,2,128,6,5,0,0
-MEMBER:'instr-arrow',90,0,16,0,2,0,0
+MEMBER:'instr-arrow',90,0,16,0,0,0,0
+MEMBER:'instr-input',-1,0,32,0,1,0,0
 MEMBER:'instr-grab',-1,1,32,0,2,0,0
 MEMBER:'instr-arrow',0,0,16,0,3,0,0
 MEMBER:'instr-rotate',-1,0,32,0,3,0,0
-MEMBER:'instr-input',-1,0,32,1,2,0,0
 MEMBER:'instr-sync',-1,0,32,1,3,0,0
 MEMBER:'instr-bond',-1,1,32,2,3,0,0
 MEMBER:'instr-arrow',90,0,16,5,3,0,0
 MEMBER:'instr-bond',-1,1,32,5,3,0,0
 MEMBER:'instr-arrow',0,0,16,5,4,0,0
 MEMBER:'instr-bond',-1,0,32,5,4,0,0
-MEMBER:'instr-arrow',180,0,16,6,2,0,0
+MEMBER:'instr-arrow',180,0,16,6,0,0,0
 MEMBER:'instr-bond',-1,0,32,6,2,0,0
 MEMBER:'instr-grab',-1,2,32,6,3,0,0
 MEMBER:'instr-arrow',-90,0,16,6,4,0,0
@@ -110,3 +109,5 @@ PIPE:1,-3,0
 PIPE:1,-3,1
 PIPE:1,-2,1
 PIPE:1,-1,1
+ANNOTATION:0,1,0,0,'\n\r\n\r\n\r'
+ANNOTATION:1,0,0,0,'0,1:0,8;0,2:0,8;\n0,1,0:2;\r\n\r\n\r'
