@@ -1,4 +1,4 @@
-SOLUTION:Average Out,12345ieee,2602-2-43,From Blueeyedrat
+SOLUTION:Average Out,12345ieee,2525-2-41,From Blueeyedrat
 COMPONENT:'drag-advanced-reactor',4,5,''
 MEMBER:'instr-start',0,0,128,0,1,0,0
 MEMBER:'instr-start',180,0,32,1,1,0,0
@@ -51,7 +51,8 @@ PIPE:0,9,-1
 PIPE:0,10,-1
 PIPE:0,11,-1
 PIPE:0,12,-1
-PIPE:0,13,-1
+PIPE:0,12,-2
+PIPE:0,13,-2
 PIPE:1,4,3
 PIPE:1,4,4
 PIPE:1,4,5
@@ -133,9 +134,10 @@ PIPE:1,13,1
 PIPE:1,13,0
 PIPE:1,13,-1
 PIPE:1,13,-2
+PIPE:1,13,-3
 ANNOTATION:0,0,0,0,'0,1:0,6;1,1:0,201;\n0,1,1:2;\r\n\r\n\r'
 ANNOTATION:1,0,0,0,'1,1:0,1;\n\r\n\r\n\r'
-COMPONENT:'drag-superbonder-reactor',18,2,''
+COMPONENT:'drag-superbonder-reactor',18,1,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',180,0,32,1,0,0,0
 MEMBER:'feature-bonder',-1,0,1,5,4,0,0
@@ -162,16 +164,14 @@ MEMBER:'instr-arrow',0,0,64,4,2,0,0
 MEMBER:'instr-rotate',-1,0,128,5,2,0,0
 MEMBER:'instr-arrow',90,0,64,6,2,0,0
 MEMBER:'instr-toggle',0,0,128,6,2,0,0
-MEMBER:'instr-grab',-1,0,128,6,3,0,0
+MEMBER:'instr-grab',-1,2,128,6,3,0,0
 MEMBER:'instr-arrow',180,0,64,6,5,0,0
 MEMBER:'instr-arrow',180,0,64,7,2,0,0
 MEMBER:'instr-toggle',90,0,128,7,2,0,0
-MEMBER:'instr-arrow',0,0,64,7,3,0,0
-MEMBER:'instr-rotate',-1,0,128,7,3,0,0
-MEMBER:'instr-arrow',90,0,64,8,3,0,0
-MEMBER:'instr-grab',-1,2,128,8,3,0,0
-MEMBER:'instr-output',-1,0,128,8,4,0,0
-MEMBER:'instr-arrow',180,0,64,8,5,0,0
+MEMBER:'instr-rotate',-1,1,128,7,3,0,0
+MEMBER:'instr-grab',-1,2,128,7,4,0,0
+MEMBER:'instr-arrow',180,0,64,7,5,0,0
+MEMBER:'instr-output',-1,1,128,7,5,0,0
 MEMBER:'instr-bond',-1,0,32,0,0,0,0
 PIPE:0,4,1
 PIPE:1,4,2
