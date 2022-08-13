@@ -1,4 +1,4 @@
-SOLUTION:Suspicious Behavior,ecnerwal,1916-1-46
+SOLUTION:Suspicious Behavior,ecnerwala,1916-1-45
 COMPONENT:'drag-largeoutput-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,5,5,0,0
@@ -8,13 +8,12 @@ MEMBER:'feature-bonder',-1,0,1,1,6,0,0
 MEMBER:'feature-bonder',-1,0,1,7,7,0,0
 MEMBER:'feature-sensor',-1,0,1,6,0,0,0
 MEMBER:'instr-arrow',90,0,64,1,1,0,0
-MEMBER:'instr-grab',-1,0,128,1,1,0,0
+MEMBER:'instr-grab',-1,1,128,1,1,0,0
 MEMBER:'instr-bond',-1,0,128,1,5,0,0
-MEMBER:'instr-grab',-1,0,128,1,6,0,0
+MEMBER:'instr-grab',-1,2,128,1,6,0,0
 MEMBER:'instr-arrow',0,0,64,1,7,0,0
 MEMBER:'instr-bond',-1,0,128,1,7,0,0
 MEMBER:'instr-input',-1,0,128,2,1,0,0
-MEMBER:'instr-grab',-1,0,128,4,7,0,0
 MEMBER:'instr-arrow',180,0,64,5,1,0,0
 MEMBER:'instr-bond',-1,0,128,5,3,0,0
 MEMBER:'instr-toggle',0,0,128,5,4,0,0
@@ -30,7 +29,7 @@ MEMBER:'instr-arrow',0,0,16,1,7,0,0
 MEMBER:'instr-arrow',180,0,16,2,3,0,0
 MEMBER:'instr-rotate',-1,1,32,2,4,0,0
 MEMBER:'instr-arrow',-90,0,16,2,5,0,0
-MEMBER:'instr-grab',-1,0,32,2,5,0,0
+MEMBER:'instr-grab',-1,1,32,2,5,0,0
 MEMBER:'instr-arrow',0,0,16,2,6,0,0
 MEMBER:'instr-rotate',-1,1,32,2,6,0,0
 MEMBER:'instr-bond',-1,1,32,3,5,0,0
@@ -40,18 +39,18 @@ MEMBER:'instr-arrow',0,0,16,3,7,0,0
 MEMBER:'instr-input',-1,1,32,4,5,0,0
 MEMBER:'instr-bond',-1,0,32,5,7,0,0
 MEMBER:'instr-arrow',180,0,16,6,5,0,0
-MEMBER:'instr-grab',-1,0,32,6,6,0,0
+MEMBER:'instr-grab',-1,2,32,6,6,0,0
 MEMBER:'instr-arrow',-90,0,16,6,7,0,0
 MEMBER:'instr-toggle',0,0,32,6,7,0,0
 MEMBER:'instr-grab',-1,2,32,7,5,0,0
 MEMBER:'instr-arrow',180,0,16,8,5,0,0
 MEMBER:'instr-arrow',-90,0,16,8,6,0,0
-MEMBER:'instr-grab',-1,0,32,8,6,0,0
+MEMBER:'instr-grab',-1,1,32,8,6,0,0
 MEMBER:'instr-arrow',180,0,16,9,5,0,0
 MEMBER:'instr-output',-1,0,32,9,5,0,0
 MEMBER:'instr-arrow',180,0,16,9,6,0,0
 MEMBER:'instr-sensor',-90,0,32,9,6,0,1
 MEMBER:'instr-arrow',-90,0,16,9,7,0,0
-MEMBER:'instr-grab',-1,0,32,9,7,0,0
+MEMBER:'instr-grab',-1,2,32,9,7,0,0
 PIPE:0,4,1
 PIPE:1,4,2
