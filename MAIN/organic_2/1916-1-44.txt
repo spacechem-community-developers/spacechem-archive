@@ -1,4 +1,4 @@
-SOLUTION:Suspicious Behavior,ecnerwala,1916-1-45
+SOLUTION:Suspicious Behavior,ecnerwala,1916-1-44
 COMPONENT:'drag-largeoutput-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,5,5,0,0
@@ -30,7 +30,6 @@ MEMBER:'instr-arrow',180,0,16,2,3,0,0
 MEMBER:'instr-rotate',-1,1,32,2,4,0,0
 MEMBER:'instr-arrow',-90,0,16,2,5,0,0
 MEMBER:'instr-grab',-1,1,32,2,5,0,0
-MEMBER:'instr-arrow',0,0,16,2,6,0,0
 MEMBER:'instr-rotate',-1,1,32,2,6,0,0
 MEMBER:'instr-bond',-1,1,32,3,5,0,0
 MEMBER:'instr-arrow',90,0,16,3,6,0,0
