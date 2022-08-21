@@ -1,6 +1,6 @@
-SOLUTION:Moustachium 608,BigMangoHead,156-1-41,improving the low symbols solution
+SOLUTION:Moustachium 608,bigmangohead,156-1-39,improving the low symbols solution
 COMPONENT:'drag-starter-reactor',2,0,''
-MEMBER:'instr-start',-90,0,128,8,7,0,0
+MEMBER:'instr-start',-90,0,128,3,4,0,0
 MEMBER:'instr-start',-90,0,32,1,6,0,0
 MEMBER:'feature-bonder',-1,0,1,1,1,0,0
 MEMBER:'feature-bonder',-1,0,1,1,2,0,0
@@ -14,6 +14,7 @@ MEMBER:'instr-bond',-1,1,128,2,2,0,0
 MEMBER:'instr-arrow',90,0,64,3,0,0,0
 MEMBER:'instr-arrow',0,0,64,3,1,0,0
 MEMBER:'instr-bond',-1,0,128,3,1,0,0
+MEMBER:'instr-input',-1,1,128,3,3,0,0
 MEMBER:'instr-rotate',-1,1,128,4,1,0,0
 MEMBER:'instr-input',-1,0,128,4,2,0,0
 MEMBER:'instr-input',-1,0,128,5,1,0,0
@@ -24,9 +25,6 @@ MEMBER:'instr-arrow',90,0,64,7,1,0,0
 MEMBER:'instr-input',-1,0,128,7,1,0,0
 MEMBER:'instr-arrow',180,0,64,7,2,0,0
 MEMBER:'instr-input',-1,0,128,7,2,0,0
-MEMBER:'instr-arrow',180,0,64,8,1,0,0
-MEMBER:'instr-input',-1,0,128,8,5,0,0
-MEMBER:'instr-input',-1,1,128,8,6,0,0
 MEMBER:'instr-arrow',0,0,16,1,1,0,0
 MEMBER:'instr-output',-1,0,32,1,1,0,0
 MEMBER:'instr-bond',-1,0,32,1,2,0,0
