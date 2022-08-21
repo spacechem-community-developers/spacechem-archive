@@ -1,4 +1,4 @@
-SOLUTION:Moustachium 608,vpumeyyv,156-1-38,even less symbols
+SOLUTION:Moustachium 608,bigmangohead/community,156-1-38,even less symbols
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,3,4,0,0
 MEMBER:'instr-start',-90,0,32,1,6,0,0
