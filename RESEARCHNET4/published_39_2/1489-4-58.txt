@@ -1,4 +1,4 @@
-SOLUTION:Radikal,12345ieee,1491-4-58,Unnamed Solution
+SOLUTION:Radikal,12345ieee,1489-4-58,Unnamed Solution
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -84,13 +84,11 @@ PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,4,0
 PIPE:0,5,0
-PIPE:0,5,1
-PIPE:1,4,3
-PIPE:1,5,3
 PIPE:1,5,2
+PIPE:1,5,1
 ANNOTATION:0,0,0,0,'1,2:0,7;1,1:0,1;0,2:0,1;\n1,1,0:1;0,2,1:1;\r\n\r\n\r'
 ANNOTATION:1,0,0,0,'1,0:0,6;0,0:0,1;1,1:0,1;\n1,0,0:1;0,0,1:1;\r\n\r\n\r'
-COMPONENT:'drag-advanced-reactor',15,8,''
+COMPONENT:'drag-advanced-reactor',15,7,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',180,0,32,1,6,0,0
 MEMBER:'feature-bonder',-1,0,1,4,5,0,0
@@ -118,7 +116,6 @@ PIPE:0,2,-1
 PIPE:0,2,-2
 PIPE:0,2,-3
 PIPE:0,2,-4
-PIPE:0,2,-5
 ANNOTATION:0,0,0,0,'0,3:0,1;2,3:0,7;1,3:0,6;1,2:0,1;2,2:0,1;3,3:0,1;\n2,2,0:1;2,3,1:1;0,3,1:1;1,2,0:1;1,3,1:1;\r\n\r\n\r'
 ANNOTATION:1,1,0,0,'\n\r\n\r\n\r'
 COMPONENT:'drag-advanced-reactor',18,2,''
