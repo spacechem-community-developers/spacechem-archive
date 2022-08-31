@@ -1,4 +1,4 @@
-SOLUTION:Fluoromethanes,GuavaMoment,257-1-64,/P 
+SOLUTION:Fluoromethanes,GuavaMoment,257-1-64,/P
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,4,1,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0
