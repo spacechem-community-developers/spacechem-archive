@@ -43,6 +43,8 @@ PIPE:1,4,2
 PIPE:0,5,1
 PIPE:0,6,1
 PIPE:0,7,1
+ANNOTATION:0,0,0,0,'1,1:0,1;2,1:0,8;1,2:0,1;2,2:0,6;\n2,1,0:1;1,1,1:1;1,2,1:1;\r\n\r\n\r'
+ANNOTATION:1,0,0,0,'\n\r\n\r\n\r'
 COMPONENT:'drag-starter-reactor',15,15,''
 MEMBER:'instr-start',180,0,128,4,3,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0
