@@ -1,4 +1,4 @@
-SOLUTION:Propane Accessories,whoever314,245-1-43,color swap of Zei
+SOLUTION:Propane Accessories,Zei/whoever314,245-1-43,color swap of Zei
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,2,2,0,0
 MEMBER:'instr-start',180,0,32,3,5,0,0
