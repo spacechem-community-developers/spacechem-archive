@@ -1,4 +1,4 @@
-SOLUTION:No Thanks Necessary,BigMangoHead/12345ieee,2298-2-128,'Pagiarism,I mean, standing on the shoulders of giants'
+SOLUTION:No Thanks Necessary,12345ieee,2298-2-127,'Plagiarism, I mean, standing on the shoulders of giants'
 COMPONENT:'drag-atmospheric-input',4,5,''
 PIPE:0,2,0
 PIPE:0,3,0
@@ -69,7 +69,6 @@ MEMBER:'instr-sync',-1,0,32,3,3,0,0
 MEMBER:'instr-sensor',-90,0,32,3,5,0,7
 MEMBER:'instr-sync',-1,0,32,4,1,0,0
 MEMBER:'instr-rotate',-1,0,32,4,5,0,0
-MEMBER:'instr-output',-1,0,32,5,1,0,0
 MEMBER:'instr-sync',-1,0,32,5,4,0,0
 MEMBER:'instr-output',-1,1,32,5,5,0,0
 MEMBER:'instr-arrow',90,0,16,6,1,0,0
