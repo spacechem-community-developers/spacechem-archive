@@ -1,7 +1,7 @@
-SOLUTION:Unlikely,gggol,1628-1-25,25s
+SOLUTION:Unlikely,gggol,1624-1-25,25s faster start
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,0,7,0,0
-MEMBER:'instr-start',0,0,32,4,0,0,0
+MEMBER:'instr-start',-90,0,32,6,6,0,0
 MEMBER:'feature-bonder',-1,0,1,8,2,0,0
 MEMBER:'feature-bonder',-1,0,1,9,2,0,0
 MEMBER:'feature-bonder',-1,0,1,7,2,0,0
