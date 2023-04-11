@@ -1,4 +1,4 @@
-SOLUTION:Break-up,12345ieee,7412-2-260,99% by whoever
+SOLUTION:Break-up,12345ieee,7412-2-258,99% by whoever
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -307,17 +307,15 @@ MEMBER:'instr-arrow',0,0,16,3,7,0,0
 MEMBER:'instr-toggle',180,0,32,3,7,0,0
 MEMBER:'instr-arrow',180,0,16,4,0,0,0
 MEMBER:'instr-sync',-1,0,32,4,2,0,0
-MEMBER:'instr-arrow',0,0,16,4,5,0,0
-MEMBER:'instr-arrow',-90,0,16,4,6,0,0
 MEMBER:'instr-bond',-1,1,32,4,6,0,0
 MEMBER:'instr-bond',-1,0,32,4,7,0,0
 MEMBER:'instr-grab',-1,2,32,5,0,0,0
+MEMBER:'instr-arrow',0,0,16,5,1,0,0
+MEMBER:'instr-rotate',-1,1,32,5,3,0,0
+MEMBER:'instr-rotate',-1,1,32,5,4,0,0
 MEMBER:'instr-bond',-1,0,32,5,5,0,0
+MEMBER:'instr-arrow',-90,0,16,5,6,0,0
 MEMBER:'instr-bond',-1,1,32,6,0,0,0
-MEMBER:'instr-arrow',0,0,16,6,1,0,0
-MEMBER:'instr-rotate',-1,1,32,6,3,0,0
-MEMBER:'instr-rotate',-1,1,32,6,4,0,0
-MEMBER:'instr-arrow',-90,0,16,6,5,0,0
 MEMBER:'instr-bond',-1,0,32,6,7,0,0
 MEMBER:'instr-rotate',-1,1,32,7,0,0,0
 MEMBER:'instr-bond',-1,1,32,7,2,0,0
