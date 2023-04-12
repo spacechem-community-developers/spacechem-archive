@@ -1,4 +1,4 @@
-SOLUTION:Break-up,12345ieee,7132-2-248,>95% by whoever314
+SOLUTION:Break-up,12345ieee,7132-2-247,>95% by whoever314
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -34,7 +34,7 @@ PIPE:0,2,-6
 PIPE:0,2,-7
 COMPONENT:'drag-nuclear-reactor',6,4,''
 MEMBER:'instr-start',-90,0,128,9,3,0,0
-MEMBER:'instr-start',180,0,32,9,7,0,0
+MEMBER:'instr-start',180,0,32,9,5,0,0
 MEMBER:'feature-bonder',-1,0,1,2,4,0,0
 MEMBER:'feature-bonder',-1,0,1,1,5,0,0
 MEMBER:'feature-bonder',-1,0,1,3,5,0,0
@@ -170,7 +170,6 @@ MEMBER:'instr-output',-1,1,32,7,7,0,0
 MEMBER:'instr-arrow',90,0,16,8,1,0,0
 MEMBER:'instr-arrow',180,0,16,8,5,0,0
 MEMBER:'instr-sync',-1,0,32,8,5,0,0
-MEMBER:'instr-sync',-1,0,32,8,7,0,0
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,4,0
@@ -195,7 +194,7 @@ PIPE:1,9,2
 PIPE:1,10,2
 PIPE:1,11,2
 ANNOTATION:0,1,0,0,'\n\r\n\r\n\r'
-ANNOTATION:1,1,-7,50,'0,1:0,1;0,0:0,203;1,1:0,8;1,2:0,8;1,3:0,1;\n1,1,0:1;1,2,0:1;0,0,0:1;\r0,1:0,6;1,2:0,203;0,2:0,203;1,1:0,203;2,1:0,203;3,2:0,203;2,2:0,203;\n0,1,1:1;0,2,1:1;1,2,1:1;2,2,1:1;1,1,1:1;\r1,1:0,6;1,0:0,203;\n1,0,0:3;\r'
+ANNOTATION:1,1,-7,50,'0,1:0,1;0,0:0,203;1,1:0,8;1,2:0,8;1,3:0,1;\n1,1,0:1;1,2,0:1;0,0,0:1;\r0,1:0,6;1,2:0,203;0,2:0,203;1,1:0,203;2,1:0,203;3,2:0,203;2,2:0,203;\n0,1,1:1;0,2,1:1;1,2,1:1;2,2,1:1;1,1,1:1;\r1,1:0,6;1,0:0,203;\n1,0,0:2;\r'
 COMPONENT:'drag-superbonder-reactor',18,4,''
 MEMBER:'instr-start',-90,0,128,9,4,0,0
 MEMBER:'instr-start',180,0,32,2,1,0,0
