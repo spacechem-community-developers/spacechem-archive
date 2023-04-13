@@ -1,4 +1,4 @@
-SOLUTION:Break-up,whoever314/12345ieee,7015-2-243,7015-2-243
+SOLUTION:Break-up,whoever314,7015-2-242,7015-2-242
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -242,7 +242,7 @@ MEMBER:'instr-grab',-1,1,128,6,3,0,0
 MEMBER:'instr-arrow',-90,0,64,6,5,0,0
 MEMBER:'instr-bond',-1,1,128,6,5,0,0
 MEMBER:'instr-bond',-1,0,128,6,6,0,0
-MEMBER:'instr-grab',-1,2,128,6,7,0,0
+MEMBER:'instr-rotate',-1,1,128,6,7,0,0
 MEMBER:'instr-arrow',0,0,64,7,4,0,0
 MEMBER:'instr-toggle',90,0,128,7,4,0,0
 MEMBER:'instr-arrow',-90,0,64,7,5,0,0
@@ -255,7 +255,6 @@ MEMBER:'instr-sync',-1,0,128,9,2,0,0
 MEMBER:'instr-grab',-1,2,128,9,3,0,0
 MEMBER:'instr-arrow',-90,0,64,9,4,0,0
 MEMBER:'instr-arrow',-90,0,64,9,7,0,0
-MEMBER:'instr-grab',-1,1,128,9,7,0,0
 MEMBER:'instr-arrow',90,0,16,0,1,0,0
 MEMBER:'instr-arrow',0,0,16,0,2,0,0
 MEMBER:'instr-toggle',90,0,32,0,2,0,0
