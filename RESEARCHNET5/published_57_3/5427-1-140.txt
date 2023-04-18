@@ -1,4 +1,4 @@
-SOLUTION:Carbon Splatter,whoever314,5507-1-140,5507-1-140
+SOLUTION:Carbon Splatter,whoever314,5427-1-140,5427-1-140
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -39,6 +39,7 @@ MEMBER:'instr-grab',-1,2,128,3,3,0,0
 MEMBER:'instr-grab',-1,1,128,3,5,0,0
 MEMBER:'instr-grab',-1,1,128,3,6,0,0
 MEMBER:'instr-arrow',-90,0,64,3,7,0,0
+MEMBER:'instr-split',-1,0,128,3,7,0,0
 MEMBER:'instr-arrow',90,0,64,4,1,0,0
 MEMBER:'instr-bond',-1,0,128,4,1,0,0
 MEMBER:'instr-grab',-1,1,128,4,2,0,0
@@ -56,7 +57,6 @@ MEMBER:'instr-grab',-1,2,128,5,5,0,0
 MEMBER:'instr-arrow',180,0,64,6,0,0,0
 MEMBER:'instr-bond',-1,1,128,6,3,0,0
 MEMBER:'instr-toggle',0,0,128,6,4,0,0
-MEMBER:'instr-bond',-1,0,128,6,5,0,0
 MEMBER:'instr-arrow',-90,0,64,6,6,0,0
 MEMBER:'instr-grab',-1,2,128,6,6,0,0
 MEMBER:'instr-arrow',180,0,64,7,0,0,0
@@ -124,27 +124,27 @@ MEMBER:'instr-arrow',90,0,16,4,5,0,0
 MEMBER:'instr-bond',-1,0,32,4,5,0,0
 MEMBER:'instr-arrow',0,0,16,4,6,0,0
 MEMBER:'instr-grab',-1,0,32,4,7,0,0
-MEMBER:'instr-arrow',90,0,16,5,0,0,0
+MEMBER:'instr-arrow',90,0,16,5,2,0,0
 MEMBER:'instr-toggle',0,0,32,5,3,0,0
-MEMBER:'instr-rotate',-1,0,32,5,4,0,0
+MEMBER:'instr-bond',-1,0,32,5,4,0,0
 MEMBER:'instr-arrow',-90,0,16,5,5,0,0
 MEMBER:'instr-grab',-1,1,32,5,5,0,0
 MEMBER:'instr-toggle',90,0,32,5,6,0,0
 MEMBER:'instr-arrow',180,0,16,5,7,0,0
 MEMBER:'instr-grab',-1,0,32,5,7,0,0
-MEMBER:'instr-arrow',0,0,16,6,1,0,0
-MEMBER:'instr-split',-1,0,32,6,1,0,0
 MEMBER:'instr-grab',-1,2,32,6,2,0,0
-MEMBER:'instr-rotate',-1,1,32,6,3,0,0
+MEMBER:'instr-arrow',0,0,16,6,3,0,0
 MEMBER:'instr-arrow',-90,0,16,6,4,0,0
 MEMBER:'instr-bond',-1,0,32,6,4,0,0
 MEMBER:'instr-sync',-1,0,32,6,7,0,0
-MEMBER:'instr-arrow',90,0,16,7,3,0,0
+MEMBER:'instr-toggle',90,0,32,7,3,0,0
 MEMBER:'instr-grab',-1,2,32,7,6,0,0
 MEMBER:'instr-arrow',180,0,16,7,7,0,0
 MEMBER:'instr-output',-1,1,32,7,7,0,0
-MEMBER:'instr-arrow',180,0,16,8,0,0,0
-MEMBER:'instr-arrow',-90,0,16,8,1,0,0
+MEMBER:'instr-arrow',90,0,16,8,0,0,0
+MEMBER:'instr-toggle',180,0,32,8,2,0,0
+MEMBER:'instr-arrow',-90,0,16,8,3,0,0
+MEMBER:'instr-rotate',-1,1,32,8,3,0,0
 MEMBER:'instr-arrow',180,0,16,8,4,0,0
 MEMBER:'instr-rotate',-1,1,32,8,4,0,0
 MEMBER:'instr-arrow',-90,0,16,8,5,0,0
