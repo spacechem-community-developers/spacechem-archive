@@ -1,4 +1,4 @@
-SOLUTION:Carbon Splatter,12345ieee,4881-1-113,R is back together
+SOLUTION:Carbon Splatter,12345ieee,4880-1-113,R is back together
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -78,22 +78,22 @@ MEMBER:'instr-bond',-1,0,32,0,7,0,0
 MEMBER:'instr-arrow',90,0,16,1,1,0,0
 MEMBER:'instr-arrow',0,0,16,1,2,0,0
 MEMBER:'instr-input',-1,0,32,1,2,0,0
+MEMBER:'instr-arrow',90,0,16,1,4,0,0
+MEMBER:'instr-output',-1,1,32,1,4,0,0
+MEMBER:'instr-arrow',0,0,16,1,5,0,0
 MEMBER:'instr-grab',-1,1,32,2,1,0,0
 MEMBER:'instr-rotate',-1,1,32,2,2,0,0
-MEMBER:'instr-arrow',0,0,16,2,3,0,0
+MEMBER:'instr-arrow',90,0,16,2,3,0,0
 MEMBER:'instr-grab',-1,1,32,2,3,0,0
-MEMBER:'instr-arrow',90,0,16,2,4,0,0
-MEMBER:'instr-output',-1,1,32,2,4,0,0
-MEMBER:'instr-arrow',0,0,16,2,5,0,0
+MEMBER:'instr-arrow',180,0,16,2,4,0,0
+MEMBER:'instr-toggle',0,0,32,2,4,0,0
 MEMBER:'instr-grab',-1,0,32,2,5,0,0
 MEMBER:'instr-sync',-1,0,32,2,7,0,0
 MEMBER:'instr-arrow',90,0,16,3,0,0,0
 MEMBER:'instr-arrow',90,0,16,3,2,0,0
 MEMBER:'instr-fuse',-1,0,32,3,2,0,0
 MEMBER:'instr-arrow',180,0,16,3,3,0,0
-MEMBER:'instr-toggle',90,0,32,3,3,0,0
-MEMBER:'instr-arrow',180,0,16,3,4,0,0
-MEMBER:'instr-toggle',90,0,32,3,4,0,0
+MEMBER:'instr-arrow',90,0,16,3,4,0,0
 MEMBER:'instr-arrow',180,0,16,3,7,0,0
 MEMBER:'instr-bond',-1,0,32,3,7,0,0
 MEMBER:'instr-input',-1,0,32,4,1,0,0
