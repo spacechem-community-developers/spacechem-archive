@@ -1,4 +1,4 @@
-SOLUTION:Eth,12345ieee,1703-2-61,From whoever314
+SOLUTION:Eth,12345ieee,1702-2-61,From whoever314
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -76,7 +76,7 @@ PIPE:1,18,14
 PIPE:1,19,14
 COMPONENT:'drag-nuclear-reactor',8,8,''
 MEMBER:'instr-start',0,0,128,1,0,0,0
-MEMBER:'instr-start',180,0,32,7,7,0,0
+MEMBER:'instr-start',180,0,32,8,7,0,0
 MEMBER:'feature-bonder',-1,0,1,6,1,0,0
 MEMBER:'feature-bonder',-1,0,1,7,1,0,0
 MEMBER:'feature-bonder',-1,0,1,5,2,0,0
@@ -108,7 +108,6 @@ MEMBER:'instr-arrow',180,0,64,6,2,0,0
 MEMBER:'instr-toggle',-90,0,128,6,2,0,0
 MEMBER:'instr-arrow',90,0,64,7,0,0,0
 MEMBER:'instr-grab',-1,2,128,7,0,0,0
-MEMBER:'instr-output',-1,0,128,7,1,0,0
 MEMBER:'instr-arrow',180,0,64,7,4,0,0
 MEMBER:'instr-arrow',90,0,16,2,4,0,0
 MEMBER:'instr-input',-1,1,32,2,4,0,0
@@ -116,6 +115,7 @@ MEMBER:'instr-arrow',0,0,16,2,5,0,0
 MEMBER:'instr-grab',-1,1,32,2,5,0,0
 MEMBER:'instr-input',-1,1,32,2,6,0,0
 MEMBER:'instr-arrow',-90,0,16,2,7,0,0
+MEMBER:'instr-output',-1,0,32,2,7,0,0
 MEMBER:'instr-arrow',0,0,16,4,2,0,0
 MEMBER:'instr-grab',-1,1,32,4,2,0,0
 MEMBER:'instr-arrow',90,0,16,4,3,0,0
