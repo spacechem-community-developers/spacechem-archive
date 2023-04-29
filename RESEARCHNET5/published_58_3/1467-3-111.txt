@@ -1,4 +1,4 @@
-SOLUTION:Revenge,12345ieee,1478-3-111,from Blueeyedrat
+SOLUTION:Revenge,12345ieee,1467-3-111,from Blueeyedrat
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -47,8 +47,8 @@ MEMBER:'instr-arrow',0,0,16,3,3,0,0
 MEMBER:'instr-grab',-1,1,32,3,3,0,0
 MEMBER:'instr-sync',-1,0,32,3,6,0,0
 MEMBER:'instr-arrow',-90,0,16,3,7,0,0
-MEMBER:'instr-arrow',180,0,16,4,1,0,0
-MEMBER:'instr-toggle',0,0,32,4,1,0,0
+MEMBER:'instr-arrow',0,0,16,4,1,0,0
+MEMBER:'instr-toggle',180,0,32,4,1,0,0
 MEMBER:'instr-grab',-1,2,32,4,2,0,0
 MEMBER:'instr-arrow',-90,0,16,4,3,0,0
 MEMBER:'instr-rotate',-1,1,32,4,3,0,0
