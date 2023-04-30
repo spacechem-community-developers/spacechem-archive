@@ -1,7 +1,7 @@
-SOLUTION:Precious Oxygen,12345ieee,315-1-66,from Blueeyedrat
+SOLUTION:Precious Oxygen,12345ieee,314-1-66,from Blueeyedrat
 COMPONENT:'custom-research-reactor',2,0,''
-MEMBER:'instr-start',180,0,128,4,5,0,0
-MEMBER:'instr-start',180,0,32,7,1,0,0
+MEMBER:'instr-start',180,0,128,3,5,0,0
+MEMBER:'instr-start',180,0,32,6,1,0,0
 MEMBER:'feature-bonder',-1,0,1,1,1,0,0
 MEMBER:'feature-bonder',-1,0,1,1,2,0,0
 MEMBER:'feature-bonder',-1,0,1,2,3,0,0
