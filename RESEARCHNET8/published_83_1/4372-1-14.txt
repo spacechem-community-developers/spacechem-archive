@@ -1,11 +1,10 @@
-SOLUTION:Largest Prime,Koen,4380-1-15
+SOLUTION:Largest Prime,12345ieee,4372-1-14,Unnamed Solution
 COMPONENT:'custom-research-reactor',2,0,''
-MEMBER:'instr-start',-90,0,128,0,5,0,0
+MEMBER:'instr-start',0,0,128,5,2,0,0
 MEMBER:'instr-start',90,0,32,0,0,0,0
 MEMBER:'feature-fuser',-1,0,1,0,1,0,0
 MEMBER:'instr-arrow',0,0,64,0,2,0,0
 MEMBER:'instr-grab',-1,1,128,0,2,0,0
-MEMBER:'instr-input',-1,0,128,0,4,0,0
 MEMBER:'instr-input',-1,0,128,2,2,0,0
 MEMBER:'instr-input',-1,0,128,6,2,0,0
 MEMBER:'instr-output',-1,0,128,7,2,0,0
