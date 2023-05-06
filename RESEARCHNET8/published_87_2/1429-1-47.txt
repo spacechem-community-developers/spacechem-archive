@@ -1,6 +1,6 @@
-SOLUTION:Miracle Cure,12345ieee,1430-1-47,Different approach from whoever
+SOLUTION:Miracle Cure,BigMangoHead,1429-1-47,Ieee's solution
 COMPONENT:'custom-research-reactor',2,0,''
-MEMBER:'instr-start',-90,0,128,1,6,0,0
+MEMBER:'instr-start',-90,0,128,1,5,0,0
 MEMBER:'instr-start',180,0,32,4,1,0,0
 MEMBER:'feature-bonder',-1,0,1,3,5,0,0
 MEMBER:'feature-bonder',-1,0,1,4,5,0,0
