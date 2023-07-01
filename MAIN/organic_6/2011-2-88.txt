@@ -1,4 +1,4 @@
-SOLUTION:Σ-Ethylene,ToughThought,2011-2-91
+SOLUTION:Σ-Ethylene,ToughThought/12345ieee,2011-2-88,ToughThought clean up those symbols
 COMPONENT:'drag-ancient-input',5,10,''
 PIPE:0,2,0
 PIPE:0,3,0
@@ -103,8 +103,8 @@ PIPE:1,0,7
 ANNOTATION:0,1,0,0,'\n\r\n\r\n\r'
 ANNOTATION:1,0,-22,-211,'0,0:0,1;0,1:0,6;1,1:0,1;\n0,0,0:1;0,1,1:1;\r\n\r\n\r\n\r'
 COMPONENT:'drag-fusion-reactor',13,16,''
-MEMBER:'instr-start',90,0,128,6,1,0,0
-MEMBER:'instr-start',180,0,32,2,7,0,0
+MEMBER:'instr-start',180,0,128,4,5,0,0
+MEMBER:'instr-start',180,0,32,7,0,0,0
 MEMBER:'feature-bonder',-1,0,1,0,1,0,0
 MEMBER:'feature-bonder',-1,0,1,1,1,0,0
 MEMBER:'feature-bonder',-1,0,1,1,2,0,0
@@ -121,7 +121,7 @@ MEMBER:'instr-bond',-1,0,128,4,2,0,0
 MEMBER:'instr-arrow',0,0,64,4,3,0,0
 MEMBER:'instr-input',-1,0,128,5,2,0,0
 MEMBER:'instr-grab',-1,1,128,5,3,0,0
-MEMBER:'instr-sync',-1,0,128,6,2,0,0
+MEMBER:'instr-input',-1,0,128,6,2,0,0
 MEMBER:'instr-arrow',90,0,64,6,3,0,0
 MEMBER:'instr-rotate',-1,1,128,6,3,0,0
 MEMBER:'instr-grab',-1,2,128,6,4,0,0
@@ -132,19 +132,16 @@ MEMBER:'instr-arrow',180,0,64,9,2,0,0
 MEMBER:'instr-grab',-1,2,128,9,2,0,0
 MEMBER:'instr-arrow',0,0,16,0,3,0,0
 MEMBER:'instr-bond',-1,0,32,0,3,0,0
-MEMBER:'instr-sync',-1,0,32,0,4,0,0
-MEMBER:'instr-arrow',-90,0,16,0,7,0,0
-MEMBER:'instr-toggle',0,0,32,0,7,0,0
-MEMBER:'instr-arrow',90,0,16,1,1,0,0
+MEMBER:'instr-toggle',-90,0,32,0,6,0,0
+MEMBER:'instr-arrow',90,0,16,1,0,0,0
 MEMBER:'instr-grab',-1,1,32,1,1,0,0
 MEMBER:'instr-rotate',-1,0,32,1,3,0,0
-MEMBER:'instr-toggle',0,0,32,1,7,0,0
+MEMBER:'instr-arrow',180,0,16,1,6,0,0
 MEMBER:'instr-grab',-1,2,32,2,3,0,0
-MEMBER:'instr-input',-1,0,32,3,1,0,0
-MEMBER:'instr-arrow',180,0,16,4,1,0,0
-MEMBER:'instr-output',-1,1,32,4,2,0,0
-MEMBER:'instr-arrow',-90,0,16,4,3,0,0
-MEMBER:'instr-arrow',180,0,16,7,7,0,0
+MEMBER:'instr-output',-1,1,32,5,3,0,0
+MEMBER:'instr-arrow',180,0,16,9,0,0,0
+MEMBER:'instr-arrow',-90,0,16,9,3,0,0
+MEMBER:'instr-toggle',180,0,32,9,3,0,0
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,5,1
