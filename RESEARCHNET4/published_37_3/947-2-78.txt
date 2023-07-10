@@ -1,4 +1,4 @@
-SOLUTION:Reassembly,whoever314,948-2-78,from 12345ieee
+SOLUTION:Reassembly,12345ieee,947-2-78,from whoever314
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -49,8 +49,8 @@ PIPE:0,3,-7
 PIPE:0,3,-8
 PIPE:0,3,-9
 COMPONENT:'drag-superbonder-reactor',7,7,''
-MEMBER:'instr-start',0,0,128,5,0,0,0
-MEMBER:'instr-start',0,0,32,0,4,0,0
+MEMBER:'instr-start',-90,0,128,6,5,0,0
+MEMBER:'instr-start',0,0,32,6,2,0,0
 MEMBER:'feature-bonder',-1,0,1,1,2,0,0
 MEMBER:'feature-bonder',-1,0,1,2,2,0,0
 MEMBER:'feature-bonder',-1,0,1,7,2,0,0
@@ -61,15 +61,16 @@ MEMBER:'feature-bonder',-1,0,1,6,4,0,0
 MEMBER:'feature-bonder',-1,0,1,0,0,0,0
 MEMBER:'instr-arrow',0,0,64,5,1,0,0
 MEMBER:'instr-grab',-1,1,128,5,1,0,0
-MEMBER:'instr-arrow',-90,0,64,5,2,0,0
-MEMBER:'instr-output',-1,0,128,5,2,0,0
+MEMBER:'instr-output',-1,0,128,6,1,0,0
 MEMBER:'instr-arrow',0,0,64,6,2,0,0
-MEMBER:'instr-toggle',180,0,128,6,2,0,0
-MEMBER:'instr-rotate',-1,1,128,6,3,0,0
+MEMBER:'instr-rotate',-1,1,128,6,2,0,0
+MEMBER:'instr-input',-1,1,128,6,3,0,0
 MEMBER:'instr-arrow',-90,0,64,6,4,0,0
 MEMBER:'instr-grab',-1,1,128,6,4,0,0
 MEMBER:'instr-arrow',0,0,64,7,0,0,0
-MEMBER:'instr-arrow',180,0,64,7,2,0,0
+MEMBER:'instr-arrow',180,0,64,7,1,0,0
+MEMBER:'instr-toggle',0,0,128,7,1,0,0
+MEMBER:'instr-arrow',-90,0,64,7,2,0,0
 MEMBER:'instr-grab',-1,2,128,7,2,0,0
 MEMBER:'instr-arrow',90,0,64,7,3,0,0
 MEMBER:'instr-bond',-1,1,128,7,3,0,0
@@ -86,7 +87,6 @@ MEMBER:'instr-grab',-1,1,32,3,1,0,0
 MEMBER:'instr-arrow',0,0,16,3,2,0,0
 MEMBER:'instr-bond',-1,1,32,3,2,0,0
 MEMBER:'instr-arrow',90,0,16,3,4,0,0
-MEMBER:'instr-input',-1,1,32,3,4,0,0
 MEMBER:'instr-arrow',0,0,16,3,5,0,0
 MEMBER:'instr-grab',-1,1,32,3,5,0,0
 MEMBER:'instr-arrow',180,0,16,4,1,0,0
