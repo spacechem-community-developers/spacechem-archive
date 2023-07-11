@@ -1,4 +1,4 @@
-SOLUTION:Reassembly,12345ieee,947-2-78,from whoever314
+SOLUTION:Reassembly,12345ieee/whoever314,947-2-78,from whoever314
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
