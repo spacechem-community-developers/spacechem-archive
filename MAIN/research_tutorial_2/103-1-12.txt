@@ -1,4 +1,4 @@
-SOLUTION:A Brief History of SpaceChem,moyang,103-1-12
+SOLUTION:A Brief History of SpaceChem,strkto,103-1-12
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,3,4,0,0
 MEMBER:'instr-start',180,0,32,2,0,0,0

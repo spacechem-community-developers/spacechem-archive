@@ -1,4 +1,4 @@
-SOLUTION:Unknown Sender,Steve42,126-1-32
+SOLUTION:Unknown Sender,Piotr Geca,126-1-32
 COMPONENT:'drag-fusion-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,0,1,0,0
 MEMBER:'instr-start',-90,0,32,1,3,0,0

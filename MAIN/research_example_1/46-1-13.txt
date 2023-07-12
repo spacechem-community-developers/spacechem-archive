@@ -1,4 +1,4 @@
-SOLUTION:Of Pancakes and Spaceships,blueblimp,46-1-13
+SOLUTION:Of Pancakes and Spaceships,Никита Попков,46-1-13
 COMPONENT:'empty-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,2,5,0,0
 MEMBER:'instr-start',-90,0,32,2,2,0,0

@@ -1,4 +1,4 @@
-SOLUTION:PVC,giggs,977-1-24
+SOLUTION:PVC,serbaldrig,977-1-24
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,5,1,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0

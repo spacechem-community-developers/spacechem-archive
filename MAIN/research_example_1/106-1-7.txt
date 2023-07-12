@@ -1,4 +1,4 @@
-SOLUTION:Of Pancakes and Spaceships,advicebanana,106-1-7
+SOLUTION:Of Pancakes and Spaceships,Kime,106-1-7
 COMPONENT:'empty-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,0,1,0,0
 MEMBER:'instr-start',180,0,32,1,1,0,0

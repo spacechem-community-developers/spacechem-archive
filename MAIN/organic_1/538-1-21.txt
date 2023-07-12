@@ -1,4 +1,4 @@
-SOLUTION:Special Assignment,CaitSith2,538-1-21
+SOLUTION:Special Assignment,TotalSushi,538-1-21
 COMPONENT:'drag-superbonder-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',0,0,32,3,3,0,0

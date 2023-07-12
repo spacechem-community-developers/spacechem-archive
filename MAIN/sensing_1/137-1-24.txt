@@ -1,11 +1,11 @@
-SOLUTION:An Introduction to Sensing,Ihmehlmenn,137-1-24
+SOLUTION:An Introduction to Sensing,Samsa,137-1-24
 COMPONENT:'drag-advanced-reactor',2,0,''
-MEMBER:'instr-start',180,0,128,3,1,0,0
-MEMBER:'instr-start',180,0,32,5,1,0,0
-MEMBER:'feature-bonder',-1,0,1,4,5,0,0
-MEMBER:'feature-bonder',-1,0,1,4,6,0,0
-MEMBER:'feature-bonder',-1,0,1,5,5,0,0
-MEMBER:'feature-bonder',-1,0,1,5,6,0,0
+MEMBER:'instr-start',180,0,128,5,1,0,0
+MEMBER:'instr-start',180,0,32,3,1,0,0
+MEMBER:'feature-bonder',-1,0,1,8,6,0,0
+MEMBER:'feature-bonder',-1,0,1,9,6,0,0
+MEMBER:'feature-bonder',-1,0,1,8,7,0,0
+MEMBER:'feature-bonder',-1,0,1,9,7,0,0
 MEMBER:'feature-sensor',-1,0,1,1,2,0,0
 MEMBER:'instr-arrow',90,0,64,1,1,0,0
 MEMBER:'instr-grab',-1,1,128,1,1,0,0

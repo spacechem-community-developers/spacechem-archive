@@ -1,4 +1,4 @@
-SOLUTION:Molecular Foundry,Zig,1635-2-89,TT
+SOLUTION:Molecular Foundry,ToughThought,1635-2-89
 COMPONENT:'drag-mining-input',1,7,''
 PIPE:0,3,0
 PIPE:0,3,1

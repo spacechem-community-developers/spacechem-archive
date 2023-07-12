@@ -1,4 +1,4 @@
-SOLUTION:Suspicious Behavior,Tyrael_Archangel,2549-1-32
+SOLUTION:Suspicious Behavior,prdwong,2549-1-32
 COMPONENT:'drag-largeoutput-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,4,1,0,0
 MEMBER:'instr-start',180,0,32,7,5,0,0

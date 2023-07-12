@@ -1,4 +1,4 @@
-SOLUTION:Slightly Different,ixltixl,47-1-12
+SOLUTION:Slightly Different,Xhamon,47-1-12
 COMPONENT:'empty-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,4,5,0,0
 MEMBER:'instr-start',0,0,32,1,5,0,0

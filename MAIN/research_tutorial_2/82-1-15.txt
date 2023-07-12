@@ -1,4 +1,4 @@
-SOLUTION:A Brief History of SpaceChem,frandibar,82-1-15
+SOLUTION:A Brief History of SpaceChem,Reaper005,82-1-15
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,2,0,0,0
 MEMBER:'instr-start',180,0,32,2,1,0,0

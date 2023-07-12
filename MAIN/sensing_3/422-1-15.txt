@@ -1,4 +1,4 @@
-SOLUTION:Random Oxides,Zig,422-1-15,Sahishar symbols
+SOLUTION:Random Oxides,VaultySpaceChem,422-1-15,symbols
 COMPONENT:'drag-advanced-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,8,5,0,0
 MEMBER:'instr-start',180,0,32,1,6,0,0

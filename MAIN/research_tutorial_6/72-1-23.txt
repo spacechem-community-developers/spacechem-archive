@@ -1,4 +1,4 @@
-SOLUTION:Multiple Outputs,TheSignPainter,72-1-23
+SOLUTION:Multiple Outputs,phluphphtube,72-1-23
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,5,1,0,0
 MEMBER:'instr-start',180,0,32,3,1,0,0

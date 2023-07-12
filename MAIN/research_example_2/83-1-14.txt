@@ -1,4 +1,4 @@
-SOLUTION:An Introduction to Bonding,Carlbunk,83-1-14
+SOLUTION:An Introduction to Bonding,Uejji,83-1-14
 COMPONENT:'tutorial-research-reactor-2',2,0,''
 MEMBER:'instr-start',180,0,128,8,1,0,0
 MEMBER:'instr-start',180,0,32,3,5,0,0

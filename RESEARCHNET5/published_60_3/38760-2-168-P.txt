@@ -1,4 +1,4 @@
-SOLUTION:Rags to Riches,britboy,38760-2-168,/P mayomizak
+SOLUTION:Rags to Riches,mayomizak,38760-2-168,/P
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1

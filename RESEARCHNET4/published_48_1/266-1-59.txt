@@ -1,4 +1,4 @@
-SOLUTION:Fluoromethanes,12345ieee,266-1-59
+SOLUTION:Fluoromethanes,男汁100%,266-1-59
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,9,3,0,0
 MEMBER:'instr-start',90,0,32,1,0,0,0

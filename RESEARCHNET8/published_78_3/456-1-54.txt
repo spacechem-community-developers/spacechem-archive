@@ -1,4 +1,4 @@
-SOLUTION:Symmetry,britboy3456,456-1-54,ser symbols
+SOLUTION:Symmetry,serbadrig,456-1-54,symbols
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,7,0,0
 MEMBER:'instr-start',-90,0,32,2,3,0,0
