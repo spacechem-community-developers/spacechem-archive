@@ -1,4 +1,4 @@
-SOLUTION:Accidents Happen,Zig,253-1-94,/P I reject your input sequence and substitute my own
+SOLUTION:Accidents Happen,Zig,253-1-93,/P I reject your input sequence and substitute my own
 COMPONENT:'drag-advanced-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,2,0,0,0
 MEMBER:'instr-start',180,0,32,8,5,0,0
@@ -30,7 +30,6 @@ MEMBER:'instr-arrow',90,0,64,3,3,0,0
 MEMBER:'instr-output',-1,0,128,3,3,0,0
 MEMBER:'instr-arrow',0,0,64,3,4,0,0
 MEMBER:'instr-grab',-1,1,128,3,4,0,0
-MEMBER:'instr-output',-1,0,128,3,5,0,0
 MEMBER:'instr-arrow',-90,0,64,3,6,0,0
 MEMBER:'instr-bond',-1,1,128,3,6,0,0
 MEMBER:'instr-bond',-1,0,128,4,1,0,0
