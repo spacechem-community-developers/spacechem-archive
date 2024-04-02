@@ -1,7 +1,7 @@
-SOLUTION:Life: Prep Work,mrcable,845-1-25
+SOLUTION:Life: Prep Work,britboy3456,844-1-25,cheeky mrcable snipe
 COMPONENT:'custom-research-reactor',2,0,''
-MEMBER:'instr-start',-90,0,128,4,3,0,0
-MEMBER:'instr-start',-90,0,32,3,3,0,0
+MEMBER:'instr-start',-90,0,128,4,2,0,0
+MEMBER:'instr-start',90,0,32,0,5,0,0
 MEMBER:'feature-bonder',-1,0,1,1,2,0,0
 MEMBER:'feature-bonder',-1,0,1,1,1,0,0
 MEMBER:'feature-fuser',-1,0,1,2,1,0,0
@@ -19,8 +19,8 @@ MEMBER:'instr-arrow',180,0,16,2,2,0,0
 MEMBER:'instr-rotate',-1,0,32,2,2,0,0
 MEMBER:'instr-arrow',90,0,16,3,1,0,0
 MEMBER:'instr-grab',-1,1,32,3,1,0,0
-MEMBER:'instr-arrow',0,0,16,3,2,0,0
-MEMBER:'instr-toggle',180,0,32,3,2,0,0
+MEMBER:'instr-arrow',180,0,16,3,2,0,0
+MEMBER:'instr-toggle',0,0,32,3,2,0,0
 MEMBER:'instr-grab',-1,2,32,6,2,0,0
 MEMBER:'instr-grab',-1,2,32,6,7,0,0
 MEMBER:'instr-arrow',90,0,16,7,2,0,0
