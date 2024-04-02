@@ -1,4 +1,4 @@
-SOLUTION:Carbon Snakes,britboy3456,459-1-19,Brit Pareto 1
+SOLUTION:Carbon Snakes,12345ieee,439-1-19,it used to be a Brit pareto
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,6,3,0,0
 MEMBER:'instr-start',90,0,32,0,6,0,0
@@ -8,8 +8,8 @@ MEMBER:'feature-splitter',-1,0,1,7,4,0,0
 MEMBER:'instr-arrow',90,0,64,0,0,0,0
 MEMBER:'instr-grab',-1,1,128,0,3,0,0
 MEMBER:'instr-arrow',0,0,64,0,4,0,0
-MEMBER:'instr-toggle',90,0,128,0,4,0,0
-MEMBER:'instr-arrow',0,0,64,0,6,0,0
+MEMBER:'instr-toggle',90,0,128,1,0,0,0
+MEMBER:'instr-arrow',0,0,64,1,6,0,0
 MEMBER:'instr-sensor',0,0,128,2,0,0,6
 MEMBER:'instr-fuse',-1,0,128,2,3,0,0
 MEMBER:'instr-arrow',-90,0,64,2,4,0,0
