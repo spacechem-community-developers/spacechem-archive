@@ -1,4 +1,4 @@
-SOLUTION:Think in Spirals,britboy3456,798-1-44,Unnamed Solution
+SOLUTION:Think in Spirals,12345ieee,778-1-44,stolen from BB wh stole it from SC who stole it from...
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,2,2,0,0
 MEMBER:'instr-start',0,0,32,8,7,0,0
@@ -17,9 +17,7 @@ MEMBER:'instr-input',-1,0,128,1,3,0,0
 MEMBER:'instr-arrow',0,0,64,1,4,0,0
 MEMBER:'instr-input',-1,0,128,1,4,0,0
 MEMBER:'instr-arrow',90,0,64,1,5,0,0
-MEMBER:'instr-bond',-1,0,128,1,5,0,0
 MEMBER:'instr-arrow',0,0,64,1,6,0,0
-MEMBER:'instr-bond',-1,0,128,1,6,0,0
 MEMBER:'instr-grab',-1,1,128,2,0,0,0
 MEMBER:'instr-arrow',180,0,64,2,1,0,0
 MEMBER:'instr-input',-1,0,128,2,1,0,0
@@ -40,16 +38,18 @@ MEMBER:'instr-arrow',-90,0,64,3,7,0,0
 MEMBER:'instr-bond',-1,0,128,3,7,0,0
 MEMBER:'instr-rotate',-1,1,128,4,1,0,0
 MEMBER:'instr-arrow',180,0,64,4,5,0,0
-MEMBER:'instr-toggle',-90,0,128,4,6,0,0
+MEMBER:'instr-arrow',-90,0,64,4,6,0,0
+MEMBER:'instr-bond',-1,0,128,4,6,0,0
 MEMBER:'instr-bond',-1,0,128,4,7,0,0
 MEMBER:'instr-output',-1,0,128,5,1,0,0
-MEMBER:'instr-arrow',180,0,64,5,6,0,0
+MEMBER:'instr-arrow',90,0,64,5,6,0,0
+MEMBER:'instr-arrow',180,0,64,5,7,0,0
 MEMBER:'instr-bond',-1,0,128,5,7,0,0
 MEMBER:'instr-arrow',180,0,64,6,1,0,0
 MEMBER:'instr-grab',-1,2,128,6,1,0,0
 MEMBER:'instr-arrow',90,0,64,6,3,0,0
 MEMBER:'instr-grab',-1,1,128,6,4,0,0
-MEMBER:'instr-arrow',180,0,64,6,7,0,0
+MEMBER:'instr-arrow',180,0,64,6,6,0,0
 MEMBER:'instr-bond',-1,0,32,9,7,0,0
 PIPE:0,4,1
 PIPE:1,4,2
