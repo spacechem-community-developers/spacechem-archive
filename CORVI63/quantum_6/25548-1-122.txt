@@ -1,4 +1,4 @@
-SOLUTION:Precursor Compounds,whoever314,25698-1-122,12345ieee 25698
+SOLUTION:Precursor Compounds,12345ieee,25548-1-122,whoever314
 COMPONENT:'drag-spaceship-input',1,9,''
 PIPE:0,2,0
 PIPE:0,3,0
@@ -78,7 +78,8 @@ MEMBER:'instr-grab',-1,0,128,7,1,0,0
 MEMBER:'instr-arrow',180,0,64,7,2,0,0
 MEMBER:'instr-sensor',-90,0,128,7,2,0,6
 MEMBER:'instr-rotate',-1,1,128,7,3,0,0
-MEMBER:'instr-arrow',180,0,64,7,4,0,0
+MEMBER:'instr-arrow',0,0,64,7,4,0,0
+MEMBER:'instr-sensor',180,0,128,7,4,0,6
 MEMBER:'instr-grab',-1,0,128,7,6,0,0
 MEMBER:'instr-arrow',-90,0,64,7,7,0,0
 MEMBER:'instr-output',-1,1,128,7,7,0,0
@@ -136,11 +137,10 @@ MEMBER:'instr-arrow',90,0,16,7,2,0,0
 MEMBER:'instr-bond',-1,0,32,7,2,0,0
 MEMBER:'instr-grab',-1,1,32,7,3,0,0
 MEMBER:'instr-arrow',0,0,16,7,4,0,0
-MEMBER:'instr-sensor',90,0,32,7,4,0,201
-MEMBER:'instr-arrow',180,0,16,7,5,0,0
 MEMBER:'instr-output',-1,0,32,7,5,0,0
 MEMBER:'instr-grab',-1,2,32,7,6,0,0
 MEMBER:'instr-arrow',90,0,16,8,4,0,0
+MEMBER:'instr-sensor',180,0,32,8,5,0,201
 MEMBER:'instr-grab',-1,0,32,8,6,0,0
 MEMBER:'instr-arrow',0,0,16,8,7,0,0
 MEMBER:'instr-bond',-1,0,32,8,7,0,0
