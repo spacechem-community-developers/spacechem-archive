@@ -1,4 +1,4 @@
-SOLUTION:Anesthetics,whoever314,2813-6-213,'So many symbols, so little time'
+SOLUTION:Anesthetics,whoever314/12345ieee,2813-6-211,'So many symbols, so little time'
 COMPONENT:'drag-advanced-reactor',4,4,''
 MEMBER:'instr-start',180,0,128,9,2,0,0
 MEMBER:'instr-start',0,0,32,0,5,0,0
@@ -267,21 +267,19 @@ MEMBER:'instr-arrow',0,0,16,3,2,0,0
 MEMBER:'instr-input',-1,1,32,3,2,0,0
 MEMBER:'instr-arrow',-90,0,16,3,3,0,0
 MEMBER:'instr-grab',-1,1,32,3,3,0,0
+MEMBER:'instr-arrow',90,0,16,3,4,0,0
+MEMBER:'instr-arrow',0,0,16,3,5,0,0
+MEMBER:'instr-input',-1,1,32,3,5,0,0
 MEMBER:'instr-toggle',90,0,32,4,2,0,0
 MEMBER:'instr-bond',-1,0,32,4,3,0,0
-MEMBER:'instr-arrow',0,0,16,4,4,0,0
-MEMBER:'instr-arrow',0,0,16,4,5,0,0
+MEMBER:'instr-arrow',180,0,16,4,4,0,0
 MEMBER:'instr-bond',-1,0,32,4,5,0,0
 MEMBER:'instr-input',-1,0,32,5,3,0,0
-MEMBER:'instr-arrow',90,0,16,5,4,0,0
-MEMBER:'instr-input',-1,1,32,5,4,0,0
-MEMBER:'instr-arrow',180,0,16,5,5,0,0
-MEMBER:'instr-toggle',0,0,32,5,5,0,0
+MEMBER:'instr-sync',-1,0,32,5,5,0,0
 MEMBER:'instr-arrow',180,0,16,6,3,0,0
 MEMBER:'instr-input',-1,0,32,6,3,0,0
 MEMBER:'instr-arrow',-90,0,16,6,4,0,0
 MEMBER:'instr-input',-1,1,32,6,4,0,0
-MEMBER:'instr-sync',-1,0,32,6,5,0,0
 MEMBER:'instr-output',-1,1,32,8,4,0,0
 MEMBER:'instr-grab',-1,2,32,8,5,0,0
 MEMBER:'instr-arrow',90,0,16,9,2,0,0
