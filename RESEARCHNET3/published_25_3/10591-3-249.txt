@@ -1,4 +1,4 @@
-SOLUTION:Anesthetics,whoever314/12345ieee,10593-3-249,simple solutions for simple minds
+SOLUTION:Anesthetics,whoever314/12345ieee,10591-3-249,10591-3-249
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -15,8 +15,12 @@ PIPE:0,4,10
 PIPE:0,4,11
 PIPE:0,4,12
 PIPE:0,4,13
-COMPONENT:'drag-advanced-reactor',6,17,''
-MEMBER:'instr-start',90,0,128,0,5,0,0
+PIPE:0,5,13
+COMPONENT:'drag-arbitrary-input',3,18,''
+PIPE:0,2,1
+PIPE:0,3,1
+COMPONENT:'drag-advanced-reactor',7,17,''
+MEMBER:'instr-start',90,0,128,0,6,0,0
 MEMBER:'instr-start',180,0,32,4,0,0,0
 MEMBER:'feature-bonder',-1,0,1,7,4,0,0
 MEMBER:'feature-bonder',-1,0,1,7,3,0,0
@@ -134,7 +138,6 @@ MEMBER:'instr-arrow',-90,0,16,8,5,0,0
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,4,0
-PIPE:0,5,0
 PIPE:1,4,3
 PIPE:1,5,3
 PIPE:1,6,3
@@ -148,7 +151,6 @@ PIPE:1,13,3
 PIPE:1,14,3
 PIPE:1,15,3
 PIPE:1,16,3
-PIPE:1,17,3
 ANNOTATION:0,1,-117,-203,'1,3:0,1;1,2:0,6;\n1,2,0:1;\r1,1:0,6;1,3:0,1;1,2:0,6;\n1,1,0:1;1,2,0:1;\r1,1:0,17;0,1:0,17;1,3:0,0;\n0,1,1:1;\r'
 ANNOTATION:1,1,0,0,'\n\r\n\r\n\r'
 COMPONENT:'drag-advanced-reactor',12,16,''
