@@ -1,4 +1,4 @@
-SOLUTION:Anesthetics,whoever314,9642-3-250,please don't write the solution stats in the title
+SOLUTION:Anesthetics,whoever314,9642-3-249,please don't write the solution stats in the title
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -114,7 +114,6 @@ MEMBER:'instr-arrow',90,0,16,5,1,0,0
 MEMBER:'instr-arrow',90,0,16,5,2,0,0
 MEMBER:'instr-arrow',0,0,16,5,3,0,0
 MEMBER:'instr-output',-1,1,32,5,5,0,0
-MEMBER:'instr-output',-1,1,32,5,6,0,0
 MEMBER:'instr-arrow',180,0,16,6,0,0,0
 MEMBER:'instr-output',-1,1,32,6,3,0,0
 MEMBER:'instr-arrow',-90,0,16,6,4,0,0
