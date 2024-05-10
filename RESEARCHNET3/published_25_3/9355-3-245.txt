@@ -1,4 +1,4 @@
-SOLUTION:Anesthetics,whoever314/12345ieee,9355-3-247,9355-3-247
+SOLUTION:Anesthetics,whoever314/12345ieee,9355-3-245,'2 down, 245 more to go'
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -85,13 +85,11 @@ MEMBER:'instr-bond',-1,1,128,7,6,0,0
 MEMBER:'instr-arrow',90,0,16,0,0,0,0
 MEMBER:'instr-output',-1,1,32,0,0,0,0
 MEMBER:'instr-output',-1,1,32,0,1,0,0
-MEMBER:'instr-arrow',0,0,16,0,3,0,0
-MEMBER:'instr-output',-1,0,32,0,3,0,0
+MEMBER:'instr-toggle',0,0,32,0,3,0,0
+MEMBER:'instr-arrow',0,0,16,0,5,0,0
 MEMBER:'instr-sensor',90,0,32,1,0,0,35
 MEMBER:'instr-grab',-1,1,32,1,1,0,0
 MEMBER:'instr-arrow',0,0,16,1,2,0,0
-MEMBER:'instr-arrow',90,0,16,1,3,0,0
-MEMBER:'instr-toggle',0,0,32,1,3,0,0
 MEMBER:'instr-arrow',90,0,16,1,5,0,0
 MEMBER:'instr-input',-1,1,32,1,5,0,0
 MEMBER:'instr-arrow',0,0,16,1,6,0,0
