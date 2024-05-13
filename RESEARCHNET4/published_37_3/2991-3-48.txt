@@ -1,4 +1,4 @@
-SOLUTION:Reassembly,gggol,3151-3-48
+SOLUTION:Reassembly,gggol,2991-3-48,(Default Solution)
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -29,17 +29,17 @@ MEMBER:'instr-bond',-1,0,128,1,6,0,0
 MEMBER:'instr-toggle',90,0,128,3,0,0,0
 MEMBER:'instr-bond',-1,1,128,3,1,0,0
 MEMBER:'instr-bond',-1,1,128,3,2,0,0
-MEMBER:'instr-rotate',-1,1,128,3,3,0,0
-MEMBER:'instr-arrow',0,0,64,3,4,0,0
+MEMBER:'instr-arrow',0,0,64,3,3,0,0
 MEMBER:'instr-input',-1,1,128,4,0,0,0
 MEMBER:'instr-input',-1,0,128,5,0,0,0
-MEMBER:'instr-arrow',90,0,64,5,3,0,0
+MEMBER:'instr-bond',-1,1,128,5,3,0,0
+MEMBER:'instr-arrow',90,0,64,5,5,0,0
 MEMBER:'instr-bond',-1,1,128,5,5,0,0
 MEMBER:'instr-toggle',180,0,128,5,6,0,0
-MEMBER:'instr-arrow',180,0,64,6,3,0,0
+MEMBER:'instr-arrow',90,0,64,6,3,0,0
 MEMBER:'instr-bond',-1,0,128,6,3,0,0
-MEMBER:'instr-arrow',-90,0,64,6,4,0,0
-MEMBER:'instr-bond',-1,1,128,6,4,0,0
+MEMBER:'instr-rotate',-1,1,128,6,4,0,0
+MEMBER:'instr-arrow',180,0,64,6,5,0,0
 MEMBER:'instr-bond',-1,0,128,6,6,0,0
 MEMBER:'instr-arrow',180,0,64,7,0,0,0
 MEMBER:'instr-output',-1,1,128,7,5,0,0
