@@ -1,4 +1,4 @@
-SOLUTION:Mixed Acids,12345ieee,6114-2-80
+SOLUTION:Mixed Acids,britboy3456,6111-2-78,RC Brit
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -13,8 +13,8 @@ PIPE:0,2,-3
 PIPE:0,2,-4
 PIPE:0,2,-5
 COMPONENT:'drag-advanced-reactor',6,6,''
-MEMBER:'instr-start',180,0,128,8,2,0,0
-MEMBER:'instr-start',180,0,32,7,5,0,0
+MEMBER:'instr-start',180,0,128,8,4,0,0
+MEMBER:'instr-start',90,0,32,6,0,0,0
 MEMBER:'feature-bonder',-1,0,1,1,4,0,0
 MEMBER:'feature-bonder',-1,0,1,1,5,0,0
 MEMBER:'feature-bonder',-1,0,1,2,5,0,0
@@ -48,14 +48,11 @@ MEMBER:'instr-toggle',0,0,128,3,4,0,0
 MEMBER:'instr-sync',-1,0,128,4,2,0,0
 MEMBER:'instr-arrow',180,0,64,4,5,0,0
 MEMBER:'instr-arrow',-90,0,64,4,6,0,0
-MEMBER:'instr-arrow',180,0,64,5,1,0,0
-MEMBER:'instr-arrow',-90,0,64,5,2,0,0
-MEMBER:'instr-sensor',180,0,128,5,2,0,16
-MEMBER:'instr-input',-1,0,128,6,2,0,0
-MEMBER:'instr-arrow',180,0,64,7,2,0,0
-MEMBER:'instr-output',-1,0,128,7,2,0,0
+MEMBER:'instr-arrow',180,0,64,7,1,0,0
+MEMBER:'instr-sensor',180,0,128,7,2,0,16
 MEMBER:'instr-grab',-1,2,128,7,3,0,0
 MEMBER:'instr-arrow',-90,0,64,7,4,0,0
+MEMBER:'instr-input',-1,0,128,7,4,0,0
 MEMBER:'instr-arrow',0,0,16,0,4,0,0
 MEMBER:'instr-arrow',-90,0,16,0,5,0,0
 MEMBER:'instr-rotate',-1,0,32,0,5,0,0
@@ -71,7 +68,6 @@ MEMBER:'instr-toggle',-90,0,32,2,4,0,0
 MEMBER:'instr-arrow',90,0,16,2,5,0,0
 MEMBER:'instr-grab',-1,1,32,2,5,0,0
 MEMBER:'instr-arrow',180,0,16,2,6,0,0
-MEMBER:'instr-output',-1,1,32,2,6,0,0
 MEMBER:'instr-arrow',180,0,16,3,4,0,0
 MEMBER:'instr-rotate',-1,1,32,3,4,0,0
 MEMBER:'instr-bond',-1,1,32,3,5,0,0
@@ -86,9 +82,11 @@ MEMBER:'instr-arrow',-90,0,16,5,3,0,0
 MEMBER:'instr-sync',-1,0,32,5,5,0,0
 MEMBER:'instr-arrow',90,0,16,6,0,0,0
 MEMBER:'instr-grab',-1,1,32,6,1,0,0
+MEMBER:'instr-output',-1,0,32,6,2,0,0
+MEMBER:'instr-input',-1,1,32,6,3,0,0
 MEMBER:'instr-grab',-1,2,32,6,4,0,0
 MEMBER:'instr-arrow',180,0,16,6,5,0,0
-MEMBER:'instr-input',-1,1,32,6,5,0,0
+MEMBER:'instr-output',-1,1,32,6,5,0,0
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,5,1
@@ -113,7 +111,7 @@ PIPE:1,10,2
 PIPE:1,10,3
 PIPE:1,10,4
 ANNOTATION:0,1,0,0,'\n\r\n\r\n\r'
-ANNOTATION:1,1,-9,104,'0,0:0,1;2,0:0,1;1,1:0,16;1,0:0,8;0,1:0,8;1,2:0,8;2,1:0,8;\n0,0,1:1;2,0,0:1;1,0,0:1;0,1,1:2;1,1,0:2;1,1,1:1;\r1,1:0,15;1,0:0,8;0,1:0,8;1,2:0,8;2,1:0,8;0,2:0,1;2,0:0,1;2,2:0,1;\n1,0,0:1;0,1,1:1;1,1,0:1;1,1,1:2;0,1,0:1;1,0,1:1;1,2,1:1;\r\n\r'
+ANNOTATION:1,1,-9,104,'0,0:0,1;1,1:0,17;1,0:0,8;0,1:0,8;1,2:0,8;2,1:0,8;\n0,0,1:1;1,0,0:1;0,1,1:2;1,1,0:2;1,1,1:2;\r1,1:0,15;1,0:0,8;0,1:0,8;1,2:0,8;2,1:0,8;0,2:0,1;2,0:0,1;2,2:0,1;\n1,0,0:1;0,1,1:1;1,1,0:1;1,1,1:2;0,1,0:1;1,0,1:1;1,2,1:1;\r\n\r'
 COMPONENT:'drag-advanced-reactor',17,9,''
 MEMBER:'instr-start',-90,0,128,7,2,0,0
 MEMBER:'instr-start',-90,0,32,0,2,0,0
