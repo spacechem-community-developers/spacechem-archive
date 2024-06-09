@@ -1,4 +1,4 @@
-SOLUTION:Eth,andy,28261-1-43,rs
+SOLUTION:Eth,Andy,26819-1-43,rs
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -40,7 +40,7 @@ MEMBER:'instr-arrow',90,0,16,3,1,0,0
 MEMBER:'instr-bond',-1,1,32,3,1,0,0
 MEMBER:'instr-fuse',-1,0,32,3,2,0,0
 MEMBER:'instr-rotate',-1,0,32,3,3,0,0
-MEMBER:'instr-toggle',-90,0,32,3,5,0,0
+MEMBER:'instr-toggle',-90,0,32,3,4,0,0
 MEMBER:'instr-arrow',180,0,16,3,7,0,0
 MEMBER:'instr-toggle',0,0,32,3,7,0,0
 MEMBER:'instr-arrow',0,0,16,6,2,0,0
