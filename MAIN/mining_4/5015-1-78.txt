@@ -1,4 +1,4 @@
-SOLUTION:Gas Works Park,vpumeyyv,5015-1-78,Shameless steal from ShadowTheAge
+SOLUTION:Gas Works Park,ShadowTheAge/vpumeyyv,5015-1-78,Shameless steal from ShadowTheAge
 COMPONENT:'drag-mining-input',1,7,''
 PIPE:0,3,0
 PIPE:0,4,0
