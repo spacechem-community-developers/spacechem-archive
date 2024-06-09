@@ -1,4 +1,4 @@
-SOLUTION:Two by Two,vpumeyyv,485-1-26,Stolen from Rezoons
+SOLUTION:Two by Two,rezoons/vpumeyyv,485-1-26,Stolen from Rezoons
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,5,5,0,0
 MEMBER:'instr-start',180,0,32,3,5,0,0
