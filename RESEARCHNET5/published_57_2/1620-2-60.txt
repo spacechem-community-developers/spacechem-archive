@@ -1,4 +1,4 @@
-SOLUTION:Speedster,vpumeyyv,1620-2-60,Better latency
+SOLUTION:Speedster,whoever314/vpumeyyv,1620-2-60,Better latency
 COMPONENT:'drag-arbitrary-input',3,18,''
 PIPE:0,2,1
 PIPE:0,3,1
