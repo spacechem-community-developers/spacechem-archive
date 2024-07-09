@@ -1,4 +1,4 @@
-SOLUTION:Gas Works Park,ShadowTheAge/vpumeyyv,5015-1-78,Shameless steal from ShadowTheAge
+SOLUTION:Gas Works Park,ShadowTheAge/12345ieee,4855-1-78,Shameless steal from ShadowTheAge
 COMPONENT:'drag-mining-input',1,7,''
 PIPE:0,3,0
 PIPE:0,4,0
@@ -20,7 +20,7 @@ PIPE:0,2,-7
 PIPE:0,2,-8
 COMPONENT:'drag-advanced-reactor',6,7,''
 MEMBER:'instr-start',-90,0,128,3,4,0,0
-MEMBER:'instr-start',-90,0,32,2,7,0,0
+MEMBER:'instr-start',0,0,32,0,5,0,0
 MEMBER:'feature-bonder',-1,0,1,4,4,0,0
 MEMBER:'feature-bonder',-1,0,1,6,4,0,0
 MEMBER:'feature-bonder',-1,0,1,5,4,0,0
@@ -60,17 +60,17 @@ MEMBER:'instr-arrow',0,0,64,8,4,0,0
 MEMBER:'instr-bond',-1,1,128,8,4,0,0
 MEMBER:'instr-arrow',180,0,64,9,0,0,0
 MEMBER:'instr-arrow',-90,0,64,9,4,0,0
-MEMBER:'instr-arrow',0,0,16,0,0,0,0
-MEMBER:'instr-arrow',-90,0,16,0,5,0,0
-MEMBER:'instr-arrow',0,0,16,1,2,0,0
-MEMBER:'instr-arrow',-90,0,16,1,3,0,0
-MEMBER:'instr-sync',-1,0,32,2,3,0,0
+MEMBER:'instr-arrow',0,0,16,0,2,0,0
+MEMBER:'instr-arrow',-90,0,16,0,3,0,0
+MEMBER:'instr-sync',-1,0,32,0,3,0,0
+MEMBER:'instr-arrow',90,0,16,1,1,0,0
+MEMBER:'instr-arrow',0,0,16,1,5,0,0
+MEMBER:'instr-input',-1,1,32,1,5,0,0
 MEMBER:'instr-arrow',0,0,16,2,4,0,0
+MEMBER:'instr-arrow',-90,0,16,2,5,0,0
 MEMBER:'instr-grab',-1,1,32,2,5,0,0
-MEMBER:'instr-arrow',-90,0,16,2,6,0,0
-MEMBER:'instr-input',-1,1,32,2,6,0,0
-MEMBER:'instr-arrow',90,0,16,3,1,0,0
-MEMBER:'instr-arrow',180,0,16,3,6,0,0
+MEMBER:'instr-arrow',0,0,16,3,0,0,0
+MEMBER:'instr-arrow',-90,0,16,3,5,0,0
 MEMBER:'instr-arrow',90,0,16,4,2,0,0
 MEMBER:'instr-sensor',0,0,32,4,2,0,6
 MEMBER:'instr-bond',-1,0,32,4,4,0,0
