@@ -1,0 +1,15 @@
+SOLUTION:QT-1,YellowBunny,19-1-7,Unnamed Solution
+COMPONENT:'drag-quantum-reactor-x',2,0,''
+MEMBER:'instr-start',180,0,128,3,5,0,0
+MEMBER:'instr-start',180,0,32,2,6,0,0
+MEMBER:'feature-tunnel',-1,0,1,1,1,0,0
+MEMBER:'feature-tunnel',-1,0,1,7,6,0,0
+MEMBER:'instr-arrow',0,0,64,0,5,0,0
+MEMBER:'instr-swap',-1,0,128,0,5,0,0
+MEMBER:'instr-arrow',180,0,64,1,5,0,0
+MEMBER:'instr-input',-1,0,128,1,5,0,0
+MEMBER:'instr-input',-1,0,128,2,5,0,0
+MEMBER:'instr-output',-1,1,32,0,6,0,0
+MEMBER:'instr-swap',-1,0,32,1,6,0,0
+PIPE:0,4,1
+PIPE:1,4,2
