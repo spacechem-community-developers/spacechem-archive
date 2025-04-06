@@ -1,7 +1,7 @@
-SOLUTION:Stuck Together,Leylite/ToughThought/whoever314,5302-1-56,Leylite/ToughThought
+SOLUTION:Stuck Together,Leylite/ToughThought/whoever314,4742-1-56,Leylite/ToughThought
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,3,1,0,0
-MEMBER:'instr-start',0,0,32,0,6,0,0
+MEMBER:'instr-start',180,0,32,4,5,0,0
 MEMBER:'feature-bonder',-1,0,1,1,1,0,0
 MEMBER:'feature-bonder',-1,0,1,2,1,0,0
 MEMBER:'feature-bonder',-1,0,1,2,4,0,0
@@ -53,7 +53,7 @@ MEMBER:'instr-arrow',180,0,16,2,5,0,0
 MEMBER:'instr-fuse',-1,0,32,2,5,0,0
 MEMBER:'instr-toggle',-90,0,32,2,6,0,0
 MEMBER:'instr-sync',-1,0,32,3,1,0,0
-MEMBER:'instr-sync',-1,0,32,3,6,0,0
+MEMBER:'instr-sync',-1,0,32,3,5,0,0
 MEMBER:'instr-arrow',0,0,16,4,0,0,0
 MEMBER:'instr-arrow',180,0,16,4,2,0,0
 MEMBER:'instr-toggle',-90,0,32,4,2,0,0
