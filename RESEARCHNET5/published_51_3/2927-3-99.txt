@@ -1,4 +1,4 @@
-SOLUTION:Master of Disguise,whoever314/gggol,2927-3-101,2927-3-101
+SOLUTION:Master of Disguise,whoever314/gggol,2927-3-99,2927-3-99
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -93,10 +93,8 @@ MEMBER:'instr-bond',-1,1,32,8,5,0,0
 MEMBER:'instr-arrow',180,0,16,8,6,0,0
 MEMBER:'instr-arrow',180,0,16,9,2,0,0
 MEMBER:'instr-output',-1,0,32,9,2,0,0
-MEMBER:'instr-bond',-1,0,32,9,3,0,0
-MEMBER:'instr-bond',-1,1,32,9,4,0,0
+MEMBER:'instr-bond',-1,0,32,9,4,0,0
 MEMBER:'instr-arrow',-90,0,16,9,5,0,0
-MEMBER:'instr-bond',-1,0,32,9,5,0,0
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,5,1
