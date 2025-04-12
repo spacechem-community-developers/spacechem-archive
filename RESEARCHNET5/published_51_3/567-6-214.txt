@@ -1,4 +1,4 @@
-SOLUTION:Master of Disguise,whoever314,569-6-214,569-6-214
+SOLUTION:Master of Disguise,whoever314,567-6-214,567-6-214
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -181,8 +181,6 @@ PIPE:0,-8,4
 PIPE:0,-9,4
 PIPE:0,-10,4
 PIPE:0,-10,3
-PIPE:0,-10,2
-PIPE:0,-11,2
 PIPE:0,-11,3
 PIPE:0,-11,4
 PIPE:0,-11,5
@@ -203,6 +201,7 @@ PIPE:0,3,5
 PIPE:0,4,5
 PIPE:0,5,5
 PIPE:0,5,4
+PIPE:0,5,3
 PIPE:1,5,2
 PIPE:1,5,1
 PIPE:1,5,0
@@ -216,7 +215,7 @@ PIPE:1,5,-7
 PIPE:1,6,-7
 ANNOTATION:0,1,-369,22,'1,1:0,203;2,1:0,201;3,1:0,202;1,2:0,201;2,3:0,201;2,2:0,201;3,3:0,202;\n2,3,1:1;1,2,1:2;2,1,1:2;2,2,0:1;2,1,0:1;1,1,1:1;\r\n\r\n\r'
 ANNOTATION:1,1,-265,-6,'1,0:0,7;\n\r\n\r\n\r'
-COMPONENT:'drag-nuclear-reactor',17,18,''
+COMPONENT:'drag-nuclear-reactor',17,17,''
 MEMBER:'instr-start',180,0,128,9,5,0,0
 MEMBER:'instr-start',180,0,32,9,5,0,0
 MEMBER:'feature-bonder',-1,0,1,1,0,0,0
@@ -284,16 +283,16 @@ PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,4,0
 PIPE:0,4,-1
-PIPE:0,4,-2
-PIPE:0,3,-2
-PIPE:0,2,-2
-PIPE:0,1,-2
+PIPE:0,3,-1
+PIPE:0,2,-1
+PIPE:0,1,-1
+PIPE:0,0,-1
 PIPE:0,0,-2
 PIPE:0,0,-3
 PIPE:0,0,-4
-PIPE:0,0,-5
-PIPE:1,5,2
-PIPE:1,6,2
+PIPE:1,4,3
+PIPE:1,5,3
+PIPE:1,6,3
 ANNOTATION:0,1,217,-45,'3,3:0,16;\n\r\n\r\n\r'
 ANNOTATION:1,1,179,-60,'\n\r\n\r\n\r'
 COMPONENT:'drag-superbonder-reactor',18,7,''
