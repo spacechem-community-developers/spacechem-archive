@@ -1,4 +1,4 @@
-SOLUTION:Miller-Urey,whoever314,4738-2-214,r2 is a lot easier to understand
+SOLUTION:Miller-Urey,whoever314,4738-2-213,'believe it or not, this is a huge symbol to save'
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -161,10 +161,9 @@ MEMBER:'instr-sensor',90,0,32,4,5,0,7
 MEMBER:'instr-arrow',180,0,16,4,6,0,0
 MEMBER:'instr-sensor',90,0,32,4,6,0,1
 MEMBER:'instr-arrow',0,0,16,4,7,0,0
+MEMBER:'instr-toggle',-90,0,32,4,7,0,0
 MEMBER:'instr-arrow',90,0,16,5,1,0,0
 MEMBER:'instr-arrow',0,0,16,5,4,0,0
-MEMBER:'instr-arrow',180,0,16,5,6,0,0
-MEMBER:'instr-toggle',-90,0,32,5,7,0,0
 MEMBER:'instr-arrow',180,0,16,6,3,0,0
 MEMBER:'instr-bond',-1,1,32,6,4,0,0
 MEMBER:'instr-bond',-1,0,32,6,5,0,0
