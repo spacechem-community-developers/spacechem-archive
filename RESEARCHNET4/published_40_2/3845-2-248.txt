@@ -1,4 +1,4 @@
-SOLUTION:Miller-Urey,whoever314/12345ieee/gggol,3849-2-249,it's Flip Flopping time
+SOLUTION:Miller-Urey,whoever314/12345ieee/gggol,3845-2-248,it's Flip Flopping time
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -54,8 +54,7 @@ MEMBER:'feature-bonder',-1,0,1,6,5,0,0
 MEMBER:'feature-bonder',-1,0,1,8,4,0,0
 MEMBER:'feature-bonder',-1,0,1,8,3,0,0
 MEMBER:'feature-sensor',-1,0,1,4,5,0,0
-MEMBER:'instr-arrow',180,0,64,0,2,0,0
-MEMBER:'instr-toggle',0,0,128,0,2,0,0
+MEMBER:'instr-arrow',0,0,64,0,2,0,0
 MEMBER:'instr-arrow',0,0,64,0,4,0,0
 MEMBER:'instr-toggle',-90,0,128,0,4,0,0
 MEMBER:'instr-arrow',0,0,64,0,5,0,0
