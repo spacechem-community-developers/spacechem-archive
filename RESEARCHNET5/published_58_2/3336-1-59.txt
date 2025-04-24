@@ -1,4 +1,4 @@
-SOLUTION:Large Scale,whoever314,3336-1-60,3336-1-60
+SOLUTION:Large Scale,whoever314,3336-1-59,3336-1-59
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -17,7 +17,6 @@ MEMBER:'instr-grab',-1,1,128,1,1,0,0
 MEMBER:'instr-input',-1,0,128,2,0,0,0
 MEMBER:'instr-sync',-1,0,128,3,0,0,0
 MEMBER:'instr-arrow',90,0,64,3,2,0,0
-MEMBER:'instr-bond',-1,1,128,3,2,0,0
 MEMBER:'instr-arrow',0,0,64,3,3,0,0
 MEMBER:'instr-fuse',-1,0,128,3,3,0,0
 MEMBER:'instr-bond',-1,1,128,4,2,0,0
@@ -27,7 +26,6 @@ MEMBER:'instr-rotate',-1,1,128,5,2,0,0
 MEMBER:'instr-arrow',90,0,64,5,3,0,0
 MEMBER:'instr-bond',-1,1,128,5,3,0,0
 MEMBER:'instr-arrow',0,0,64,5,5,0,0
-MEMBER:'instr-bond',-1,1,128,5,5,0,0
 MEMBER:'instr-arrow',90,0,64,6,1,0,0
 MEMBER:'instr-arrow',180,0,64,6,2,0,0
 MEMBER:'instr-bond',-1,1,128,6,2,0,0
@@ -65,6 +63,7 @@ MEMBER:'instr-grab',-1,1,32,5,2,0,0
 MEMBER:'instr-arrow',180,0,16,5,5,0,0
 MEMBER:'instr-bond',-1,0,32,5,5,0,0
 MEMBER:'instr-output',-1,1,32,6,5,0,0
+MEMBER:'instr-bond',-1,1,32,7,5,0,0
 MEMBER:'instr-arrow',90,0,16,9,1,0,0
 MEMBER:'instr-bond',-1,1,32,9,2,0,0
 MEMBER:'instr-output',-1,1,32,9,3,0,0
