@@ -1,4 +1,4 @@
-SOLUTION:Miller-Urey,whoever314/ToughThought,1207-5-177,1207-5-177-P/P
+SOLUTION:Miller-Urey,whoever314/ToughThought,1207-5-177,1207-5-177
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,2,2
