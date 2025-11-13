@@ -1,7 +1,7 @@
-SOLUTION:Rags to Riches,YellowBunny,758207-1-131,Hydrogen Grinding
+SOLUTION:Rags to Riches,YellowBunny,758206-1-131,Hydrogen Grinding
 COMPONENT:'drag-nuclear-reactor',6,12,''
 MEMBER:'instr-start',90,0,128,3,1,0,0
-MEMBER:'instr-start',90,0,32,3,4,0,0
+MEMBER:'instr-start',0,0,32,2,6,0,0
 MEMBER:'feature-bonder',-1,0,1,5,3,0,0
 MEMBER:'feature-bonder',-1,0,1,6,3,0,0
 MEMBER:'feature-bonder',-1,0,1,6,2,0,0
