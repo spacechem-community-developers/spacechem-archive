@@ -1,4 +1,4 @@
-SOLUTION:Rags to Riches,YellowBunny,731340-1-163,Hydrogen Grinding
+SOLUTION:Rags to Riches,YellowBunny,731340-1-162,Hydrogen Grinding
 COMPONENT:'drag-nuclear-reactor',6,12,''
 MEMBER:'instr-start',180,0,128,1,0,0,0
 MEMBER:'instr-start',0,0,32,4,7,0,0
@@ -90,8 +90,10 @@ MEMBER:'instr-arrow',90,0,16,1,0,0,0
 MEMBER:'instr-toggle',180,0,32,1,0,0,0
 MEMBER:'instr-toggle',0,0,32,1,1,0,0
 MEMBER:'instr-arrow',0,0,16,1,2,0,0
+MEMBER:'instr-arrow',90,0,16,1,3,0,0
+MEMBER:'instr-toggle',0,0,32,1,3,0,0
 MEMBER:'instr-arrow',180,0,16,1,4,0,0
-MEMBER:'instr-toggle',0,0,32,1,4,0,0
+MEMBER:'instr-toggle',-90,0,32,1,4,0,0
 MEMBER:'instr-sync',-1,0,32,1,5,0,0
 MEMBER:'instr-arrow',-90,0,16,1,6,0,0
 MEMBER:'instr-sync',-1,0,32,1,6,0,0
@@ -99,8 +101,7 @@ MEMBER:'instr-sync',-1,0,32,1,7,0,0
 MEMBER:'instr-arrow',90,0,16,2,0,0,0
 MEMBER:'instr-toggle',180,0,32,2,0,0,0
 MEMBER:'instr-arrow',0,0,16,2,2,0,0
-MEMBER:'instr-arrow',180,0,16,2,4,0,0
-MEMBER:'instr-toggle',0,0,32,2,4,0,0
+MEMBER:'instr-output',-1,0,32,2,3,0,0
 MEMBER:'instr-arrow',0,0,16,2,5,0,0
 MEMBER:'instr-arrow',180,0,16,2,6,0,0
 MEMBER:'instr-sync',-1,0,32,2,6,0,0
@@ -115,8 +116,6 @@ MEMBER:'instr-sync',-1,0,32,3,7,0,0
 MEMBER:'instr-sync',-1,0,32,4,0,0,0
 MEMBER:'instr-arrow',0,0,16,4,3,0,0
 MEMBER:'instr-rotate',-1,0,32,4,3,0,0
-MEMBER:'instr-arrow',-90,0,16,4,4,0,0
-MEMBER:'instr-output',-1,0,32,4,4,0,0
 MEMBER:'instr-grab',-1,1,32,4,5,0,0
 MEMBER:'instr-sync',-1,0,32,4,6,0,0
 MEMBER:'instr-arrow',90,0,16,5,1,0,0
