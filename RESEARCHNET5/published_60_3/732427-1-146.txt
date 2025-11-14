@@ -1,7 +1,7 @@
 SOLUTION:Rags to Riches,YellowBunny,732427-1-146,Hydrogen Grinding
 COMPONENT:'drag-nuclear-reactor',6,12,''
 MEMBER:'instr-start',180,0,128,1,0,0,0
-MEMBER:'instr-start',0,0,32,6,7,0,0
+MEMBER:'instr-start',0,0,32,3,4,0,0
 MEMBER:'feature-bonder',-1,0,1,5,3,0,0
 MEMBER:'feature-bonder',-1,0,1,6,3,0,0
 MEMBER:'feature-bonder',-1,0,1,6,2,0,0
@@ -106,6 +106,8 @@ MEMBER:'instr-sync',-1,0,32,3,6,0,0
 MEMBER:'instr-sync',-1,0,32,4,0,0,0
 MEMBER:'instr-arrow',0,0,16,4,3,0,0
 MEMBER:'instr-rotate',-1,0,32,4,3,0,0
+MEMBER:'instr-arrow',-90,0,16,4,4,0,0
+MEMBER:'instr-sync',-1,0,32,4,4,0,0
 MEMBER:'instr-grab',-1,1,32,4,5,0,0
 MEMBER:'instr-sync',-1,0,32,4,6,0,0
 MEMBER:'instr-arrow',90,0,16,5,1,0,0
@@ -130,14 +132,12 @@ MEMBER:'instr-arrow',0,0,16,7,1,0,0
 MEMBER:'instr-toggle',-90,0,32,7,1,0,0
 MEMBER:'instr-arrow',-90,0,16,7,2,0,0
 MEMBER:'instr-grab',-1,1,32,7,2,0,0
-MEMBER:'instr-arrow',0,0,16,7,3,0,0
 MEMBER:'instr-toggle',180,0,32,7,3,0,0
 MEMBER:'instr-bond',-1,0,32,7,4,0,0
-MEMBER:'instr-toggle',90,0,32,7,5,0,0
-MEMBER:'instr-arrow',-90,0,16,7,6,0,0
-MEMBER:'instr-toggle',180,0,32,7,6,0,0
-MEMBER:'instr-arrow',-90,0,16,7,7,0,0
-MEMBER:'instr-sync',-1,0,32,7,7,0,0
+MEMBER:'instr-arrow',90,0,16,7,5,0,0
+MEMBER:'instr-toggle',-90,0,32,7,5,0,0
+MEMBER:'instr-arrow',180,0,16,7,6,0,0
+MEMBER:'instr-toggle',-90,0,32,7,6,0,0
 MEMBER:'instr-arrow',180,0,16,8,0,0,0
 MEMBER:'instr-grab',-1,2,32,8,0,0,0
 MEMBER:'instr-arrow',90,0,16,8,3,0,0
