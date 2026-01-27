@@ -1,4 +1,4 @@
-SOLUTION:Fertigprodukt,whoever314/12345ieee,31638-1-89
+SOLUTION:Fertigprodukt,whoever314/12345ieee,31638-1-88,31638-1-89?d19-19
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -71,7 +71,6 @@ MEMBER:'instr-grab',-1,1,128,2,5,0,0
 MEMBER:'instr-arrow',0,0,64,2,6,0,0
 MEMBER:'instr-sync',-1,0,128,2,6,0,0
 MEMBER:'instr-fuse',-1,0,128,2,7,0,0
-MEMBER:'instr-arrow',180,0,64,3,0,0,0
 MEMBER:'instr-toggle',0,0,128,3,0,0,0
 MEMBER:'instr-arrow',-90,0,64,3,1,0,0
 MEMBER:'instr-sync',-1,0,128,3,1,0,0
