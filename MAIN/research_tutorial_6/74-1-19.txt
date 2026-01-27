@@ -1,4 +1,4 @@
-SOLUTION:Multiple Outputs,BGChemMagic,74-1-20
+SOLUTION:Multiple Outputs,BGChemMagic,74-1-19,74-1-20?d15-15
 COMPONENT:'drag-starter-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,5,5,0,0
 MEMBER:'instr-start',90,0,32,2,0,0,0
@@ -21,7 +21,6 @@ MEMBER:'instr-arrow',90,0,16,2,1,0,0
 MEMBER:'instr-grab',-1,1,32,2,1,0,0
 MEMBER:'instr-arrow',0,0,16,2,2,0,0
 MEMBER:'instr-output',-1,1,32,2,2,0,0
-MEMBER:'instr-bond',-1,1,32,3,1,0,0
 MEMBER:'instr-rotate',-1,1,32,3,2,0,0
 MEMBER:'instr-arrow',180,0,16,4,1,0,0
 MEMBER:'instr-arrow',-90,0,16,4,2,0,0
