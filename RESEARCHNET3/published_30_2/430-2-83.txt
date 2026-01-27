@@ -1,4 +1,4 @@
-SOLUTION:Siliconheart Piece,Andy,430-2-84
+SOLUTION:Siliconheart Piece,Andy,430-2-83,430-2-84?d32-32
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -43,7 +43,6 @@ MEMBER:'instr-output',-1,0,32,4,5,0,0
 MEMBER:'instr-output',-1,0,32,4,6,0,0
 MEMBER:'instr-bond',-1,1,32,6,5,0,0
 MEMBER:'instr-output',-1,1,32,6,6,0,0
-MEMBER:'instr-grab',-1,2,32,7,3,0,0
 MEMBER:'instr-arrow',90,0,16,7,4,0,0
 MEMBER:'instr-bond',-1,0,32,7,4,0,0
 MEMBER:'instr-toggle',-90,0,32,7,5,0,0
