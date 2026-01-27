@@ -1,4 +1,4 @@
-SOLUTION:Uracil,ToughThought,367-1-71,361-1-73?d16-18
+SOLUTION:Uracil,ToughThought,367-1-70,367-1-71?d5-5
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,6,7,0,0
 MEMBER:'instr-start',90,0,32,2,0,0,0
@@ -12,7 +12,6 @@ MEMBER:'instr-sync',-1,0,128,1,5,0,0
 MEMBER:'instr-arrow',-90,0,64,1,6,0,0
 MEMBER:'instr-arrow',90,0,64,2,0,0,0
 MEMBER:'instr-fuse',-1,0,128,2,0,0,0
-MEMBER:'instr-arrow',90,0,64,2,1,0,0
 MEMBER:'instr-input',-1,0,128,2,1,0,0
 MEMBER:'instr-arrow',0,0,64,2,2,0,0
 MEMBER:'instr-grab',-1,1,128,2,2,0,0
