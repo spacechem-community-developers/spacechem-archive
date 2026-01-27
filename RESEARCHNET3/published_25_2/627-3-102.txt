@@ -1,4 +1,4 @@
-SOLUTION:Decomposition of Ethanolamine,12345ieee,627-3-103,stealing from whoever314
+SOLUTION:Decomposition of Ethanolamine,12345ieee,627-3-102,627-3-103?d63-63
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -107,7 +107,6 @@ MEMBER:'instr-arrow',0,0,16,2,3,0,0
 MEMBER:'instr-output',-1,0,32,2,3,0,0
 MEMBER:'instr-sensor',-90,0,32,2,4,0,7
 MEMBER:'instr-output',-1,1,32,3,2,0,0
-MEMBER:'instr-output',-1,0,32,3,4,0,0
 MEMBER:'instr-arrow',90,0,16,4,4,0,0
 MEMBER:'instr-grab',-1,2,32,4,4,0,0
 MEMBER:'instr-arrow',0,0,16,4,5,0,0
