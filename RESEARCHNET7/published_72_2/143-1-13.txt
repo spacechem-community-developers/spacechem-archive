@@ -1,4 +1,4 @@
-SOLUTION:100,John Evans,144-1-13
+SOLUTION:100,britboy3456,143-1-13,135-1-14?d7-7
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,1,7,0,0
 MEMBER:'instr-start',180,0,32,4,2,0,0
@@ -15,9 +15,9 @@ MEMBER:'instr-arrow',0,0,16,2,4,0,0
 MEMBER:'instr-input',-1,0,32,3,2,0,0
 MEMBER:'instr-fuse',-1,0,32,3,4,0,0
 MEMBER:'instr-fuse',-1,0,32,4,4,0,0
-MEMBER:'instr-output',-1,0,32,6,2,0,0
+MEMBER:'instr-grab',-1,0,32,6,2,0,0
 MEMBER:'instr-arrow',180,0,16,7,2,0,0
-MEMBER:'instr-grab',-1,0,32,7,2,0,0
+MEMBER:'instr-output',-1,0,32,7,2,0,0
 MEMBER:'instr-split',-1,0,32,7,3,0,0
 MEMBER:'instr-arrow',-90,0,16,7,4,0,0
 MEMBER:'instr-output',-1,1,32,7,4,0,0
