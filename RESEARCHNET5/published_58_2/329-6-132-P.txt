@@ -1,4 +1,4 @@
-SOLUTION:Large Scale,ToughThought,329-6-133,/P
+SOLUTION:Large Scale,ToughThought,329-6-132,/P
 COMPONENT:'drag-advanced-reactor',4,5,''
 MEMBER:'instr-start',-90,0,128,7,6,0,0
 MEMBER:'instr-start',-90,0,32,1,4,0,0
@@ -211,7 +211,6 @@ MEMBER:'instr-arrow',-90,0,64,9,2,0,0
 MEMBER:'instr-bond',-1,1,128,9,2,0,0
 MEMBER:'instr-arrow',0,0,16,3,2,0,0
 MEMBER:'instr-grab',-1,1,32,3,2,0,0
-MEMBER:'instr-output',-1,0,32,5,2,0,0
 MEMBER:'instr-output',-1,0,32,6,2,0,0
 MEMBER:'instr-output',-1,0,32,7,2,0,0
 MEMBER:'instr-arrow',180,0,16,8,2,0,0
