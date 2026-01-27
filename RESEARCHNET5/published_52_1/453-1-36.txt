@@ -1,4 +1,4 @@
-SOLUTION:Thermoplastic,britboy3456,453-1-37,Brit 37 Pareto
+SOLUTION:Thermoplastic,britboy3456,453-1-36,Brit 37 Pareto
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,4,1,0,0
 MEMBER:'instr-start',180,0,32,4,4,0,0
@@ -46,7 +46,6 @@ MEMBER:'instr-arrow',0,0,16,3,7,0,0
 MEMBER:'instr-bond',-1,0,32,3,7,0,0
 MEMBER:'instr-bond',-1,0,32,4,7,0,0
 MEMBER:'instr-arrow',180,0,16,7,4,0,0
-MEMBER:'instr-bond',-1,0,32,7,4,0,0
 MEMBER:'instr-arrow',90,0,16,7,7,0,0
 MEMBER:'instr-toggle',-90,0,32,7,7,0,0
 PIPE:0,4,1
