@@ -1,4 +1,4 @@
-SOLUTION:Gem Factory,gggol(NS),965-4-170
+SOLUTION:Gem Factory,gggol(NS),965-4-168,965-4-169?d72-72
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,2
@@ -46,7 +46,6 @@ MEMBER:'instr-arrow',90,0,16,4,3,0,0
 MEMBER:'instr-grab',-1,0,32,4,3,0,0
 MEMBER:'instr-toggle',0,0,32,4,4,0,0
 MEMBER:'instr-arrow',0,0,16,4,6,0,0
-MEMBER:'instr-fuse',-1,0,32,4,6,0,0
 MEMBER:'instr-arrow',0,0,16,5,1,0,0
 MEMBER:'instr-fuse',-1,0,32,5,1,0,0
 MEMBER:'instr-toggle',180,0,32,5,2,0,0
@@ -131,7 +130,6 @@ MEMBER:'instr-bond',-1,1,128,6,5,0,0
 MEMBER:'instr-bond',-1,1,128,6,6,0,0
 MEMBER:'instr-arrow',-90,0,64,6,7,0,0
 MEMBER:'instr-arrow',180,0,64,7,2,0,0
-MEMBER:'instr-bond',-1,0,128,7,2,0,0
 MEMBER:'instr-grab',-1,0,128,7,3,0,0
 MEMBER:'instr-arrow',-90,0,64,7,4,0,0
 MEMBER:'instr-rotate',-1,1,128,7,4,0,0
