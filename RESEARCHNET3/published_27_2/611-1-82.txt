@@ -1,4 +1,4 @@
-SOLUTION:Life: Cytosine,Criado,611-1-84
+SOLUTION:Life: Cytosine,Criado,611-1-82,611-1-83?d13-13
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,2,0,0,0
 MEMBER:'instr-start',0,0,32,2,1,0,0
@@ -25,7 +25,6 @@ MEMBER:'instr-arrow',-90,0,64,1,4,0,0
 MEMBER:'instr-arrow',90,0,64,2,1,0,0
 MEMBER:'instr-input',-1,0,128,2,1,0,0
 MEMBER:'instr-grab',-1,1,128,2,2,0,0
-MEMBER:'instr-arrow',90,0,64,2,3,0,0
 MEMBER:'instr-input',-1,0,128,2,3,0,0
 MEMBER:'instr-arrow',180,0,64,2,4,0,0
 MEMBER:'instr-input',-1,0,128,2,4,0,0
@@ -34,7 +33,6 @@ MEMBER:'instr-arrow',90,0,64,3,3,0,0
 MEMBER:'instr-arrow',0,0,64,3,4,0,0
 MEMBER:'instr-grab',-1,1,128,3,4,0,0
 MEMBER:'instr-toggle',90,0,128,3,5,0,0
-MEMBER:'instr-arrow',90,0,64,3,6,0,0
 MEMBER:'instr-input',-1,1,128,3,6,0,0
 MEMBER:'instr-arrow',0,0,64,3,7,0,0
 MEMBER:'instr-arrow',180,0,64,4,5,0,0
