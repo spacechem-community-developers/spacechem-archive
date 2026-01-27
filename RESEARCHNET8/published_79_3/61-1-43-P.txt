@@ -1,4 +1,4 @@
-SOLUTION:Lies,Zig,61-1-44,/P 
+SOLUTION:Lies,Zig,61-1-43,/P 
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,2,7,0,0
 MEMBER:'instr-start',90,0,32,2,1,0,0
@@ -43,7 +43,6 @@ MEMBER:'instr-bond',-1,0,32,4,3,0,0
 MEMBER:'instr-bond',-1,0,32,5,1,0,0
 MEMBER:'instr-bond',-1,0,32,5,2,0,0
 MEMBER:'instr-arrow',90,0,16,6,1,0,0
-MEMBER:'instr-grab',-1,2,32,6,1,0,0
 MEMBER:'instr-arrow',90,0,16,6,2,0,0
 MEMBER:'instr-grab',-1,2,32,6,2,0,0
 MEMBER:'instr-arrow',180,0,16,6,3,0,0
