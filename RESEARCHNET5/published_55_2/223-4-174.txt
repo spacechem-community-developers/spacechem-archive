@@ -1,4 +1,4 @@
-SOLUTION:+1,ToughThought,223-4-175
+SOLUTION:+1,ToughThought,223-4-174
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',180,0,128,9,4,0,0
 MEMBER:'instr-start',-90,0,32,2,6,0,0
@@ -71,7 +71,6 @@ MEMBER:'instr-arrow',-90,0,64,5,4,0,0
 MEMBER:'instr-split',-1,0,128,6,0,0,0
 MEMBER:'instr-split',-1,0,128,6,1,0,0
 MEMBER:'instr-arrow',90,0,64,6,2,0,0
-MEMBER:'instr-toggle',180,0,128,6,2,0,0
 MEMBER:'instr-toggle',0,0,128,6,3,0,0
 MEMBER:'instr-arrow',180,0,64,6,4,0,0
 MEMBER:'instr-split',-1,0,128,7,0,0,0
