@@ -1,4 +1,4 @@
-SOLUTION:Pyridine,Andy,437-1-53
+SOLUTION:Pyridine,Andy,437-1-52,437-1-53?d50-50
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,5,6,0,0
 MEMBER:'instr-start',-90,0,32,0,4,0,0
@@ -57,7 +57,6 @@ MEMBER:'instr-bond',-1,0,32,4,2,0,0
 MEMBER:'instr-toggle',-90,0,32,4,3,0,0
 MEMBER:'instr-arrow',180,0,16,5,2,0,0
 MEMBER:'instr-grab',-1,2,32,5,2,0,0
-MEMBER:'instr-bond',-1,0,32,5,3,0,0
 MEMBER:'instr-arrow',180,0,16,6,3,0,0
 MEMBER:'instr-bond',-1,1,32,6,3,0,0
 PIPE:0,4,1
