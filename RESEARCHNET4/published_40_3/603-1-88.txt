@@ -1,4 +1,4 @@
-SOLUTION:Getting Pumped,vpumeyyv,603-1-89,S.P.A.G.H.E.T.T.I.
+SOLUTION:Getting Pumped,vpumeyyv,603-1-88,603-1-89?d62-62
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,8,7,0,0
 MEMBER:'instr-start',180,0,32,4,4,0,0
@@ -75,7 +75,6 @@ MEMBER:'instr-arrow',180,0,16,1,6,0,0
 MEMBER:'instr-grab',-1,2,32,1,6,0,0
 MEMBER:'instr-arrow',0,0,16,2,0,0,0
 MEMBER:'instr-bond',-1,1,32,2,1,0,0
-MEMBER:'instr-bond',-1,0,32,2,2,0,0
 MEMBER:'instr-arrow',-90,0,16,2,3,0,0
 MEMBER:'instr-grab',-1,1,32,2,5,0,0
 MEMBER:'instr-arrow',0,0,16,3,0,0,0
