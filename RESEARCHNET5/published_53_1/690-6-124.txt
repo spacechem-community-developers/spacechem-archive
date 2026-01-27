@@ -1,4 +1,4 @@
-SOLUTION:Not a Planet,12345ieee,690-6-125,Stealing from whoever314
+SOLUTION:Not a Planet,12345ieee,690-6-124,Stealing from whoever314
 COMPONENT:'drag-nuclear-reactor',4,4,''
 MEMBER:'instr-start',180,0,128,3,5,0,0
 MEMBER:'instr-start',-90,0,32,7,6,0,0
@@ -187,7 +187,6 @@ MEMBER:'instr-output',-1,0,32,7,2,0,0
 MEMBER:'instr-grab',-1,2,32,7,3,0,0
 MEMBER:'instr-grab',-1,1,32,7,4,0,0
 MEMBER:'instr-arrow',-90,0,16,7,5,0,0
-MEMBER:'instr-output',-1,0,32,7,5,0,0
 MEMBER:'instr-split',-1,0,32,8,5,0,0
 MEMBER:'instr-arrow',90,0,16,9,0,0,0
 MEMBER:'instr-sync',-1,0,32,9,4,0,0
