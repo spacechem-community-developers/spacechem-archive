@@ -1,4 +1,4 @@
-SOLUTION:Carbide Swap,davenger,795-1-39
+SOLUTION:Carbide Swap,davenger,795-1-38,795-1-39?d11-11
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,3,1,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0
@@ -23,7 +23,6 @@ MEMBER:'instr-input',-1,1,128,1,6,0,0
 MEMBER:'instr-grab',-1,2,128,2,0,0,0
 MEMBER:'instr-input',-1,0,128,2,1,0,0
 MEMBER:'instr-swap',-1,0,128,2,5,0,0
-MEMBER:'instr-bond',-1,1,128,2,6,0,0
 MEMBER:'instr-arrow',0,0,64,2,7,0,0
 MEMBER:'instr-swap',-1,0,128,2,7,0,0
 MEMBER:'instr-arrow',90,0,64,3,3,0,0
