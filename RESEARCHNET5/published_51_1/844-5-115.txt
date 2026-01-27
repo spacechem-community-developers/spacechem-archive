@@ -1,4 +1,4 @@
-SOLUTION:Fake-out,serbaldrig,844-5-116
+SOLUTION:Fake-out,serbaldrig,844-5-115,844-5-116?d57-57
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -136,7 +136,6 @@ MEMBER:'instr-arrow',180,0,64,8,7,0,0
 MEMBER:'instr-arrow',0,0,16,2,1,0,0
 MEMBER:'instr-grab',-1,1,32,2,1,0,0
 MEMBER:'instr-arrow',-90,0,16,2,4,0,0
-MEMBER:'instr-output',-1,1,32,2,4,0,0
 MEMBER:'instr-fuse',-1,0,32,3,1,0,0
 MEMBER:'instr-sync',-1,0,32,3,4,0,0
 MEMBER:'instr-output',-1,0,32,4,1,0,0
