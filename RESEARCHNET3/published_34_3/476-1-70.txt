@@ -1,4 +1,4 @@
-SOLUTION:Squaric Acid,gggol,476-1-71
+SOLUTION:Squaric Acid,gggol,476-1-70,476-1-71?d31-31
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,7,0,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0
@@ -38,7 +38,6 @@ MEMBER:'instr-grab',-1,0,128,7,5,0,0
 MEMBER:'instr-bond',-1,1,128,7,6,0,0
 MEMBER:'instr-arrow',180,0,64,8,1,0,0
 MEMBER:'instr-rotate',-1,1,128,8,2,0,0
-MEMBER:'instr-fuse',-1,0,128,8,3,0,0
 MEMBER:'instr-bond',-1,0,128,8,5,0,0
 MEMBER:'instr-arrow',-90,0,64,8,6,0,0
 MEMBER:'instr-bond',-1,0,128,8,6,0,0
