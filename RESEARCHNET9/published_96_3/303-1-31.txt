@@ -1,4 +1,4 @@
-SOLUTION:Chlorine and Ammonia,supersaiyanvegeta,303-1-32
+SOLUTION:Chlorine and Ammonia,supersaiyanvegeta,303-1-31
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,7,4,0,0
 MEMBER:'instr-start',90,0,32,0,4,0,0
@@ -17,7 +17,6 @@ MEMBER:'instr-input',-1,0,128,3,1,0,0
 MEMBER:'instr-arrow',90,0,64,3,2,0,0
 MEMBER:'instr-rotate',-1,0,128,3,2,0,0
 MEMBER:'instr-arrow',0,0,64,3,5,0,0
-MEMBER:'instr-arrow',180,0,64,4,1,0,0
 MEMBER:'instr-toggle',0,0,128,4,1,0,0
 MEMBER:'instr-output',-1,1,128,4,2,0,0
 MEMBER:'instr-bond',-1,0,128,4,3,0,0
