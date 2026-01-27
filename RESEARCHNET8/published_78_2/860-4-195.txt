@@ -1,4 +1,4 @@
-SOLUTION:Natural Gas,britboy3456,860-4-196,Improving on Krackor
+SOLUTION:Natural Gas,britboy3456,860-4-195,Improving on Krackor
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -229,7 +229,6 @@ MEMBER:'feature-bonder',-1,0,1,1,5,0,0
 MEMBER:'feature-bonder',-1,0,1,2,5,0,0
 MEMBER:'feature-sensor',-1,0,1,4,2,0,0
 MEMBER:'instr-arrow',90,0,64,1,4,0,0
-MEMBER:'instr-bond',-1,1,128,1,4,0,0
 MEMBER:'instr-arrow',0,0,64,1,5,0,0
 MEMBER:'instr-bond',-1,0,128,1,5,0,0
 MEMBER:'instr-arrow',90,0,64,2,3,0,0
