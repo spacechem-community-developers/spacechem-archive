@@ -1,4 +1,4 @@
-SOLUTION:Condensation,12345ieee,758-5-89,Unnamed Solution
+SOLUTION:Condensation,12345ieee,758-5-88,758-5-89?d85-85
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -229,7 +229,6 @@ MEMBER:'instr-arrow',90,0,16,2,3,0,0
 MEMBER:'instr-input',-1,1,32,2,3,0,0
 MEMBER:'instr-arrow',0,0,16,2,4,0,0
 MEMBER:'instr-grab',-1,1,32,2,4,0,0
-MEMBER:'instr-output',-1,0,32,7,3,0,0
 MEMBER:'instr-arrow',180,0,16,8,3,0,0
 MEMBER:'instr-grab',-1,2,32,8,3,0,0
 MEMBER:'instr-arrow',-90,0,16,8,4,0,0
