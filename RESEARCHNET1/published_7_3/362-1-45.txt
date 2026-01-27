@@ -1,4 +1,4 @@
-SOLUTION:Bioplastic,Andy,362-1-46
+SOLUTION:Bioplastic,Andy,362-1-45,362-1-46?d14-14
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,8,5,0,0
 MEMBER:'instr-start',0,0,32,0,1,0,0
@@ -24,7 +24,6 @@ MEMBER:'instr-sync',-1,0,128,4,2,0,0
 MEMBER:'instr-bond',-1,1,128,4,5,0,0
 MEMBER:'instr-arrow',90,0,64,5,2,0,0
 MEMBER:'instr-toggle',0,0,128,5,2,0,0
-MEMBER:'instr-arrow',180,0,64,5,5,0,0
 MEMBER:'instr-toggle',0,0,128,5,5,0,0
 MEMBER:'instr-bond',-1,0,128,6,2,0,0
 MEMBER:'instr-arrow',180,0,64,6,5,0,0
