@@ -1,4 +1,4 @@
-SOLUTION:Modern Alchemy,britboy,420-3-94,(Default Solution)
+SOLUTION:Modern Alchemy,britboy3456,420-3-93,(Default Solution)
 COMPONENT:'drag-nuclear-reactor',6,18,''
 MEMBER:'instr-start',0,0,128,5,0,0,0
 MEMBER:'instr-start',180,0,32,4,1,0,0
@@ -17,7 +17,6 @@ MEMBER:'instr-sync',-1,0,128,4,4,0,0
 MEMBER:'instr-output',-1,0,128,5,1,0,0
 MEMBER:'instr-arrow',0,0,64,6,0,0,0
 MEMBER:'instr-sync',-1,0,128,6,0,0,0
-MEMBER:'instr-output',-1,1,128,6,1,0,0
 MEMBER:'instr-split',-1,0,128,6,2,0,0
 MEMBER:'instr-split',-1,0,128,6,3,0,0
 MEMBER:'instr-arrow',-90,0,64,6,4,0,0
