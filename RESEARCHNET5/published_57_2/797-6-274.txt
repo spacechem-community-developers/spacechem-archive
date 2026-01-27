@@ -1,4 +1,4 @@
-SOLUTION:Speedster,ToughThought,797-6-275
+SOLUTION:Speedster,ToughThought,797-6-274
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -54,7 +54,6 @@ MEMBER:'instr-arrow',0,0,16,2,2,0,0
 MEMBER:'instr-grab',-1,1,32,2,2,0,0
 MEMBER:'instr-input',-1,0,32,2,3,0,0
 MEMBER:'instr-arrow',-90,0,16,2,7,0,0
-MEMBER:'instr-output',-1,0,32,3,0,0,0
 MEMBER:'instr-bond',-1,1,32,4,0,0,0
 MEMBER:'instr-sync',-1,0,32,5,2,0,0
 MEMBER:'instr-output',-1,0,32,6,0,0,0
