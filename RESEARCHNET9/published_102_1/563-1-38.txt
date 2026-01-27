@@ -1,4 +1,4 @@
-SOLUTION:Electroplating,Astronelson,563-1-39
+SOLUTION:Electroplating,Astronelson,563-1-38
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,4,6,0,0
 MEMBER:'instr-start',90,0,32,0,6,0,0
@@ -28,7 +28,6 @@ MEMBER:'instr-arrow',0,0,64,5,2,0,0
 MEMBER:'instr-toggle',180,0,128,5,2,0,0
 MEMBER:'instr-arrow',0,0,64,5,4,0,0
 MEMBER:'instr-toggle',-90,0,128,5,4,0,0
-MEMBER:'instr-arrow',0,0,64,5,5,0,0
 MEMBER:'instr-toggle',-90,0,128,5,5,0,0
 MEMBER:'instr-output',-1,0,128,6,2,0,0
 MEMBER:'instr-arrow',0,0,64,6,4,0,0
