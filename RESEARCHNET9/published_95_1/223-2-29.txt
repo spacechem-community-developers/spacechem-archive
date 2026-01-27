@@ -1,4 +1,4 @@
-SOLUTION:Really Easy,Cranel,223-2-30
+SOLUTION:Really Easy,Cranel,223-2-29
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -85,7 +85,6 @@ MEMBER:'instr-input',-1,1,32,4,4,0,0
 MEMBER:'instr-arrow',90,0,16,7,3,0,0
 MEMBER:'instr-grab',-1,2,32,7,3,0,0
 MEMBER:'instr-arrow',180,0,16,7,4,0,0
-MEMBER:'instr-output',-1,0,32,7,4,0,0
 PIPE:0,4,1
 PIPE:1,4,2
 PIPE:0,5,1
