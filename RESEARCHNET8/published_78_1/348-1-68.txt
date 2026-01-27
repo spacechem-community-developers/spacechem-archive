@@ -1,7 +1,7 @@
-SOLUTION:Airborne Aldehyde,britboy3456,357-1-68,Brit pareto 6
+SOLUTION:Airborne Aldehyde,britboy3456,348-1-68,Brit pareto 5
 COMPONENT:'custom-research-reactor',2,0,''
-MEMBER:'instr-start',0,0,128,2,3,0,0
-MEMBER:'instr-start',90,0,32,7,2,0,0
+MEMBER:'instr-start',90,0,128,5,1,0,0
+MEMBER:'instr-start',-90,0,32,7,7,0,0
 MEMBER:'feature-bonder',-1,0,1,3,4,0,0
 MEMBER:'feature-bonder',-1,0,1,3,5,0,0
 MEMBER:'feature-bonder',-1,0,1,2,5,0,0
@@ -11,7 +11,8 @@ MEMBER:'instr-input',-1,1,128,2,6,0,0
 MEMBER:'instr-arrow',0,0,64,2,7,0,0
 MEMBER:'instr-arrow',90,0,64,3,2,0,0
 MEMBER:'instr-grab',-1,1,128,3,2,0,0
-MEMBER:'instr-toggle',0,0,128,3,3,0,0
+MEMBER:'instr-arrow',0,0,64,3,3,0,0
+MEMBER:'instr-toggle',90,0,128,3,3,0,0
 MEMBER:'instr-bond',-1,1,128,3,4,0,0
 MEMBER:'instr-arrow',0,0,64,3,5,0,0
 MEMBER:'instr-bond',-1,0,128,3,5,0,0
@@ -26,15 +27,14 @@ MEMBER:'instr-arrow',180,0,64,4,6,0,0
 MEMBER:'instr-bond',-1,1,128,4,6,0,0
 MEMBER:'instr-bond',-1,1,128,4,7,0,0
 MEMBER:'instr-arrow',180,0,64,5,2,0,0
-MEMBER:'instr-output',-1,1,128,5,2,0,0
 MEMBER:'instr-arrow',-90,0,64,5,3,0,0
 MEMBER:'instr-bond',-1,0,128,5,4,0,0
 MEMBER:'instr-arrow',180,0,64,5,5,0,0
 MEMBER:'instr-bond',-1,0,128,5,6,0,0
 MEMBER:'instr-arrow',-90,0,64,5,7,0,0
 MEMBER:'instr-sync',-1,0,128,6,2,0,0
-MEMBER:'instr-arrow',0,0,64,6,3,0,0
-MEMBER:'instr-toggle',180,0,128,6,3,0,0
+MEMBER:'instr-arrow',180,0,64,6,3,0,0
+MEMBER:'instr-toggle',0,0,128,6,3,0,0
 MEMBER:'instr-arrow',-90,0,64,6,4,0,0
 MEMBER:'instr-bond',-1,1,128,6,4,0,0
 MEMBER:'instr-arrow',180,0,64,7,2,0,0
