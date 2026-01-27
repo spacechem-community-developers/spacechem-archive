@@ -1,4 +1,4 @@
-SOLUTION:Metallica,ToughThought,872-3-64
+SOLUTION:Metallica,ToughThought,872-3-63
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -84,7 +84,6 @@ MEMBER:'instr-grab',-1,1,128,5,5,0,0
 MEMBER:'instr-bond',-1,1,128,6,5,0,0
 MEMBER:'instr-arrow',180,0,64,7,0,0,0
 MEMBER:'instr-grab',-1,2,128,7,2,0,0
-MEMBER:'instr-output',-1,1,128,7,3,0,0
 MEMBER:'instr-grab',-1,1,128,7,4,0,0
 MEMBER:'instr-arrow',-90,0,64,7,5,0,0
 MEMBER:'instr-grab',-1,2,128,7,5,0,0
