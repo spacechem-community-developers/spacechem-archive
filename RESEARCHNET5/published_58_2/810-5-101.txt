@@ -1,4 +1,4 @@
-SOLUTION:Large Scale,12345ieee,810-5-102
+SOLUTION:Large Scale,12345ieee,810-5-101
 COMPONENT:'drag-advanced-reactor',4,5,''
 MEMBER:'instr-start',-90,0,128,2,2,0,0
 MEMBER:'instr-start',180,0,32,1,7,0,0
@@ -61,7 +61,6 @@ MEMBER:'instr-arrow',-90,0,64,3,1,0,0
 MEMBER:'instr-input',-1,0,128,3,1,0,0
 MEMBER:'instr-fuse',-1,0,128,4,0,0,0
 MEMBER:'instr-bond',-1,1,128,5,0,0,0
-MEMBER:'instr-bond',-1,1,128,5,1,0,0
 MEMBER:'instr-sync',-1,0,128,6,0,0,0
 MEMBER:'instr-output',-1,0,128,7,1,0,0
 MEMBER:'instr-arrow',90,0,64,8,0,0,0
