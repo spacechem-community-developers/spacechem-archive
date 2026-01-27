@@ -1,4 +1,4 @@
-SOLUTION:Master of Disguise,whoever314/gggol/12345ieee,432-6-187,By our powers combined
+SOLUTION:Master of Disguise,whoever314/gggol/12345ieee,432-6-186,By our powers combined
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -251,7 +251,6 @@ MEMBER:'instr-arrow',-90,0,16,6,5,0,0
 MEMBER:'instr-output',-1,1,32,6,5,0,0
 MEMBER:'instr-output',-1,0,32,6,7,0,0
 MEMBER:'instr-output',-1,1,32,7,5,0,0
-MEMBER:'instr-output',-1,1,32,7,6,0,0
 MEMBER:'instr-arrow',180,0,16,8,5,0,0
 MEMBER:'instr-split',-1,0,32,8,5,0,0
 MEMBER:'instr-toggle',180,0,32,8,6,0,0
