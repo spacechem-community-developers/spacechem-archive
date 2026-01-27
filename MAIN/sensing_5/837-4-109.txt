@@ -1,4 +1,4 @@
-SOLUTION:No Thanks Necessary,Spiff,837-4-112
+SOLUTION:No Thanks Necessary,Spiff,837-4-109,837-4-110?d77-77
 COMPONENT:'drag-advanced-reactor',7,3,''
 MEMBER:'instr-start',180,0,128,9,4,0,0
 MEMBER:'instr-start',0,0,32,0,5,0,0
@@ -144,9 +144,7 @@ MEMBER:'instr-bond',-1,1,32,3,5,0,0
 MEMBER:'instr-arrow',180,0,16,3,7,0,0
 MEMBER:'instr-bond',-1,1,32,3,7,0,0
 MEMBER:'instr-grab',-1,0,32,4,5,0,0
-MEMBER:'instr-arrow',90,0,16,5,0,0,0
 MEMBER:'instr-sensor',180,0,32,5,0,0,8
-MEMBER:'instr-arrow',-90,0,16,5,1,0,0
 MEMBER:'instr-bond',-1,0,32,5,1,0,0
 MEMBER:'instr-bond',-1,1,32,5,2,0,0
 MEMBER:'instr-arrow',-90,0,16,5,5,0,0
@@ -169,7 +167,6 @@ MEMBER:'feature-sensor',-1,0,1,5,0,0,0
 MEMBER:'instr-arrow',90,0,64,4,1,0,0
 MEMBER:'instr-arrow',0,0,64,4,3,0,0
 MEMBER:'instr-grab',-1,0,128,4,3,0,0
-MEMBER:'instr-arrow',180,0,64,5,1,0,0
 MEMBER:'instr-sensor',90,0,128,5,3,0,11
 MEMBER:'instr-arrow',0,0,64,5,4,0,0
 MEMBER:'instr-rotate',-1,0,128,5,4,0,0
