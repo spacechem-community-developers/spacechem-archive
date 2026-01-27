@@ -1,4 +1,4 @@
-SOLUTION:No Thanks Necessary,Spiff,791-5-131,*** 1st / 1st (5R) / Windows 7
+SOLUTION:No Thanks Necessary,Spiff,791-5-130,791-5-131?d44-44
 COMPONENT:'drag-advanced-reactor',7,3,''
 MEMBER:'instr-start',180,0,128,9,4,0,0
 MEMBER:'instr-start',0,0,32,0,5,0,0
@@ -115,7 +115,6 @@ MEMBER:'instr-grab',-1,0,128,2,3,0,0
 MEMBER:'instr-arrow',-90,0,64,2,4,0,0
 MEMBER:'instr-input',-1,0,128,2,4,0,0
 MEMBER:'instr-input',-1,1,128,3,3,0,0
-MEMBER:'instr-arrow',180,0,64,3,4,0,0
 MEMBER:'instr-sensor',0,0,128,3,4,0,8
 MEMBER:'instr-arrow',-90,0,64,3,5,0,0
 MEMBER:'instr-grab',-1,0,128,3,5,0,0
