@@ -1,4 +1,4 @@
-SOLUTION:Smelting Iron,Zemyla,818-4-99
+SOLUTION:Smelting Iron,Zemyla,818-4-97,818-4-98?d74-74
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -189,7 +189,6 @@ MEMBER:'instr-arrow',-90,0,64,5,5,0,0
 MEMBER:'instr-grab',-1,1,128,5,5,0,0
 MEMBER:'instr-arrow',0,0,64,6,1,0,0
 MEMBER:'instr-output',-1,1,128,6,1,0,0
-MEMBER:'instr-bond',-1,0,128,6,2,0,0
 MEMBER:'instr-output',-1,0,128,6,3,0,0
 MEMBER:'instr-bond',-1,1,128,6,4,0,0
 MEMBER:'instr-toggle',-90,0,128,6,5,0,0
@@ -208,7 +207,6 @@ MEMBER:'instr-arrow',-90,0,16,1,2,0,0
 MEMBER:'instr-grab',-1,1,32,2,0,0,0
 MEMBER:'instr-grab',-1,2,32,3,0,0,0
 MEMBER:'instr-grab',-1,1,32,4,0,0,0
-MEMBER:'instr-output',-1,0,32,6,2,0,0
 MEMBER:'instr-arrow',90,0,16,7,0,0,0
 MEMBER:'instr-bond',-1,1,32,7,0,0,0
 MEMBER:'instr-sync',-1,0,32,7,1,0,0
