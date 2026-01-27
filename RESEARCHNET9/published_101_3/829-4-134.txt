@@ -1,4 +1,4 @@
-SOLUTION:Unpleasant Dreams,12345ieee,829-4-136,stealing from sboparen
+SOLUTION:Unpleasant Dreams,12345ieee,829-4-134,829-4-135?d127-127
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -20,7 +20,6 @@ MEMBER:'instr-grab',-1,1,128,3,5,0,0
 MEMBER:'instr-arrow',-90,0,64,3,6,0,0
 MEMBER:'instr-input',-1,1,128,3,6,0,0
 MEMBER:'instr-rotate',-1,0,128,4,4,0,0
-MEMBER:'instr-output',-1,1,128,4,6,0,0
 MEMBER:'instr-arrow',90,0,64,5,4,0,0
 MEMBER:'instr-grab',-1,2,128,5,4,0,0
 MEMBER:'instr-arrow',0,0,64,5,5,0,0
@@ -302,7 +301,6 @@ MEMBER:'instr-arrow',0,0,16,1,2,0,0
 MEMBER:'instr-grab',-1,1,32,1,2,0,0
 MEMBER:'instr-arrow',0,0,16,3,1,0,0
 MEMBER:'instr-arrow',-90,0,16,3,2,0,0
-MEMBER:'instr-fuse',-1,0,32,3,2,0,0
 MEMBER:'instr-bond',-1,0,32,4,1,0,0
 MEMBER:'instr-rotate',-1,0,32,5,1,0,0
 MEMBER:'instr-bond',-1,0,32,6,1,0,0
