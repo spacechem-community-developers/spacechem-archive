@@ -1,4 +1,4 @@
-SOLUTION:Carbon Products,12345ieee,2130-3-101,Unnamed Solution
+SOLUTION:Carbon Products,12345ieee,2130-3-100,Unnamed Solution
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,2,0
@@ -87,7 +87,6 @@ MEMBER:'instr-arrow',-90,0,16,2,2,0,0
 MEMBER:'instr-toggle',0,0,32,2,2,0,0
 MEMBER:'instr-toggle',90,0,32,5,1,0,0
 MEMBER:'instr-arrow',0,0,16,5,2,0,0
-MEMBER:'instr-bond',-1,0,32,5,2,0,0
 MEMBER:'instr-arrow',180,0,16,6,1,0,0
 MEMBER:'instr-split',-1,0,32,6,1,0,0
 MEMBER:'instr-arrow',90,0,16,6,2,0,0
