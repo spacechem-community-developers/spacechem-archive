@@ -1,4 +1,4 @@
-SOLUTION:Radiation Treatment,Zemyla,842-2-60
+SOLUTION:Radiation Treatment,Zemyla,842-2-59,842-2-60?d27-27
 COMPONENT:'drag-arbitrary-input',3,13,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -49,7 +49,6 @@ MEMBER:'instr-arrow',0,0,16,3,1,0,0
 MEMBER:'instr-bond',-1,0,32,3,1,0,0
 MEMBER:'instr-arrow',-90,0,16,3,2,0,0
 MEMBER:'instr-input',-1,0,32,3,2,0,0
-MEMBER:'instr-bond',-1,1,32,4,4,0,0
 MEMBER:'instr-input',-1,0,32,5,4,0,0
 MEMBER:'instr-arrow',90,0,16,6,1,0,0
 MEMBER:'instr-rotate',-1,1,32,6,2,0,0
