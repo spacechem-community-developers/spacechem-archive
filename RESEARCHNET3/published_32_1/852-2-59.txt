@@ -1,4 +1,4 @@
-SOLUTION:Hydroxides,12345ieee,852-2-60,2R Low C
+SOLUTION:Hydroxides,12345ieee,852-2-59,852-2-60?d31-31
 COMPONENT:'drag-arbitrary-input',1,5,''
 PIPE:0,2,1
 PIPE:0,3,1
@@ -118,7 +118,6 @@ MEMBER:'instr-arrow',0,0,64,0,1,0,0
 MEMBER:'instr-grab',-1,1,128,0,3,0,0
 MEMBER:'instr-arrow',-90,0,64,0,4,0,0
 MEMBER:'instr-bond',-1,1,128,0,4,0,0
-MEMBER:'instr-grab',-1,1,128,1,1,0,0
 MEMBER:'instr-rotate',-1,1,128,2,1,0,0
 MEMBER:'instr-input',-1,0,128,3,1,0,0
 MEMBER:'instr-input',-1,0,128,3,4,0,0
