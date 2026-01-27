@@ -1,4 +1,4 @@
-SOLUTION:Upscale Downscale,whoever314,766-1-111
+SOLUTION:Upscale Downscale,whoever314,766-1-110
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',90,0,128,9,4,0,0
 MEMBER:'instr-start',0,0,32,1,1,0,0
@@ -85,7 +85,6 @@ MEMBER:'instr-bond',-1,0,32,3,3,0,0
 MEMBER:'instr-arrow',90,0,16,3,4,0,0
 MEMBER:'instr-bond',-1,1,32,3,4,0,0
 MEMBER:'instr-arrow',0,0,16,3,5,0,0
-MEMBER:'instr-bond',-1,1,32,3,5,0,0
 MEMBER:'instr-rotate',-1,0,32,3,6,0,0
 MEMBER:'instr-sync',-1,0,32,3,7,0,0
 MEMBER:'instr-output',-1,1,32,4,0,0,0
