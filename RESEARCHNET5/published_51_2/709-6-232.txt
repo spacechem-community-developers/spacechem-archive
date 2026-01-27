@@ -1,4 +1,4 @@
-SOLUTION:Breakdown,ToughThought,709-6-233
+SOLUTION:Breakdown,ToughThought,709-6-232,709-6-233?d59-59
 COMPONENT:'drag-superbonder-reactor',4,5,''
 MEMBER:'instr-start',-90,0,128,2,2,0,0
 MEMBER:'instr-start',0,0,32,1,0,0,0
@@ -92,7 +92,6 @@ MEMBER:'instr-arrow',-90,0,64,7,6,0,0
 MEMBER:'instr-sync',-1,0,128,7,6,0,0
 MEMBER:'instr-arrow',0,0,16,0,5,0,0
 MEMBER:'instr-arrow',-90,0,16,0,6,0,0
-MEMBER:'instr-bond',-1,1,32,0,6,0,0
 MEMBER:'instr-arrow',0,0,16,1,5,0,0
 MEMBER:'instr-bond',-1,1,32,1,5,0,0
 MEMBER:'instr-output',-1,0,32,1,6,0,0
