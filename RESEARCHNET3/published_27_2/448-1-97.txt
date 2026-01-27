@@ -1,4 +1,4 @@
-SOLUTION:Life: Cytosine,gggol,448-1-98
+SOLUTION:Life: Cytosine,gggol,448-1-97,448-1-98?d79-79
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',0,0,128,0,1,0,0
 MEMBER:'instr-start',-90,0,32,2,6,0,0
@@ -91,7 +91,6 @@ MEMBER:'instr-arrow',90,0,16,3,3,0,0
 MEMBER:'instr-bond',-1,0,32,3,3,0,0
 MEMBER:'instr-input',-1,1,32,3,4,0,0
 MEMBER:'instr-bond',-1,0,32,3,5,0,0
-MEMBER:'instr-bond',-1,0,32,3,6,0,0
 MEMBER:'instr-arrow',180,0,16,3,7,0,0
 MEMBER:'instr-grab',-1,0,32,3,7,0,0
 MEMBER:'instr-fuse',-1,0,32,4,2,0,0
