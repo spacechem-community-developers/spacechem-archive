@@ -1,4 +1,4 @@
-SOLUTION:Sortite,gggol/ToughThought,287-1-62
+SOLUTION:Sortite,gggol/ToughThought,287-1-61,287-1-62?d49-49
 COMPONENT:'custom-research-reactor',2,0,''
 MEMBER:'instr-start',180,0,128,8,3,0,0
 MEMBER:'instr-start',-90,0,32,0,6,0,0
@@ -62,7 +62,6 @@ MEMBER:'instr-rotate',-1,0,32,4,4,0,0
 MEMBER:'instr-arrow',90,0,16,5,2,0,0
 MEMBER:'instr-swap',-1,0,32,5,4,0,0
 MEMBER:'instr-arrow',0,0,16,5,6,0,0
-MEMBER:'instr-swap',-1,0,32,5,6,0,0
 MEMBER:'instr-arrow',90,0,16,6,1,0,0
 MEMBER:'instr-arrow',180,0,16,6,2,0,0
 MEMBER:'instr-bond',-1,1,32,6,2,0,0
